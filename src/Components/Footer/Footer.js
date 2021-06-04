@@ -5,7 +5,7 @@ import './Footer.css'
 const Footer = () => (
     <div className="footer">
                 <ul className="icon-bar">
-                    <a href="https://www.instagram.com/"target="_blank" rel="noopener noreferrer">
+                    <a href="https://www.instagram.com/strattonterrace//"target="_blank" rel="noopener noreferrer">
                     <i className="fab fa-instagram"></i>
                     </a> 
                 {}
@@ -13,11 +13,11 @@ const Footer = () => (
                     <i className="fab fa-google"></i>
                     </a>
                 {}
-                    <a href="https://www.facebook.com/" target="_blank" rel="noopener noreferrer">
+                    <a href="https://www.facebook.com/Stratton-Terrace-Marketing-110106154616137" target="_blank" rel="noopener noreferrer">
                     <i className="fab fa-facebook"></i>
                     </a>
                     {}
-                    <a href="https://twitter.com/" target="_blank" rel="noopener noreferrer">
+                    <a href="https://twitter.com/StrattonTerrace/" target="_blank" rel="noopener noreferrer">
                     <i className="fab fa-twitter"></i>
                     </a>
                 </ul>
