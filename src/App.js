@@ -2,6 +2,7 @@ import './App.css';
 import { BrowserRouter as Router, Switch, Route } from 'react-router-dom';
 import Header from './Components/Header/Header'
 import Footer from './Components/Footer/Footer'
+import TM from './Assets/Logo/Theme.jpg'
 import Theme from './Components/Theme/Theme';
 import Home from './Pages/Home/Home'
 import Contact from './Pages/Contact/Contact'
@@ -10,6 +11,12 @@ import Solutions from './Pages/Solutions/Solutions'
 
 function App() {
   return (
+       <div style={{
+      backgroundImage: `url(${TM})`,
+      backgroundPosition: 'center',
+      backgroundSize: 'cover',
+      backgroundRepeat: 'no-repeat',
+    }}>
     <Router>
       <Header />
   <Theme />
@@ -22,7 +29,7 @@ function App() {
       </Switch>
       <Footer />
     </Router>
-
+    </div>
   );
     }
 

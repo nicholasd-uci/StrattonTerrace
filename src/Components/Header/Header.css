@@ -56,12 +56,15 @@
   }
   
   @media (max-width:500px){
-    .img{
+    #header__home > img{
         display: none;
       }   
       .header__home > img{
         display: none;
+        visibility:hidden;
      }
      .navbar-light .navbar-toggler{
-     }
+      margin-top: 0px;
+      background-color: white;
+    }
 }
