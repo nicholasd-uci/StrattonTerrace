@@ -76,6 +76,7 @@ transition: .5s ease;
     }
     .services__content__image > img{
         height:40px;
+        opacity: 0;
     }
     .services__content__image img:nth-child(1) {
         /* background-color: #f7cf36; */
@@ -83,15 +84,14 @@ transition: .5s ease;
         align-items: center;
         border-bottom: none;
         opacity: 1;
-        
-       
-
+        padding: -60px;
+        height: 60px;
+        width: 100px;
+        margin: -15px;
     }
+
     .services__content0{
-        display: flex;
-        justify-content: space-evenly;
         border-radius: 15px 15px 0px 0px;
-        padding:30px;
         padding-top:10px;
         width: 100%;
         margin-top: 50px; 

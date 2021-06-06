@@ -21,6 +21,9 @@
   font-weight: bold;
   padding: 50px;
   }
+  .row{
+
+   }
   
   .form > input,
   textarea {
@@ -28,7 +31,7 @@
     border-radius: 3px;
     margin-bottom: 20px;
     border: 1px solid black;
-    background: #fff;
+
     font-size: 16px;
     color: black;
     outline: none;
@@ -130,12 +133,10 @@
       border: none;
       outline: none;
     }
-    h2{
-     display: none;
+    .Contact__name{
+      margin:0px;
+       font-size:20px;
+    }
   
-    }
-    p{
-      display: none;
-    }
     
   }
