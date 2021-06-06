@@ -1,6 +1,5 @@
 import React from 'react'
 import './Home.css'
-import 'react-responsive-carousel/lib/styles/carousel.min.css' 
 // import Picture from '../../Assets/Pictures/Picture.jpg'
 
 
