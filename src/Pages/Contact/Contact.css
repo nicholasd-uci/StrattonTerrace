@@ -1,5 +1,6 @@
 .contact{
     background-color: #fafafa;
+    opacity: 0.9;
     padding: 10px 80px;
 }
 .contact__form {
@@ -79,33 +80,32 @@
     text-align: center;
     margin-top: 50px;
     padding-bottom: 20px;
-
   }
+  
   p{
     text-align: center!important;
     padding: 0px;
+  }
+  .iSDZ5t7E7z{
+    background-color: black;
   }
 
   
   @media (max-width:500px){
     .contact{
       background-color: #fafafa;
-      margin-top: -140px; 
+      opacity: 0.75;
       padding:10px;
-      display: flex;
       align-items: center;
     }
     .contact__form {
-      height: 100vh;
-      display: flex;
-      flex-direction: column;
+      height: 60vh;
       justify-content: center;
       width: 300px;
-      margin: 0 auto;
-      height: 100vh;
+      margin-bottom: 20px;
+
     }
     .contact__form > h1 {
-  
       margin-bottom: 10px;
     }
     .form > input,
@@ -121,14 +121,11 @@
     }
     .contact__form > button {
       padding: 10px;
-      border: none;
-      background-color: black;
+      background-color: rgb(216, 188, 32);
       font-weight: 200;
       font-size: 15px;
       border-radius: 3px;
-      color: #fff;
-      cursor: pointer;
-      transition: 0.2s ease-in-out;
+      color: black;
       margin-top: 5px;
       border: none;
       outline: none;

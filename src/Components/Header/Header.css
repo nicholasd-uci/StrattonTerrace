@@ -11,7 +11,6 @@
     background-color: #000000;
     color: white;
     display: flex;
-
  }
 
  #header__home > img{
@@ -56,6 +55,13 @@
   }
   
   @media (max-width:500px){
+
+    .navbar {
+    color: white;
+    display: flex;
+  
+
+ }
     #header__home > img{
         display: none;
       }   
@@ -67,4 +73,18 @@
       margin-top: 0px;
       background-color: white;
     }
+    .navbar-light .navbar-nav .nav-link {
+      color: white;
+      font-weight: bold;
+      font-size: 15px;
+      align-items: center;
+    }
+    .nav-link {
+      color: rgba(108, 108, 108, 0.5);
+      font-family: 'Proza Libre', sans-serif;
+      font-size: medium;
+      display: flex;
+      padding-right: 20px;
+      justify-content: flex-end;
+  }
 }

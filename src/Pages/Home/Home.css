@@ -1,5 +1,6 @@
 .home{
-   background-color: #fafafa;
+   background-color: black;
+   opacity: 0.6;
    padding-top: 100px;
    padding-bottom: 140px;
    font-size: 45px;
@@ -8,7 +9,8 @@
 }
 @media (max-width:500px){
    .home{
-      background-color: #fafafa;
+      background-color: black;
+      opacity: 0.6;
       padding-top: 10px;
       padding-bottom: 260px;
       font-size: 25px;
