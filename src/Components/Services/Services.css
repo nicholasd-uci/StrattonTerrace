@@ -22,7 +22,6 @@
 .services__content2{
     display: flex;
     justify-content: space-evenly;
-
     padding:30px;
     padding-top:20px;
     width: 100%;
@@ -85,9 +84,9 @@ transition: .5s ease;
         border-bottom: none;
         opacity: 1;
         padding: -60px;
-        height: 60px;
-        width: 100px;
-        margin: -15px;
+        height: 80px;
+        width: 140px;
+        margin: -35px;
     }
 
     .services__content0{
