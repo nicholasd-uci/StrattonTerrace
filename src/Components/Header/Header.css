@@ -88,3 +88,24 @@
       justify-content: flex-end;
   }
 }
+@media (min-width: 540px){
+
+  .navbar {
+    color: white;
+    display: flex;
+   }
+  .nav-link {
+    color: rgba(108, 108, 108, 0.5);
+    font-family: 'Proza Libre', sans-serif;
+    font-size: medium;
+    display: flex;
+    padding-right: 20px;
+    justify-content: flex-end;
+}
+.navbar-light .navbar-nav .nav-link {
+  color: white;
+  font-weight: bold;
+  font-size: 25px;
+  align-items: center;
+}
+}

@@ -21,9 +21,7 @@
   font-weight: bold;
   padding: 50px;
   }
-  .row{
 
-   }
   
   .form > input,
   textarea {
@@ -135,7 +133,7 @@
     }
     .Contact__name{
       margin:0px;
-       font-size:20px;
+      font-size:20px;
     }
   
     
