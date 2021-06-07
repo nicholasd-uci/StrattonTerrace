@@ -78,7 +78,6 @@ transition: .5s ease;
         opacity: 0;
     }
     .services__content__image img:nth-child(1) {
-        /* background-color: #f7cf36; */
         border-radius: 10px;
         align-items: center;
         border-bottom: none;
@@ -99,7 +98,7 @@ transition: .5s ease;
         text-align: center !important;
     }
   } 
-  @media (min-width: 540px){
+  @media (max-width: 600px) and (min-width: 540px) {
     .services__content{
         margin-top: 50px; 
         padding:0px;
@@ -112,7 +111,6 @@ transition: .5s ease;
             opacity: 0;
         }
         .services__content__image img:nth-child(1) {
-            /* background-color: #f7cf36; */
             border-radius: 10px;
             align-items: center;
             border-bottom: none;

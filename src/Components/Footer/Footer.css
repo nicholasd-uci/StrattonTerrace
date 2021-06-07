@@ -57,7 +57,7 @@ a{
     
   }
   }
-  @media (min-width: 540px){
+  @media (max-width: 600px) and (min-width: 540px){
     .POWERED{
       visibility: hidden;
     }
