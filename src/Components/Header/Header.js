@@ -18,13 +18,10 @@ const Header = (props) => {
             <NavLink href="/">Home</NavLink>
             </NavItem>
             <NavItem>
-              <NavLink href="#">Solutions</NavLink>
+              <NavLink href="/Solutions">Solutions</NavLink>
             </NavItem>
             <NavItem>
-              <NavLink href="#">Vision</NavLink>
-            </NavItem>
-            <NavItem>
-              <NavLink href="#">Book Online</NavLink>
+              <NavLink href="/vision">Vision</NavLink>
             </NavItem>
             <NavItem>
             <NavLink href="/contact">Contact</NavLink>

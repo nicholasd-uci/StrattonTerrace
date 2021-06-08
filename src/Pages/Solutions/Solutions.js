@@ -6,7 +6,7 @@ function Solutions() {
 
     return (
         <div className="Solutions"> 
-    <h1>Solutions MEDIA STRATEGY IMPLEMENTATION</h1>
+    <h1>SOLUTIONS</h1>
 
 </div>
     )

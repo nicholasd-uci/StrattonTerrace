@@ -7,6 +7,7 @@ import Theme from './Components/Theme/Theme';
 import Home from './Pages/Home/Home'
 import Contact from './Pages/Contact/Contact'
 import Solutions from './Pages/Solutions/Solutions'
+import Vision from './Pages/Vision/Vision'
 
 
 function App() {
@@ -25,7 +26,7 @@ function App() {
         <Route path='/' exact component={Home} />
         <Route path='/contact' exact component={Contact} />
         <Route path='/solutions' exact component={Solutions} />
-    
+        <Route path='/vision' exact component={Vision} />
       </Switch>
       <Footer />
     </Router>

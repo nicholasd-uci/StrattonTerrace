@@ -1,18 +1,15 @@
 import React from 'react'
 import './Home.css'
-import Picture from '../../Assets/Pictures/Picture1.jpg'
+import Cards from '../../Components/Cards/Cards';
+import HeroSection from '../../Components/HeroSection/HeroSection';
 
 
 function Home() {
     return (
-        <div className="home">
-        <div className="home__mainPicture">
-            
-       <img src={Picture} alt="main_image"/>
- 
-       </div>
-
-    </div>
+  <>
+    <HeroSection />
+      <Cards />
+  </>
     )
 }
 
