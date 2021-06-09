@@ -12,12 +12,14 @@ import Services from './Components/Services/Services'
 
 function App() {
   return (
-       <div style={{
+       <div 
+       style={{
       backgroundImage: `url(${TM})`,
       backgroundPosition: 'center',
       backgroundSize: 'cover',
       backgroundRepeat: 'no-repeat',
-    }}>
+    }}
+    >
     <Router>
       <Header />
   <Services />
