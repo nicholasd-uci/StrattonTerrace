@@ -3,8 +3,9 @@
   background: #fff;
 }
 
-h1 {
+.cards__h1 {
   text-align: center;
+
 }
 
 .cards__container {
@@ -65,8 +66,8 @@ h1 {
   max-width: calc((100%) - 60px);
   font-size: 12px;
   font-weight: 700;
-  color: #fff;
-  background-color: #1f98f4;
+  color: #000000;
+  background-color: gold;
   box-sizing: border-box;
 }
 
@@ -94,7 +95,7 @@ h1 {
 }
 
 .cards__item__text {
-  color: #252e48;
+  color: #000000;
   font-size: 18px;
   line-height: 24px;
 }
@@ -102,13 +103,16 @@ h1 {
 @media only screen and (min-width: 1200px) {
   .content__blog__container {
     width: 84%;
+    
   }
+ 
 }
 
 @media only screen and (min-width: 1024px) {
   .cards__items {
     display: flex;
   }
+  
 }
 
 @media only screen and (max-width: 1024px) {
