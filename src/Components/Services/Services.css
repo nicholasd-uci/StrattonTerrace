@@ -5,7 +5,7 @@
     padding:30px;
     padding-top:10px;
     width: 100%;
-    margin-top: 250px; 
+    /* margin-top: 250px;  */
     border-top: solid 4px #f7cf36;
     Font-size: 50px;
     Font-weight:bold;
@@ -67,7 +67,7 @@ transition: .5s ease;
 
 @media (max-width:500px){
     .services__content{
-    margin-top: 50px; 
+    /* margin-top: 50px;  */
     padding:0px;
     background-color:#FAFAFA;
     display: flex;

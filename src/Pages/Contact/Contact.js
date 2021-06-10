@@ -8,7 +8,7 @@ export default function Contact() {
     function sendEmail(e) {
       e.preventDefault();
 
-      emailjs.sendForm('', '', e.target, '')
+      emailjs.sendForm('stratton', 'template_uwj26xt', e.target, 'user_RUuKdJ2GeHqbg1RhTvRbp')
         .then((result) => {
             console.log(result.text);
         }, (error) => {
