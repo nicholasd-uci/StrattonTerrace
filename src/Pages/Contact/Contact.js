@@ -18,11 +18,10 @@ export default function Contact() {
     }
     return (
         <div className="contact">
-              <h1 className="contact__Header">Contact Us</h1>
                 <div className="row">
     <div className="col-12 col-lg-6 pl-lg-0 pr-lg-6">
     <form className="contact__form" onSubmit={sendEmail}>
-    <h1>Contact Us</h1>
+    <h1 contact__form>Contact Us</h1>
             <label> Name </label>
             <input type="text" className="form-control" placeholder="Name" name="name"/>
             <label> Email </label>
@@ -39,7 +38,7 @@ export default function Contact() {
             </div>
          
     <div className="col-12 col-lg-6 pl-lg-0 pr-lg-6">
-    <InlineWidget url="https://calendly.com/stratton-terrace-marketing/stratton-terrace-marketing" />
+    <InlineWidget url="https://calendly.com/stratton-terrace/30min" />
 
         </div>
 
