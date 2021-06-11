@@ -1,9 +1,15 @@
+.services{
+    background-image: url('../../Assets/Logo/Theme.jpg');
+    background-Position: center;
+    background-Size: cover;
+    background-Repeat: no-repeat;
+}
 .services__content0{
     display: flex;
     justify-content: space-evenly;
     border-radius: 15px 15px 0px 0px;
     padding:30px;
-    padding-top:10px;
+    padding-top:30px;
     width: 100%;
     /* margin-top: 250px;  */
     border-top: solid 4px #f7cf36;
@@ -37,13 +43,13 @@
     border: none;
 }
 
-.services__h3{
+/* .services__h3{
 padding-top:5px;
 text-align: center;
 color: black;
 outline: none;
 border: none;
-}
+} */
 
 .services__content__image {
     transition: .5s ease;

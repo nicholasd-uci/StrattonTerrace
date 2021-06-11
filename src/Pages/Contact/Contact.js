@@ -7,7 +7,6 @@ export default function Contact() {
 
     function sendEmail(e) {
       e.preventDefault();
-
       emailjs.sendForm('stratton', 'template_uwj26xt', e.target, 'user_RUuKdJ2GeHqbg1RhTvRbp')
         .then((result) => {
             console.log(result.text);
@@ -18,6 +17,7 @@ export default function Contact() {
     }
     return (
         <div className="contact">
+            <div className="contact__background">
                 <div className="row">
     <div className="col-12 col-lg-6 pl-lg-0 pr-lg-6">
     <form className="contact__form" onSubmit={sendEmail}>
@@ -35,17 +35,15 @@ export default function Contact() {
         - SEND -
       </button>
             </form>
-            </div>
-         
+            </div>  
     <div className="col-12 col-lg-6 pl-lg-0 pr-lg-6">
     <InlineWidget url="https://calendly.com/stratton-terrace/30min" />
-
         </div>
-
             </div>
             <h2 className="Contact__name">STRATTON TERRACE MARKETING</h2>
             <p>Email: stratton.terraceInfo@gmail.com</p>
             <p>Mob.: ‪(657) 877-9300</p>
+             </div>
              </div>
     )
 }

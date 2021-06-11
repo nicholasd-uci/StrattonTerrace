@@ -1,18 +1,16 @@
 .App {
   text-align: center;
-}
+  }
 
-
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
-}
+/* .App__background {
+  background-image: url('./Assets//Logo/Theme.jpg');
+  background-Position: center;
+  background-Size: cover;
+  background-Repeat: no-repeat;
+  z-index: -100 !important;
+} */
 
 @media (prefers-reduced-motion: no-preference) {
-  /* .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  } */
-  
   .App-header {
 
     min-height: 100vh;
