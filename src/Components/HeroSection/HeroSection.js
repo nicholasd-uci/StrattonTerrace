@@ -1,7 +1,7 @@
 import React from 'react';
 import { Button } from '../Button/Button';
 import './HeroSection.css';
-import background from '../../Components/videos/video-1.mp4'
+import background from '../../Assets/videos/video-1.mp4'
 
 function HeroSection() {
   return (
