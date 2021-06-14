@@ -35,6 +35,9 @@
     color: black;
     outline: none;
   }
+  .contact__P{
+    padding-bottom: 40px;
+   }
   
   .contact__form > input:focus,
   textarea:focus {
