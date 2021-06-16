@@ -19,7 +19,7 @@ const Header = (props) => {
         >
           
 <Navbar light expand="md">
-<NavLink id="header__home" href="/"><img src={Logo} alt="main_image"/></NavLink>
+<NavLink id="header__home" href="/"><img src={Logo} alt="Website"/></NavLink>
         <NavbarToggler color="white"onClick={toggle} />
         <Collapse isOpen={isOpen} navbar>
           <Nav className="header__Navbar" navbar>

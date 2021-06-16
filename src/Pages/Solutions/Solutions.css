@@ -5,20 +5,71 @@
     background-Repeat: no-repeat;
 }
 
-
 .Solutions__background{
     background-color: rgba(255, 255, 255, 0.911);
-    opacity: 0.9;
+    width: 100%;
+    padding-top: 60px;
+    padding-bottom: 60px;
+}
+.Solutions__icons{
+    height: 80px;
+
 }
 
-h1{
-    text-align: center;
+#Solutions__R1__col1{
+    background-color: darkgray;
+    padding: 60px;
 
 }
-#IMG12{
-    margin: 60px;
-    height: 400px;
-    width: 700px;
-    box-shadow: 5px 5px 20px -5px black;
-    border-radius: 25px;
+
+
+#Solutions__R1__col1:hover{
+    background-color: rgba(228, 213, 9, 0.37);
 }
+
+#Solutions__R1__col2{
+    background-color: lightgray;
+    padding: 60px;
+
+}
+#Solutions__R1__col2:hover{
+    background-color: rgba(228, 213, 9, 0.37);
+}
+#Solutions__R1__col3{
+    background-color: darkgray;
+    padding: 60px;
+
+}
+#Solutions__R1__col3:hover{
+    background-color: rgba(228, 213, 9, 0.37);
+}
+
+
+#Solutions__R2__col1{
+    background-color: lightgray;
+    padding: 60px;
+
+}
+#Solutions__R2__col1:hover{
+    background-color: rgba(228, 213, 9, 0.37);
+}
+
+#Solutions__R2__col2{
+    background-color: darkgray;
+    padding: 60px;
+
+}
+#Solutions__R2__col2:hover{
+    background-color: rgba(228, 213, 9, 0.37);
+}
+#Solutions__R2__col3{
+    background-color: lightgray;
+    padding: 60px;
+
+}
+#Solutions__R2__col3:hover{
+    background-color: rgba(228, 213, 9, 0.37);
+}
+
+
+
