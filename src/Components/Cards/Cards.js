@@ -11,13 +11,13 @@ function Cards() {
           <ul className='cards__items'>
             <CardItem
               src='images/img-9.jpg'
-              text='Explore the hidden waterfall deep inside the Amazon Jungle'
+              text='You Cant Start Marketing Without A Website'
               label='Website Design'
               path='/solutions'
             />
             <CardItem
               src='images/img-2.jpg'
-              text='Travel through the Islands of Bali in a Private Cruise'
+              text='If You Have Anything To Sell Do It Online'
               label='E-Commerce'
               path='/solutions'
             />
@@ -25,19 +25,19 @@ function Cards() {
           <ul className='cards__items'>
             <CardItem
               src='images/img-3.jpg'
-              text='Set Sail in the Atlantic Ocean visiting Uncharted Waters'
+              text='If Client Can Not Find YOU Online You Need US !'
               label='SEO'
               path='/solutions'
             />
             <CardItem
               src='images/img-4.jpg'
-              text='Experience Football on Top of the  Mountains'
+              text='Experience Best Of Marketing'
               label='Advertising '
               path='/solutions'
             />
             <CardItem
               src='images/img-8.jpg'
-              text='Ride through the Sahara Desert on a guided camel tour'
+              text='We Will Take Care Of It For You'
               label='Website hosting'
               path='/solutions'
             />

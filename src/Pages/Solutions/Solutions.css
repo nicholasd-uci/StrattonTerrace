@@ -1,16 +1,40 @@
 .Solutions{
-    background-image: url('../../Assets/Logo/Theme.jpg');
     background-Position: center;
     background-Size: cover;
     background-Repeat: no-repeat;
 }
 
 .Solutions__background{
-    background-color: rgba(255, 255, 255, 0.911);
     width: 100%;
-    padding-top: 60px;
-    padding-bottom: 80px;
+    padding-bottom: 100px;
 }
+.Solutions-container {
+    margin: 0;
+    height: 80vh;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    object-fit: contain;
+    padding-bottom: 99px;
+    margin-bottom: 41px;
+    
+  }
+
+  .Solutions-container > h1 {
+    color: #fff;
+    font-size: 100px;
+    margin-top: -100px;
+  }
+  
+  .Typewriter {
+    margin-top: 8px;
+    color: #fff;
+    font-size: 32px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande',
+      'Lucida Sans', Arial, sans-serif;
+  }
 
 .Solutions__h1{
     padding:25px;
@@ -82,3 +106,21 @@
 
 
 
+@media screen and (max-width: 960px) {
+    .Solutions-container > h1 {
+      font-size: 70px;
+      margin-top: -150px;
+    }
+  }
+  
+  @media screen and (max-width: 768px) {
+    .Solutions-container > h1 {
+      font-size: 50px;
+      margin-top: -100px;
+    }
+  
+    .Solutions-container > p {
+      font-size: 30px;
+    }
+  }
+  

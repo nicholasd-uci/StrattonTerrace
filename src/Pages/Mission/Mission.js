@@ -18,7 +18,7 @@ function Mission() {
               }}>
             < source src={background} type="video/mp4" />
                 </video>
-                <h1>ADVENTURE AWAITS</h1>
+                <h1>OUR MISSION</h1>
                 <Typewriter 
          onInit = {(typewriter) => {
            typewriter

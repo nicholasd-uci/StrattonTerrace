@@ -18,7 +18,6 @@ import Website_text from '../../Assets/services-logo-text/Website-design-Text.pn
 import hosting from '../../Assets/services-logo/hosting.png'
 import hosting_text from '../../Assets/services-logo-text/WEBSITE-HOSTING-Text.png'
 
-
 function Services() {
     return (
         <div className="services">
@@ -56,9 +55,9 @@ function Services() {
          />
          </div>
          <div className="services__content1">
-         <a href="/ads" className="services__content__image" rel="ads">
-             <img src={ads_text} alt="ads_text"/>
-             <img src={ads} alt="ads"/>      
+             <a href="/Website" className="services__content__image" rel="Website">
+             <img src={Website_text} alt="Website_text"/>
+             <img src={Website} alt="Website"/>
              </a>
              <a href="/nonprofit" className="services__content__image" rel="ecommerce">
              <img src={NONPROFIT_text} alt="NONPROFIT_text"/>
@@ -82,9 +81,9 @@ function Services() {
              <img src={social_text} alt="social_text"/>
              <img src={social} alt="social"/>
              </a>
-             <a href="/Website" className="services__content__image" rel="Website">
-             <img src={Website_text} alt="Website_text"/>
-             <img src={Website} alt="Website"/>
+             <a href="/ads" className="services__content__image" rel="ads">
+             <img src={ads_text} alt="ads_text"/>
+             <img src={ads} alt="ads"/>      
              </a>
              <a href="/hosting" className="services__content__image" rel="hosting">
              <img src={hosting_text} alt="hosting_text"/>

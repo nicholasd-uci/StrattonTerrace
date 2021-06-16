@@ -1,6 +1,8 @@
 import React from 'react'
 import { Row, Col } from 'reactstrap';
 import './Solutions.css'
+import Video1 from '../../Assets/videos/video-3.mp4'
+import Typewriter from 'typewriter-effect';
 import website from '../../Assets/Icons/Website.png'
 import Analytics from '../../Assets/Icons/Analytics.png'
 import Email from '../../Assets/Icons/Email.png'
@@ -14,10 +16,33 @@ function Solutions() {
     return (
       <div className="Solutions">
         <div className="Solutions__background"> 
-        <h1 className="Solutions__h1"> 
-        SOLUTIONS
-        </h1>
-        <p className="Solutions__p1">We provide full stack digital marketing solutions.</p>
+        <div className='Solutions-container'>
+        <video autoPlay loop muted 
+                style={{
+                  position: 'absolute',
+                  width:'100%',
+                  height: '100%',
+                  objectFit: 'cover',
+                  transform: 'translate(- 50%, -50%)',
+                  zIndex: '-1'           
+              }}>
+            < source src={Video1} type="video/mp4" />
+                </video>
+                <h1>SOLUTIONS</h1>
+                <Typewriter 
+         onInit = {(typewriter) => {
+           typewriter
+           .typeString('<span style="color: #FAFAFA;"></span>')
+           .pauseFor(1000)
+           .deleteAll()
+           .typeString('<span style="color: #FAFAFA;">We Provide Full Stack Digital Marketing Solutions</span>')
+           .pauseFor(1000)
+           .deleteAll()
+           .typeString('<span style="color: #f7cf36;">STRATTON TERRACE MARKETING</span>')
+           .start()
+         }}
+         />           
+          </div>
        <Row>
         <Col id="Solutions__R1__col1" xl="4">
       <img className="Solutions__icons" src={website} alt="website"/>
