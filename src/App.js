@@ -7,7 +7,7 @@ import Contact from './Pages/Contact/Contact'
 import Solutions from './Pages/Solutions/Solutions'
 import Mission from './Pages/Mission/Mission'
 import Services from './Components/Services/Services'
-
+import Website from './SubPages/Website/Website'
 
 function App() {
   return (
@@ -22,6 +22,7 @@ function App() {
         <Route path='/contact' exact component={Contact} />
         <Route path='/solutions' exact component={Solutions} />
         <Route path='/mission' exact component={Mission} />
+        <Route path='/website' exact component={Website} />
       </Switch>
       </div>
       <Footer />
