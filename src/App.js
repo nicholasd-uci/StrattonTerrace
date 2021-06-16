@@ -5,7 +5,7 @@ import Footer from './Components/Footer/Footer'
 import Home from './Pages/Home/Home'
 import Contact from './Pages/Contact/Contact'
 import Solutions from './Pages/Solutions/Solutions'
-import Vision from './Pages/Vision/Vision'
+import Mission from './Pages/Mission/Mission'
 import Services from './Components/Services/Services'
 
 
@@ -21,7 +21,7 @@ function App() {
         <Route path='/' exact component={Home} />
         <Route path='/contact' exact component={Contact} />
         <Route path='/solutions' exact component={Solutions} />
-        <Route path='/vision' exact component={Vision} />
+        <Route path='/mission' exact component={Mission} />
       </Switch>
       </div>
       <Footer />
