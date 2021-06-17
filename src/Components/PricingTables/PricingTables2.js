@@ -23,15 +23,6 @@ import {PricingTable, PricingSlot, PricingDetail} from 'react-pricing-table';
               <PricingDetail>Complete Deployment</PricingDetail>
               <PricingDetail strikethrough> <b>Mobile Responsive</b></PricingDetail>
           </PricingSlot>
-          <PricingSlot highlighted onClick={this.submit} buttonText='SIGN UP' title='Startup Web Package' priceText='$349/month'>
-          <PricingDetail> <b>5</b> Stock Photos</PricingDetail>
-              <PricingDetail> <b>5</b> Page Website</PricingDetail>
-              <PricingDetail> <b>3</b> Banner Design</PricingDetail>
-              <PricingDetail> <b>1</b> jQuery Slider Banner</PricingDetail>
-              <PricingDetail>FREE Google Friendly Sitemap</PricingDetail>
-              <PricingDetail>Complete Deployment</PricingDetail>
-              <PricingDetail>Mobile Responsive will be Additional $200*</PricingDetail>
-          </PricingSlot>
           <PricingSlot  onClick={this.submit} buttonText='SIGN UP' title='PROFESSIONAL' priceText='$99/month'>
           <PricingDetail> <b>10</b> Page Website</PricingDetail>
               <PricingDetail>CMS / Admin Panel Support</PricingDetail>
@@ -41,6 +32,16 @@ import {PricingTable, PricingSlot, PricingDetail} from 'react-pricing-table';
               <PricingDetail>Complete Deployment</PricingDetail>
               <PricingDetail>Mobile Responsive will be Additional $200*</PricingDetail>
           </PricingSlot>
+          <PricingSlot highlighted onClick={this.submit} buttonText='SIGN UP' title='Startup Web Package' priceText='$349/month'>
+          <PricingDetail> <b>5</b> Stock Photos</PricingDetail>
+              <PricingDetail> <b>5</b> Page Website</PricingDetail>
+              <PricingDetail> <b>3</b> Banner Design</PricingDetail>
+              <PricingDetail> <b>1</b> jQuery Slider Banner</PricingDetail>
+              <PricingDetail>FREE Google Friendly Sitemap</PricingDetail>
+              <PricingDetail>Complete Deployment</PricingDetail>
+              <PricingDetail>Mobile Responsive will be Additional $200*</PricingDetail>
+          </PricingSlot>
+         
       
       </PricingTable>
 
