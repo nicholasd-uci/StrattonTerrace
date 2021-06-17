@@ -1,12 +1,15 @@
 import React from 'react'
 import './Website.css'
+import PricingTables from '../../Components/PricingTables/PricingTables'
+import PricingTables2 from '../../Components/PricingTables/PricingTables2'
 
-function Website() {
+const Website = (props) => {
     return (
         <div className="Website">
-            
-        </div>
-    )
-}
-
+        <PricingTables />
+        <PricingTables2 />
+          </div>
+    );
+  };
+  
 export default Website
