@@ -1,0 +1,11 @@
+.Website{
+    background-image: url('../../Assets/Logo/Theme.jpg');
+    background-Position: center;
+    background-Size: cover;
+    background-Repeat: no-repeat;
+}
+.Website__background{
+  background-color: #fafafa !important;
+  opacity: 0.9;
+  padding-bottom: 20px;
+}

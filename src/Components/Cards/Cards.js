@@ -13,13 +13,13 @@ function Cards() {
               src='images/img-9.jpg'
               text='You Cant Start Marketing Without A Website'
               label='Website Design'
-              path='/solutions'
+              path='/Website'
             />
             <CardItem
               src='images/img-2.jpg'
               text='If You Have Anything To Sell Do It Online'
               label='E-Commerce'
-              path='/solutions'
+              path='/ecommerce'
             />
           </ul>
           <ul className='cards__items'>
@@ -27,19 +27,19 @@ function Cards() {
               src='images/img-3.jpg'
               text='If Client Can Not Find YOU Online You Need US !'
               label='SEO'
-              path='/solutions'
+              path='/SEO'
             />
             <CardItem
               src='images/img-4.jpg'
               text='Experience Best Of Marketing'
               label='Advertising '
-              path='/solutions'
+              path='/ads'
             />
             <CardItem
               src='images/img-8.jpg'
               text='We Will Take Care Of It For You'
               label='Website hosting'
-              path='/solutions'
+              path='/hosting'
             />
           </ul>
         </div>

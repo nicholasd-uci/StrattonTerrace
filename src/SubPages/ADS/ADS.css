@@ -1,0 +1,50 @@
+.ads{
+    background-image: url('../../Assets/Logo/Theme.jpg');
+    background-Position: center;
+    background-Size: cover;
+    background-Repeat: no-repeat;
+}
+.ads__background{
+  background-color: #fafafa !important;
+  opacity: 0.9;
+  padding-top: 40px;
+  padding-bottom: 20px;
+
+}
+
+.row{
+    padding: 40px 80px;
+    }
+
+.ads__h3{
+    padding-top: 40px;
+    margin: 10px 60px;
+    font-weight: bold;
+    text-align: left !important;
+}
+.ads__h4{
+    margin: 10px 60px;
+    font-weight: bold;
+    color: rgb(168, 148, 32) !important;
+    text-align: left !important;
+}
+.ads__p{
+    margin: 10px 60px;
+    text-align: left !important;
+}
+
+
+.ads__ul{
+    font-size:20px;
+    margin: 10px 75px;
+    font-weight: bold;
+    text-align: left;
+}
+
+
+
+@media (max-width:500px){
+    img{
+        margin: 25px auto;
+        }
+}
