@@ -28,8 +28,10 @@ function Nonprofit() {
         What Is Non Profit Advertising?
         </h4>
         <p className="Nonprofit__p">
-        Nonprofit marketing refers to the tactics and strategies nonprofit organizations use to raise donations and spread their message. Nonprofit marketing includes a wide range of activities, such as direct mail marketing, mobile marketing, content marketing, and social media marketing.
-        </p>
+        We maximize AdWords results for many approved Google Grantees and continue to help qualified 501(c)(3) organizations apply for approval. 
+        Our experienced Google Grant experts have gone through this process many times and understand what it takes to get approval and achieve success with nonprofit advertising.
+        Did you know that your 501(c)(3) organization qualify for $10,000 per month in FREE nonprofit advertising at Google?
+          </p>
          </Col>
         <Col id="Nonprofit__R1__col2" xl="4">
        <img className="img-fluid mb-xl-5" src={Nonprofit1} alt="Digital Advertising"  style={styles.image} />
