@@ -20,7 +20,8 @@ import { Container } from 'reactstrap';
               <PricingDetail>Hosting</PricingDetail>
               <PricingDetail> Maintenance</PricingDetail>
               <PricingDetail> Consultation</PricingDetail>
-              <PricingDetail strikethrough> <b>Ecommerce</b></PricingDetail>
+              <PricingDetail 
+              > <b>Ecommerce</b></PricingDetail>
               <PricingDetail strikethrough> <b>Emails</b></PricingDetail>
               <PricingDetail strikethrough> <b>Revisions</b></PricingDetail>
           </PricingSlot>
