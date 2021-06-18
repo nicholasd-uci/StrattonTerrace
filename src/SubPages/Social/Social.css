@@ -48,4 +48,36 @@
     img{
         margin: 25px auto;
         }
+        .row{
+            padding: 0px;
+            }
+            .Social__h3{
+                padding: 10px;
+                margin: 0px;
+                width: 100%;
+                font-weight: bold;
+                text-align: center !important;
+            }
+            .Social__h4{
+                padding: 10px;
+                margin: 0px;
+                width: 100%;
+                font-weight: bold;
+                color: rgb(168, 148, 32) !important;
+                text-align: center !important;
+            }
+            .Social__p{
+                padding: 10px;
+                font-size:20px;
+                margin: 0px;
+                font-weight: normal;
+                width: 100%;
+                text-align: center !important;
+            }
+            .Social__ul{
+                padding: 10px;
+                margin: 0px;
+                font-weight: bold;
+                text-align: center;
+            }
 }

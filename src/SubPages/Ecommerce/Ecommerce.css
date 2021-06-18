@@ -31,14 +31,14 @@
 }
 .Ecommerce__p{
     margin: 10px 60px;
+    font-size:20px;
     text-align: left !important;
 }
 
 
 .Ecommerce__ul{
-    font-size:20px;
+    font-size:15px;
     margin: 10px 75px;
-    font-weight: bold;
     text-align: left;
 }
 
@@ -48,4 +48,35 @@
     img{
         margin: 25px auto;
         }
+        .row{
+            padding: 0px;
+            }
+            .Ecommerce__h3{
+                padding: 10px;
+                margin: 0px;
+                width: 100%;
+                font-weight: bold;
+                text-align: center;
+            }
+            .Ecommerce__h4{
+                padding: 10px;
+                margin: 0px;
+                width: 100%;
+                font-weight: bold;
+                color: rgb(168, 148, 32) !important;
+                text-align: center;
+            }
+            .Ecommerce__p{
+                padding: 10px;
+                font-size:20px;
+                margin: 0px;
+                width: 100%;
+                text-align: center;
+            }
+            .Ecommerce__ul{
+                padding: 10px;
+                margin: 0px;
+                font-weight: bold;
+                text-align: left;
+            }
 }

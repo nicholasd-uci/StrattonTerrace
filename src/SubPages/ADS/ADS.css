@@ -47,4 +47,36 @@
     img{
         margin: 25px auto;
         }
+        .row{
+            padding: 0px;
+            }
+            .ads__h3{
+                padding: 20px;
+                margin: 0px;
+                width: 100%;
+                font-weight: bold;
+                text-align: center !important;
+            }
+            .ads__h4{
+                padding: 10px;
+                margin: 0px;
+                width: 100%;
+                font-weight: bold;
+                color: rgb(168, 148, 32) !important;
+                text-align: center !important;
+            }
+            .ads__p{
+                padding: 10px;
+                font-size:20px;
+                margin: 0px;
+                font-weight: nadsal;
+                width: 100%;
+                text-align: center !important;
+            }
+            .ads__ul{
+                padding: 10px;
+                margin: 0px;
+                font-weight: bold;
+                text-align: center;
+            }
 }

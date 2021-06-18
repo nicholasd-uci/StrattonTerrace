@@ -48,4 +48,36 @@
     img{
         margin: 25px auto;
         }
+        .row{
+            padding: 0px;
+            }
+            .SEO__h3{
+                padding-top: 10px;
+                margin: 0px;
+                width: 100%;
+                font-weight: bold;
+             text-align: center !important;
+            }
+            .SEO__h4{
+                padding-top: 10px;
+                margin: 0px;
+                width: 100%;
+                font-weight: bold;
+                color: rgb(168, 148, 32) !important;
+             text-align: center !important;
+            }
+            .SEO__p{
+                padding-top: 10px;
+                font-size:20px;
+                margin: 0px;
+                font-weight: normal;
+                width: 100%;
+             text-align: center !important;
+            }
+            .SEO__ul{
+                padding-top: 10px;
+                margin: 0px;
+                font-weight: bold;
+                text-align: left;
+            }
 }
