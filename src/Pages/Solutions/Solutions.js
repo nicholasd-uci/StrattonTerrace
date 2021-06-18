@@ -43,7 +43,7 @@ function Solutions() {
          }}
          />           
           </div>
-       <Row>
+       <Row className="Solutions__row">
         <Col id="Solutions__R1__col1" xl="4">
       <img className="Solutions__icons" src={website} alt="website"/>
         <h3 className="Solutions__h3">
@@ -72,7 +72,7 @@ function Solutions() {
         </p>
         </Col>
       </Row>
-      <Row>
+      <Row className="Solutions__row">
         <Col id="Solutions__R2__col1" xl="4">
         <img className="Solutions__icons" src={Integration} alt="Integration"/>
         <h3 className="Solutions__h3">

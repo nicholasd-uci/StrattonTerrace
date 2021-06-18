@@ -19,7 +19,11 @@
     object-fit: contain;
     padding-bottom: 99px;
     margin-bottom: 41px;
-    
+  }
+
+  .Solutions__row{
+      padding-top:0!important;
+      padding-bottom:0!important;
   }
 
   .Solutions-container > h1 {
