@@ -15,6 +15,7 @@ function Hosting() {
         <div className="Hosting">
         <div className="Hosting__background">
         <HostingPricing />
+        <h1><strong>HOSTING </strong></h1>
 <div>
 <Row className="Hosting__row">
         <Col id="Hosting__R1__col1" xl="4">
