@@ -105,6 +105,7 @@
       justify-content: center;
       width: 300px;
       margin-bottom: 80px;
+      padding-bottom: 80px;
 
     }
     .contact__form > h1 {
@@ -142,5 +143,5 @@
     .Contact__name{
       padding-top: 20px;
     }
-    
+ 
   }

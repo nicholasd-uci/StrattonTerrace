@@ -3,6 +3,7 @@ import { BrowserRouter as Router, Switch, Route } from 'react-router-dom';
 import Header from './Components/Header/Header'
 import Footer from './Components/Footer/Footer'
 import Home from './Pages/Home/Home'
+import OurTeam from './Pages/OurTeam/OurTeam'
 import Contact from './Pages/Contact/Contact'
 import Solutions from './Pages/Solutions/Solutions'
 import Mission from './Pages/Mission/Mission'
@@ -27,9 +28,10 @@ function App() {
   <Services />
       <Switch>
         <Route path='/' exact component={Home} />
-        <Route path='/contact' exact component={Contact} />
         <Route path='/solutions' exact component={Solutions} />
         <Route path='/mission' exact component={Mission} />
+        <Route path='/our-team' exact component={OurTeam} />
+        <Route path='/contact' exact component={Contact} />
         <Route path='/ADS' exact component={ADS} />
         <Route path='/ecommerce' exact component={Ecommerce} />
         <Route path='/hosting' exact component={Hosting} />
