@@ -68,6 +68,7 @@ transition: .5s ease;
     align-items: center;
     border-bottom: none;
     opacity: 1;
+    
 }
 
 
@@ -92,6 +93,14 @@ transition: .5s ease;
         width: 140px;
         margin: -35px;
     }
+     .services__content__image img:nth-child(1):hover {
+            background-color:#c59f0800;
+            border-radius: 10px;
+            align-items: center;
+            border-bottom: none;
+            opacity: 1;
+            
+        }
 
     .services__content0{
         border-radius: 15px 15px 0px 0px;
@@ -125,6 +134,14 @@ transition: .5s ease;
             width: 140px;
             margin: -35px;
         }
+        .services__content__image img:nth-child(1):hover {
+            /* background-color:#f7cf36; */
+            /* border-radius: 10px; */
+            align-items: center;
+            border-bottom: none;
+            opacity: 0;
+            
+        }
     
         .services__content0{
             border-radius: 15px 15px 0px 0px;
@@ -136,5 +153,7 @@ transition: .5s ease;
             Font-weight:bold;
             text-align: center !important;
         }
+
+       
 
   }
