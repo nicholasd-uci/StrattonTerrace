@@ -2,12 +2,12 @@ import React from 'react'
 import './PricingTables.css'
 import {PricingTable, PricingSlot, PricingDetail} from 'react-pricing-table';
 import { Container } from 'reactstrap';
-import ModalContact from '../ModalContact/ModalContact'
+
 
 
     export default class PricingTables extends React.Component {
       handleClick = () => {
-        console.log(ModalContact)
+      console.log('success')
       }
     
       
