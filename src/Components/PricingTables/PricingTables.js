@@ -1,12 +1,13 @@
-import React from 'react'
+import React from 'react';
 import './PricingTables.css'
 import {PricingTable, PricingSlot, PricingDetail} from 'react-pricing-table';
 import { Container } from 'reactstrap';
 
 
 
+
     export default class PricingTables extends React.Component {
-      handleClick = () => {
+      handleClick = (e) => {
       console.log('success')
       }
     
