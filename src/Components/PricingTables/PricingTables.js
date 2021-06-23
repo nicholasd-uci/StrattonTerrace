@@ -17,7 +17,7 @@ import { Container } from 'reactstrap';
           return (
             <Container>
       <PricingTable  highlightColor='rgb(216, 188, 32)'>
-          <PricingSlot  onClick={this.handleClick} buttonText='ORDER' title='Landing Page' priceText='$350'>
+          <PricingSlot onClick={this.handleClick} buttonText='ORDER' title='Personal Landing Page' priceText='$350'>
               <PricingDetail> <b>2</b> Stock Images</PricingDetail>
               <PricingDetail> <b>1</b> Page Website</PricingDetail>
               <PricingDetail> <b>1</b> Made with WIX</PricingDetail>
