@@ -3,13 +3,20 @@ import './PricingTables.css'
 import {PricingTable, PricingSlot, PricingDetail} from 'react-pricing-table';
 import { Container } from 'reactstrap';
 
+let link = function () {
+	return alert('Please fuck me')
+
+
+};
+
 
     export default class PricingTables extends React.Component {
       handleClick = (e) => {
-      console.log('success')
+        e.preventDefault();
+        console.log(link)
+      
       }
-         
-        
+
         render() {
           return (
             <Container>
@@ -44,8 +51,6 @@ import { Container } from 'reactstrap';
       
       </PricingTable>
       </Container>
-
           );
-          
         }
       }
