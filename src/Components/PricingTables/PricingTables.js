@@ -9,10 +9,7 @@ import { Container } from 'reactstrap';
     export default class PricingTables extends React.Component {
       handleClick = (e) => {
       console.log('success')
-      }
-    
-      
-        
+      }        
         render() {
           return (
             <Container>
