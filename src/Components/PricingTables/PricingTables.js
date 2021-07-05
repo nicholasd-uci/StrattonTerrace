@@ -8,8 +8,11 @@ import { Container } from 'reactstrap';
 
     export default class PricingTables extends React.Component {
       handleClick = (e) => {
-      console.log('success')
-      }        
+        e.preventDefault();
+        console.log('this is:', this);
+  }
+
+
         render() {
           return (
             <Container>
@@ -23,7 +26,7 @@ import { Container } from 'reactstrap';
               <PricingDetail>Complete Deployment</PricingDetail>
               <PricingDetail strikethrough> <b>Mobile Responsive</b></PricingDetail>
           </PricingSlot>
-          <PricingSlot highlighted onClick={this.handleClick} buttonText='ORDER' title='Startup Web Package' priceText='$1,350'>
+          <PricingSlot highlighted onClick={this.handleClick} buttonText='ORDER' title='Web Pack' priceText='$1,350'>
           <PricingDetail> <b>5</b> Stock Photos</PricingDetail>
               <PricingDetail> <b>3</b> Page Website</PricingDetail>
               <PricingDetail> <b>3</b> Banner Design</PricingDetail>
@@ -32,7 +35,7 @@ import { Container } from 'reactstrap';
               <PricingDetail>Complete Deployment</PricingDetail>
               <PricingDetail>Mobile Responsive will be Additional $200*</PricingDetail>
           </PricingSlot>
-          <PricingSlot  onClick={this.handleClick} buttonText='ORDER' title='PROFESSIONAL' priceText='$2,150'>
+          <PricingSlot  onClick={this.handleClick} buttonText='ORDER' title='Professional' priceText='$2,150'>
           <PricingDetail> <b>5</b> Page Website</PricingDetail>
               <PricingDetail>CMS / Admin Panel Support</PricingDetail>
               <PricingDetail> <b>8</b> Stock Images</PricingDetail>
@@ -44,8 +47,6 @@ import { Container } from 'reactstrap';
       
       </PricingTable>
       </Container>
-
           );
-          
         }
       }

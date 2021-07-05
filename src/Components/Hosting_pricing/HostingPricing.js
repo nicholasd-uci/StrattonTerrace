@@ -16,7 +16,7 @@ import { Container } from 'reactstrap';
           return (
             <Container>
       <PricingTable  highlightColor='rgb(216, 188, 32)'>
-          <PricingSlot  onClick={this.submit} buttonText='ORDER' title='Hosting' priceText='$29.99/Mo'>
+          <PricingSlot highlighted onClick={this.submit} buttonText='ORDER' title='Starter Hosting service package' priceText='$29.99/Mo'>
               <PricingDetail>Hosting</PricingDetail>
               <PricingDetail> Maintenance</PricingDetail>
               <PricingDetail> Consultation</PricingDetail>
@@ -25,7 +25,15 @@ import { Container } from 'reactstrap';
               <PricingDetail strikethrough> <b>Emails</b></PricingDetail>
               <PricingDetail strikethrough> <b>Revisions</b></PricingDetail>
           </PricingSlot>
-          <PricingSlot highlighted onClick={this.submit} buttonText='ORDER' title='Hosting & Maintenance' priceText='$65.99/Mo'>
+          <PricingSlot onClick={this.submit} buttonText='ORDER' title='Basic Hosting and Maintenance' priceText='$65.99/Mo'>
+          <PricingDetail>Hosting</PricingDetail>
+              <PricingDetail> Maintenance</PricingDetail>
+              <PricingDetail> Consultation</PricingDetail>
+              <PricingDetail> <b>Ecommerce</b></PricingDetail>
+              <PricingDetail> <b>Emails</b></PricingDetail>
+              <PricingDetail> <b>Revisions</b></PricingDetail>
+          </PricingSlot>
+          <PricingSlot highlighted onClick={this.submit} buttonText='ORDER' title='Advanced Hosting and Maintenance' priceText='$99.99/Mo'>
           <PricingDetail>Hosting</PricingDetail>
               <PricingDetail> Maintenance</PricingDetail>
               <PricingDetail> Consultation</PricingDetail>

@@ -16,7 +16,7 @@ import { Container } from 'reactstrap';
           return (
               <Container>
       <PricingTable  highlightColor='rgb(216, 188, 32)'>
-          <PricingSlot  onClick={this.submit} buttonText='ORDER' title='Landing Page' priceText='$450'>
+          <PricingSlot  onClick={this.submit} buttonText='ORDER' title='Professional Landing Page' priceText='$450'>
               <PricingDetail> <b>1</b> Page Website</PricingDetail>
               <PricingDetail> <b>2</b> Stock Images</PricingDetail>
               <PricingDetail> <b>1</b> Made with WordPress</PricingDetail>
@@ -25,7 +25,7 @@ import { Container } from 'reactstrap';
               <PricingDetail>Complete Deployment</PricingDetail>
               <PricingDetail strikethrough> <b>Mobile Responsive</b></PricingDetail>
           </PricingSlot>
-          <PricingSlot  onClick={this.submit} buttonText='ORDER' title='PROFESSIONAL' priceText='$1,550'>
+          <PricingSlot  onClick={this.submit} buttonText='ORDER' title='Advanced Web Pack' priceText='$1,550'>
           <PricingDetail> <b>10</b> Page Website</PricingDetail>
               <PricingDetail>CMS / Admin Panel Support</PricingDetail>
               <PricingDetail> <b>8</b> Stock Images</PricingDetail>
@@ -34,7 +34,7 @@ import { Container } from 'reactstrap';
               <PricingDetail>Complete Deployment</PricingDetail>
               <PricingDetail>Mobile Responsive will be Additional $200*</PricingDetail>
           </PricingSlot>
-          <PricingSlot highlighted onClick={this.submit} buttonText='ORDER' title='Startup Web Package' priceText='$2,450'>
+          <PricingSlot highlighted onClick={this.submit} buttonText='ORDER' title='Startup Web Pack' priceText='$2,450'>
           <PricingDetail> <b>5</b> Stock Photos</PricingDetail>
               <PricingDetail> <b>10+</b> Page Website</PricingDetail>
               <PricingDetail> <b>3</b> Banner Design</PricingDetail>
