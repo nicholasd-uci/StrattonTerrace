@@ -2,3 +2,12 @@
     text-align: left!important;
 
 }
+.md-icon {
+    color: red
+  }
+  .md-icon:hover {
+    color: red
+  }
+  svg {
+    fill: inherit;
+}

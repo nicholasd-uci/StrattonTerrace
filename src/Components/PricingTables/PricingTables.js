@@ -3,19 +3,15 @@ import './PricingTables.css'
 import {PricingTable, PricingSlot, PricingDetail} from 'react-pricing-table';
 import { Container } from 'reactstrap';
 
-let link = function () {
-	return alert('Please fuck me')
 
-
-};
 
 
     export default class PricingTables extends React.Component {
       handleClick = (e) => {
         e.preventDefault();
-        console.log(link)
-      
-      }
+        console.log('this is:', this);
+  }
+
 
         render() {
           return (
