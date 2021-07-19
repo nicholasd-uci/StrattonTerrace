@@ -5,7 +5,7 @@
     background-Repeat: no-repeat;
 }
 .Onboarding__background{
-  background-color: #fafafa !important;
+  background-color: #0B2954 !important;
   opacity: 0.9;
   padding-bottom: 20px;
 }
@@ -13,10 +13,17 @@
     display: flex;
     flex-direction: column;
     justify-content: center;
-    width: 400px;
+    width: 600px;
     margin: 0 auto;
   }
+  .PhoneInput > input{
+    padding: 10px;
+    border-radius: 3px;
+    border: 1px solid #ced4da;
+    font-size: 16px;
+    outline: none;
 
+  }
   
   .Onboarding__form > h1 {
   text-align: center;
@@ -24,12 +31,19 @@
   padding-top: 50px;
   }
 
+  .Onboarding__PTag{
+      color: #CBAA5C;
+      font-size: 26px;
+      padding-right: 440px;
+      margin: 60px;
+      text-align: left;
+  }
 
   .Onboarding__Header{
-      background-color: rgb(0, 0, 0);
-      display: flex;
-      justify-content: space-between;
-      color: white;
+    background-color: rgb(0, 0, 0);
+    display: flex;
+    justify-content: space-between;
+    color: white;
     margin-bottom: 40px;
   }
 #Onboarding__form_H1{
@@ -39,10 +53,7 @@
     align-items: flex-end;
     border: solid 10px #CBAA5C;
     margin: 50px 40px 0px 80px;
-   
-
-
-}
+   }
 
   .Onboarding__Header > img{
     height: 200px;    
@@ -50,36 +61,38 @@
     padding-right: 20px;
  }
 
-
   
   .form > input,
   textarea {
     padding: 20px;
     border-radius: 3px;
     margin-bottom: 20px;
-    border: 1px solid black;
+    border: 1px solid white;
     font-size: 16px;
-    color: black;
+    color: white;
     outline: none;
   }
- 
+ .PhoneInputCountry{
+
+    color: white;
+ }
   
   .Onboarding__form > input:focus,
   textarea:focus {
-    border: 1px solid black;
+    border: 1px solid white;
     outline: none;
   }
   
   .Onboarding__form > textarea {
     height: 150px;
-    max-width: 400px;
+    max-width: 600px;
     min-height: 100px;
   }
   
   .Onboarding__form > label {
     Text-align: left;
     margin: 10px;
-    color: black;
+    color: white;
     font-weight: bold;
 
   }
@@ -95,12 +108,12 @@
     cursor: pointer;
     transition: 0.2s ease-in-out;
     margin-top: 10px;
-    border: none;
+
   }
   
   .Onboarding__form > button:hover {
-    background-color: #fafafa;
-    color: black;
+    background-color: #0B2954;
+    color: white;
     border: 2px solid GOLD;
     font-weight:bolder;
   }
@@ -109,14 +122,14 @@
   
   @media (max-width:500px){
     .Onboarding{
-      background-color: #fafafa;
+      background-color: #fafafa8f;
       opacity: 0.75;
-      padding:10px;
+      /* padding:10px; */
       align-items: center;
     }
 
     .Onboarding__form {
-      height: 60vh;
+      /* height: 60vh; */
       justify-content: center;
       width: 300px;
       margin-bottom: 80px;
@@ -131,22 +144,35 @@
       padding: 10px;
       border-radius: 3px;
       margin-bottom: 5px;
-      border: 1px solid black;
+      border: 1px solid white;
       background: #fff;
       font-size: 18px;
-      color: black;
+      color: white;
       outline: none;
     }
+    .Onboarding__Header > img{
+        display: none;
+     }
+     .Onboarding__Header{
+        display: none;
+     }
     .Onboarding__form > button {
       padding: 10px;
       background-color: rgb(216, 188, 32);
       font-weight: 200;
       font-size: 15px;
       border-radius: 3px;
-      color: black;
+      color: white;
       margin-top: 5px;
       border: none;
       outline: none;
+    }
+    .Onboarding__PTag{
+        color: #CBAA5C;
+        font-size: 16px;
+        padding-right: 0px;
+        margin: 20px;
+        text-align: center;
     }
   
  
