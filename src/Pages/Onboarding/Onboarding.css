@@ -1,0 +1,157 @@
+.Onboarding{
+    background-image: url('../../Assets/Logo/Theme.jpg');
+    background-Position: center;
+    background-Size: cover;
+    background-Repeat: no-repeat;
+}
+.Onboarding__background{
+  background-color: #fafafa !important;
+  opacity: 0.9;
+  padding-bottom: 20px;
+}
+.Onboarding__form {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 400px;
+    margin: 0 auto;
+  }
+
+  
+  .Onboarding__form > h1 {
+  text-align: center;
+  font-weight: bold;
+  padding-top: 50px;
+  }
+
+
+  .Onboarding__Header{
+      background-color: rgb(0, 0, 0);
+      display: flex;
+      justify-content: space-between;
+      color: white;
+    margin-bottom: 40px;
+  }
+#Onboarding__form_H1{
+    padding: 30px 20px;
+    font-size: 60px;
+    display: flex;
+    align-items: flex-end;
+    border: solid 10px #CBAA5C;
+    margin: 50px 40px 0px 80px;
+   
+
+
+}
+
+  .Onboarding__Header > img{
+    height: 200px;    
+    vertical-align: baseline;
+    padding-right: 20px;
+ }
+
+
+  
+  .form > input,
+  textarea {
+    padding: 20px;
+    border-radius: 3px;
+    margin-bottom: 20px;
+    border: 1px solid black;
+    font-size: 16px;
+    color: black;
+    outline: none;
+  }
+ 
+  
+  .Onboarding__form > input:focus,
+  textarea:focus {
+    border: 1px solid black;
+    outline: none;
+  }
+  
+  .Onboarding__form > textarea {
+    height: 150px;
+    max-width: 400px;
+    min-height: 100px;
+  }
+  
+  .Onboarding__form > label {
+    Text-align: left;
+    margin: 10px;
+    color: black;
+    font-weight: bold;
+
+  }
+  
+  .Onboarding__form > button {
+    padding: 20px;
+    border: none;
+    background-color: rgb(216, 188, 32);
+    font-weight: 500;
+    font-size: 20px;
+    border-radius: 3px;
+    color: #fff;
+    cursor: pointer;
+    transition: 0.2s ease-in-out;
+    margin-top: 10px;
+    border: none;
+  }
+  
+  .Onboarding__form > button:hover {
+    background-color: #fafafa;
+    color: black;
+    border: 2px solid GOLD;
+    font-weight:bolder;
+  }
+
+
+  
+  @media (max-width:500px){
+    .Onboarding{
+      background-color: #fafafa;
+      opacity: 0.75;
+      padding:10px;
+      align-items: center;
+    }
+
+    .Onboarding__form {
+      height: 60vh;
+      justify-content: center;
+      width: 300px;
+      margin-bottom: 80px;
+      padding-bottom: 80px;
+
+    }
+    .Onboarding__form > h1 {
+      margin-bottom: 10px;
+    }
+    .form > input,
+    textarea {
+      padding: 10px;
+      border-radius: 3px;
+      margin-bottom: 5px;
+      border: 1px solid black;
+      background: #fff;
+      font-size: 18px;
+      color: black;
+      outline: none;
+    }
+    .Onboarding__form > button {
+      padding: 10px;
+      background-color: rgb(216, 188, 32);
+      font-weight: 200;
+      font-size: 15px;
+      border-radius: 3px;
+      color: black;
+      margin-top: 5px;
+      border: none;
+      outline: none;
+    }
+  
+ 
+    .Onboarding__name{
+      padding-top: 20px;
+    }
+ 
+  }

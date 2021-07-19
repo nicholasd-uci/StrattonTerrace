@@ -9,7 +9,8 @@ import { Container } from 'reactstrap';
     export default class PricingTables extends React.Component {
       handleClick = (e) => {
         e.preventDefault();
-        console.log('this is:', this);
+        console.log("this");
+
   }
 
 
