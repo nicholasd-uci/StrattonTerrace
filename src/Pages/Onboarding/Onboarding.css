@@ -39,6 +39,13 @@
       text-align: left;
   }
 
+  .Onboarding__PTag2{
+    color: #CBAA5C;
+    font-size: 26px;
+    margin: 60px;
+    text-align: center;
+  }
+
   .Onboarding__Header{
     background-color: rgb(0, 0, 0);
     display: flex;
@@ -168,6 +175,13 @@
       outline: none;
     }
     .Onboarding__PTag{
+        color: #CBAA5C;
+        font-size: 16px;
+        padding-right: 0px;
+        margin: 20px;
+        text-align: center;
+    }
+    .Onboarding__PTag2{
         color: #CBAA5C;
         font-size: 16px;
         padding-right: 0px;
