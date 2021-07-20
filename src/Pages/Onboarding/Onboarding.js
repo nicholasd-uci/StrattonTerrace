@@ -8,9 +8,6 @@ import PhoneInput from 'react-phone-number-input'
 
 
 
-
-
-
 export default function Onboarding() {
 
     const [value, setValue] = useState()
