@@ -41,7 +41,7 @@ function App() {
         <Route path='/seo' exact component={Seo} />
         <Route path='/social' exact component={Social} />
         <Route path='/website' exact component={Website} />
-        <Route path='/onboarding' exact component={Onboarding} />
+        <Route path='/Onboarding' exact component={Onboarding} />
       
       </Switch>
       </div>

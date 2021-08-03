@@ -7,7 +7,6 @@ import 'react-phone-number-input/style.css'
 import PhoneInput from 'react-phone-number-input'
 
 
-
 export default function Onboarding() {
 
     const [value, setValue] = useState()
