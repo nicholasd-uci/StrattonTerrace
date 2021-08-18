@@ -27,7 +27,7 @@ function OurTeam() {
                 />
               </MDBCol>
               <MDBCol md="8" lg="6" className="float-right">
-                <h4 className="font-weight-bold mb-3">Nicholas Dallas</h4>
+                <h4 className="font-weight-bold mb-3">Nicholas P. R. Dallas</h4>
                 <h6 className="font-weight-bold grey-text mb-3">
                   CEO and founder
                 </h6>
