@@ -41,7 +41,7 @@ export default function Contact() {
         </div>
             </div>
             <h2 className="Contact__name">STRATTON TERRACE MARKETING</h2>
-            <p className='contact__P'>Email: stratton.terraceInfo@gmail.com</p>
+            <p className='contact__P'>Email: info@strattonterrace.com</p>
             <p className='contact__P'>Mobile: ‪(657) 877-9300</p>
              </div>
              </div>
