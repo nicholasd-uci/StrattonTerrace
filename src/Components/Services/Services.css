@@ -1,6 +1,6 @@
 .services {
   /* background-image: url('../../Assets/Logo/Theme.jpg'); */
-  background-color: #FAFAFA;
+  background-color: rgb(247, 238, 188);
   background-Position: center;
   background-Size: cover;
   background-Repeat: no-repeat;
@@ -9,7 +9,7 @@
 .services__content0 {
   display: flex;
   justify-content: space-evenly;
-  padding: 20px;
+  padding: 10px;
   width: 100%;
   border-top: solid 4px #f7cf36;
   Font-size: 50px;
@@ -20,7 +20,7 @@
 .services__content1 {
   display: flex;
   justify-content: space-evenly;
-  padding: 30px;
+  padding: 10px;
   padding-top: 10px;
   width: 100%;
 }
@@ -28,7 +28,7 @@
 .services__content2 {
   display: flex;
   justify-content: space-evenly;
-  padding: 30px;
+  padding: 10px;
   width: 100%;
   border-bottom: solid 4px #f7cf36;
 }
@@ -56,7 +56,7 @@
 }
 
 .services__content__image img:nth-child(1):hover {
-  background-color: #f7cf36;
+  background-color: black;
   border-radius: 10px;
   align-items: center;
   border-bottom: none;

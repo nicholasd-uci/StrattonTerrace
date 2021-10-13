@@ -22,8 +22,7 @@ const Footer = () => (
                     </a>
                 </ul>
    <span className="copyright"rel="noopener noreferrer">COPYRIGHT © 2021 Stratton Terrace Marketing, LLC - ALL RIGHTS RESERVED.</span>
-   {}
-   <span className="POWERED" rel="noopener noreferrer">POWERED BY STRATTON TERRACE MARKETING</span>
+
   
     </div>
   );

@@ -3,6 +3,7 @@ import './Nonprofit.css'
 import { Row, Col } from 'reactstrap';
 import Nonprofit1 from '../../Assets/Images/Nonprofit1.jpg'
 import Nonprofit2 from '../../Assets/Images/Nonprofit2.jpg'
+import Services from '../../Components/Services/Services'
 
 
 const styles = {
@@ -18,6 +19,7 @@ const styles = {
 function Nonprofit() {
     return (
         <div className="Nonprofit">
+                <Services />
         <div className="Nonprofit__background"> 
         <Row>
         <Col id="Nonprofit__R1__col1" xl="6">

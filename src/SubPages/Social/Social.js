@@ -3,6 +3,7 @@ import './Social.css'
 import { Row, Col } from 'reactstrap';
 import Social1 from '../../Assets/Images/Social1.jpg'
 import Social2 from '../../Assets/Images/Social2.jpg'
+import Services from '../../Components/Services/Services'
 
 const styles = {
     image: {
@@ -14,6 +15,7 @@ const styles = {
 function Social() {
     return (
         <div className="Social">
+          <Services />
         <div className="Social__background"> 
         <Row>
         <Col id="Social__R1__col2" xl="6">

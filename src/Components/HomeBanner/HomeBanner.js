@@ -28,9 +28,6 @@ function HomeBanner() {
             .pauseFor(500)
             .deleteAll()
             .typeString('<span style="color: #FAFAFA;">We Can Fill All Your Marketing Needs</span>')
-            // .pauseFor(1000)
-            // .deleteAll()
-            // .typeString('<span style="color: #f7cf36;">STRATTON TERRACE MARKETING</span>')
             .start()
         }}
       />

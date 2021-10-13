@@ -8,11 +8,13 @@ import Email from '../../Assets/Icons/Email.png'
 import Ecommerce from '../../Assets/Icons/Ecommerce.png'
 import Revisions from '../../Assets/Icons/Revisions.png'
 import Consultation from '../../Assets/Icons/Consultation.png'
+import Services from '../../Components/Services/Services'
 
 
 function Hosting() {
     return (
         <div className="Hosting">
+                <Services />
         <div className="Hosting__background">
         <HostingPricing />
         <h1><strong>HOSTING </strong></h1>

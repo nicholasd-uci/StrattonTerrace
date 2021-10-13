@@ -3,6 +3,8 @@ import './Seo.css'
 import { Row, Col } from 'reactstrap';
 import Seo1 from '../../Assets/Images/Seo1.jpg'
 import Seo2 from '../../Assets/Images/Seo2.jpg'
+import Services from '../../Components/Services/Services'
+
 
 const styles = {
     image: {
@@ -15,6 +17,7 @@ const styles = {
 function SEO() {
     return (
         <div className="SEO">
+          <Services />
         <div className="SEO__background"> 
         <Row>
         <Col id="SEO__R1__col2" xl="6">

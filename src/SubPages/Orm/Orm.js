@@ -3,6 +3,7 @@ import './Orm.css'
 import { Row, Col } from 'reactstrap';
 import ORM1 from '../../Assets/Images/ORM1.jpg'
 import ORM2 from '../../Assets/Images/ORM2.jpg'
+import Services from '../../Components/Services/Services'
 
 const styles = {
     image: {
@@ -15,6 +16,7 @@ const styles = {
 function Orm() {
     return (
         <div className="Orm">
+                <Services />
         <div className="Orm__background"> 
         <Row>
         <Col id="Orm__R1__col2" xl="6">

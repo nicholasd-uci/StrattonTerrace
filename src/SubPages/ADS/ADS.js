@@ -3,7 +3,9 @@ import './ADS.css'
 import { Row, Col } from 'reactstrap';
 import DigitalAdvertising from '../../Assets/Images/DigitalAdvertising.jpg'
 import Digital from '../../Assets/Images/DigitalAdvertising2.jpg'
- 
+import Services from '../../Components/Services/Services'
+
+
 const styles = {
 image: {
     boxShadow: "5px 5px 20px -5px black",
@@ -15,7 +17,9 @@ image: {
 function Ads() {
     return (
         <div className="ads">
+      <Services />
         <div className="ads__background"> 
+ 
         <Row>
         <Col id="ads__R1__col1" xl="6">
         <h3 className="ads__h3">

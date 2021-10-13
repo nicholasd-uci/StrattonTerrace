@@ -3,6 +3,7 @@ import './Ecommerce.css'
 import { Row, Col } from 'reactstrap';
 import Ecommerce1 from '../../Assets/Images/Ecommerce.jpg'
 import Ecommerce2 from '../../Assets/Images/Ecommerce2.jpg'
+import Services from '../../Components/Services/Services'
 
 const styles = {
     image: {
@@ -16,6 +17,7 @@ const styles = {
 function Ecommerce() {
     return (
         <div className="Ecommerce">
+      <Services />
         <div className="Ecommerce__background"> 
         <Row>
         <Col id="Ecommerce__R1__col1" xl="6">

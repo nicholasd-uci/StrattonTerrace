@@ -22,37 +22,7 @@ function Services () {
   return (
     <div className='services'>
       <div className='services__content0'>
-        <Typewriter
-          onInit={(typewriter) => {
-            typewriter
-              .typeString('<span style="color: #FAFAFA;">Advertising</span>')
-              .pauseFor(1000)
-              .deleteAll()
-              .typeString('<span style="color: #FAFAFA;">Non-profit Advertising</span>')
-              .pauseFor(1000)
-              .deleteAll()
-              .typeString('<span style="color: #FAFAFA;">Online Reputation Management</span>')
-              .pauseFor(1000)
-              .deleteAll()
-              .typeString('<span style="color: #FAFAFA;">E-commerce</span>')
-              .pauseFor(1000)
-              .deleteAll()
-              .typeString('<span style="color: #FAFAFA;">Search Engine Optimization</span>')
-              .pauseFor(1000)
-              .deleteAll()
-              .typeString('<span style="color: #FAFAFA;">Social Media Management</span>')
-              .pauseFor(1000)
-              .deleteAll()
-              .typeString('<span style="color: #FAFAFA;">Website Design</span>')
-              .pauseFor(1000)
-              .deleteAll()
-              .typeString('<span style="color: #FAFAFA;">Website Hosting</span>')
-              .pauseFor(1000)
-              .deleteAll()
-              .typeString('<span style="color: #f7cf36;">STRATTON TERRACE MARKETING</span>')
-              .start()
-          }}
-        />
+       <h1> <strong>OUR SERVICES</strong></h1>
       </div>
       <div className='services__content1'>
         <a href='/Website' className='services__content__image' rel='Website'>
