@@ -8,7 +8,7 @@ import PaJamieParties from '../../Assets/Images/Portfolio/PaJamieParties.png'
 import TonyMacEntertainment from '../../Assets/Images/Portfolio/TonyMacEntertainment.png'
 import Nova from '../../Assets/Images/Portfolio/Nova.png'
 
-function Portfolio () {
+function Portfolio() {
   const [clientsState] = useState({
     clients: [
       {
@@ -85,6 +85,7 @@ function Portfolio () {
                   clientsState.clients.map(client => (
                     <Col
                       className='client'
+                      xl='4'
                       lg='6'
                       key={client.name}
                     >

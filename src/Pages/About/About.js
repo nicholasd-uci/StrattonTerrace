@@ -5,14 +5,14 @@ import background from '../../Assets/videos/video-2.mp4'
 import Team from '../OurTeam/OurTeam'
 import AboutBanner from '../../Components/AboutBanner/AboutBanner'
 
-function About () {
+function About() {
   return (
     <>
       <AboutBanner />
       <Team />
       <div className='About-container'>
 
-        <video
+        {/* <video
           autoPlay loop muted
           style={{
             position: 'absolute',
@@ -24,7 +24,7 @@ function About () {
           }}
         >
           <source src={background} type='video/mp4' />
-        </video>
+        </video> */}
         <h1>OUR MISSION</h1>
 
         {/* option 1 */}
@@ -45,12 +45,12 @@ function About () {
         </p> */}
 
         {/* option 2 */}
-        {/* <p className='Typewriter'>
-          We will create custom website design for your business, identify valuable marketing strategies, implement marketing solutions for you, help you monitor results and optimize campaigns, integrate strategies for the best results, and save you time and money by bundling services
-        </p> */}
+        <p className='Typewriter'>
+          We will create custom website design for your business, identify valuable marketing strategies, implement marketing solutions for you, help you monitor results and optimize campaigns, integrate strategies for the best results, and save you time and money by bundling services.
+        </p>
 
         {/* option 3 */}
-        <Typewriter
+        {/* <Typewriter
           onInit={(typewriter) => {
             typewriter
               .typeString('<span style="color: #FAFAFA;"></span>')
@@ -74,7 +74,7 @@ function About () {
               // .typeString('<span style="color: #f7cf36;"><br>STRATTON TERRACE MARKETING</span>')
               .start()
           }}
-        />
+        /> */}
       </div>
     </>
   )
