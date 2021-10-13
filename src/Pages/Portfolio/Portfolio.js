@@ -51,7 +51,7 @@ function Portfolio() {
             style={{
               position: 'absolute',
               width: '100%',
-              height: '100%',
+              height: '60vh',
               objectFit: 'cover',
               transform: 'translate(- 50%, -50%)',
               zIndex: '-1'
@@ -96,13 +96,13 @@ function Portfolio() {
                       >
                         <img className='clientImg' src={client.image} alt={client.name} />
                         <div className='details'>
-                          <h3>
+                          <h3 className='Portfolio__client__name'>
                             {client.name}
                           </h3>
-                          <h6>
+                          <h6 className='Portfolio__client__industry'>
                             {client.industry} Industry
                           </h6>
-                          <p>
+                          <p className='Portfolio__client__description'>
                             {client.description}
                           </p>
                         </div>

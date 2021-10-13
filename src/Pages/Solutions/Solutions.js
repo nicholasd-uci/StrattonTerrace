@@ -37,9 +37,6 @@ function Solutions() {
                 .pauseFor(1000)
                 .deleteAll()
                 .typeString('<span style="color: #FAFAFA;">We Provide Full Stack Digital Marketing Solutions</span>')
-                // .pauseFor(1000)
-                // .deleteAll()
-                // .typeString('<span style="color: #f7cf36;">STRATTON TERRACE MARKETING</span>')
                 .start()
             }}
           />
