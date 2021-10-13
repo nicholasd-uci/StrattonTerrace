@@ -59,8 +59,6 @@ function About () {
           }}
         />
       </div>
-
-      <Services />
     </>
   )
 }

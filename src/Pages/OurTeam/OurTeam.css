@@ -1,13 +1,16 @@
-.OurTeam__p{
-    text-align: left!important;
-
+.OurTeam__p {
+  display: flex;
+  text-align: left!important;
 }
+
 .md-icon {
-    color: red
-  }
-  .md-icon:hover {
-    color: red
-  }
-  svg {
-    fill: inherit;
+  color: red
+}
+
+.md-icon:hover {
+  color: red
+}
+
+svg {
+  fill: inherit;
 }
