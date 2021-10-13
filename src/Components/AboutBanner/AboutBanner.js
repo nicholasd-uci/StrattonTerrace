@@ -1,12 +1,11 @@
 import React from 'react'
-// import { Button } from '../Button/Button'
-import Typewriter from 'typewriter-effect'
+// import Typewriter from 'typewriter-effect'
 import './AboutBanner.css'
 import background from '../../Assets/videos/video-6.mp4'
 
 function AboutBanner() {
   return (
-    <div className='hero-container'>
+    <div className='banner-container'>
 
       <video
         autoPlay loop muted

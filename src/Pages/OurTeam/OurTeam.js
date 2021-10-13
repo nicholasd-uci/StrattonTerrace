@@ -7,7 +7,7 @@ import { MDBRow, MDBCol, MDBCard, MDBCardBody, MDBIcon } from 'mdbreact'
 function OurTeam () {
   return (
     <div className='OurTeam'>
-      <MDBCard className='my-5 px-5 pb-1 text-center'>
+      <MDBCard className='px-5 text-center'>
         <MDBCardBody>
           <h2 className='h1-responsive font-weight-bold my-5'>
             Our Amazing Team

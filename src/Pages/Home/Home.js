@@ -9,8 +9,8 @@ function Home () {
   return (
     <div className='home'>
       <HomeBanner />
-      <Cards />
       <Services />
+      <Cards />
       <HeroSection />
     </div>
   )

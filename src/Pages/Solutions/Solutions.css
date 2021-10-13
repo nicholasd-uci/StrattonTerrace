@@ -17,7 +17,6 @@
     justify-content: center;
     align-items: center;
     object-fit: contain;
-    /* padding-bottom: 99px; */
   }
 
   .Solutions-services {
@@ -32,7 +31,6 @@
   .Solutions-container > h1 {
     color: #fff;
     font-size: 100px;
-    margin-top: -100px;
   }
   
   .Typewriter {
