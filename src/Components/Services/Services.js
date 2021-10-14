@@ -21,7 +21,7 @@ function Services () {
   return (
     <div className='services'>
       <div className='services__content0'>
-       <h1> <strong>OUR SERVICES</strong></h1>
+       <h1 className='services__title'><strong>OUR SERVICES</strong></h1>
       </div>
       <div className='services__content1'>
         <a href='/Website' className='services__content__image' rel='Website'>

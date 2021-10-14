@@ -30,7 +30,8 @@ function About () {
                 <h6 className='font-weight-bold grey-text mb-3'>
                   CEO and founder
                 </h6>
-                <p className='grey-text' />
+                <p className='About__p'>
+                Nicholas Dallas is the founder of STM LLC. However, he is also blessed to own a California-registered 501(c)3 non-profit - Huntington Beach Lacrosse Club. Nicholas holds a Global Business Management degree and a minor in Economics from Regis College in Weston, MA. He is also a Full Stack Web Developer and loves helping business owners achieve self-growth.                </p>
                 <a href='https://www.linkedin.com/in/nicholas-dallas-54b5b097/' target='_blank' rel="noreferrer"  className='p-2 fa-lg li-ic'>
                 <i className="fab fa-linkedin-in"></i>
                 </a>
@@ -55,7 +56,7 @@ function About () {
                   Full stack web developer
                 </h6>
                 <p className='About__p'>
-                  Laurynas is a full-stack Web Developer currently living in Los Angeles, CA. He has a Bachelor of Business administration, but his primary focus and inspiration is Web Development. He is driven, self-motivated, and constantly experimenting with new technologies and techniques. He very passionate about Web Development and strives to better himself as a developer, and the development community as a whole.
+                Laurynas is a full-stack Web Developer. He has a Bachelor of Business administration, but his primary focus and inspiration are Web Development. He is driven, self-motivated, and constantly experimenting with new technologies and techniques. He is very passionate about Web Development and strives to better himself as a developer, and the development community as a whole.
                 </p>
                 <a href='https://www.linkedin.com/in/lawerence-j/' target='_blank' rel="noreferrer"  className='p-2 fa-lg li-ic'>
                 <i class="fab fa-linkedin-in"></i>

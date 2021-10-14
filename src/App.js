@@ -5,7 +5,6 @@ import Footer from './Components/Footer/Footer'
 import Home from './Pages/Home/Home'
 import About from './Pages/About/About'
 import Contact from './Pages/Contact/Contact'
-import Onboarding from './Pages/Onboarding/Onboarding'
 import Solutions from './Pages/Solutions/Solutions'
 import Portfolio from './Pages/Portfolio/Portfolio'
 import Website from './SubPages/Website/Website'
@@ -37,7 +36,6 @@ function App () {
             <Route path='/seo' exact component={Seo} />
             <Route path='/social' exact component={Social} />
             <Route path='/website' exact component={Website} />
-            <Route path='/Onboarding' exact component={Onboarding} />
           </Switch>
         </div>
         <Footer />

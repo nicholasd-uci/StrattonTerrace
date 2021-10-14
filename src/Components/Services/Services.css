@@ -1,5 +1,5 @@
 .services {
-  background-color: rgb(173, 173, 173);
+  background-color: lightgray;
   background-Position: center;
   background-Size: cover;
   background-Repeat: no-repeat;
@@ -14,6 +14,10 @@
   Font-size: 50px;
   Font-weight: bold;
   text-align: center !important;
+}
+
+.services__title{
+color: red;
 }
 
 .services__content1 {
