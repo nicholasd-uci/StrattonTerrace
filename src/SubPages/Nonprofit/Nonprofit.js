@@ -9,7 +9,7 @@ import Services from '../../Components/Services/Services'
 const styles = {
     image: {
         boxShadow: "5px 5px 20px -5px black",
-        borderRadius: "25px",
+        borderRadius: "5px",
 
     
     },
