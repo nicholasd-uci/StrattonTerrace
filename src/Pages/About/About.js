@@ -110,7 +110,7 @@ function About () {
           </MDBRow>
         </MDBCardBody>
       </MDBCard>
-      <p className='Typewriter'>
+      <p className='About__pTag'>
           We will create custom website design for your business, identify valuable marketing strategies, implement marketing solutions for you, help you monitor results and optimize campaigns, integrate strategies for the best results, and save you time and money by bundling services.
         </p>
     </div>
