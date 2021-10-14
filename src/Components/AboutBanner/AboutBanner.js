@@ -1,5 +1,4 @@
 import React from 'react'
-// import Typewriter from 'typewriter-effect'
 import './AboutBanner.css'
 import background from '../../Assets/videos/video-6.mp4'
 
