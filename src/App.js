@@ -3,12 +3,11 @@ import { BrowserRouter as Router, Switch, Route } from 'react-router-dom'
 import Header from './Components/Header/Header'
 import Footer from './Components/Footer/Footer'
 import Home from './Pages/Home/Home'
-import OurTeam from './Pages/OurTeam/OurTeam'
+import About from './Pages/About/About'
 import Contact from './Pages/Contact/Contact'
 import Onboarding from './Pages/Onboarding/Onboarding'
 import Solutions from './Pages/Solutions/Solutions'
 import Portfolio from './Pages/Portfolio/Portfolio'
-import About from './Pages/About/About'
 import Website from './SubPages/Website/Website'
 import ADS from './SubPages/ADS/ADS'
 import Ecommerce from './SubPages/Ecommerce/Ecommerce'
@@ -29,7 +28,6 @@ function App () {
             <Route path='/solutions' exact component={Solutions} />
             <Route path='/portfolio' exact component={Portfolio} />
             <Route path='/about' exact component={About} />
-            <Route path='/our-team' exact component={OurTeam} />
             <Route path='/contact' exact component={Contact} />
             <Route path='/ADS' exact component={ADS} />
             <Route path='/ecommerce' exact component={Ecommerce} />

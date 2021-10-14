@@ -1,6 +1,6 @@
 .services {
   /* background-image: url('../../Assets/Logo/Theme.jpg'); */
-  background-color: rgb(247, 238, 188);
+  background-color: rgb(173, 173, 173);
   background-Position: center;
   background-Size: cover;
   background-Repeat: no-repeat;
@@ -11,7 +11,7 @@
   justify-content: space-evenly;
   padding: 10px;
   width: 100%;
-  border-top: solid 4px #f7cf36;
+  border-top: solid 4px #fafafa;
   Font-size: 50px;
   Font-weight: bold;
   text-align: center !important;
@@ -30,7 +30,7 @@
   justify-content: space-evenly;
   padding: 10px;
   width: 100%;
-  border-bottom: solid 4px #f7cf36;
+  border-bottom: solid 4px gold;
 }
 
 .services__content__image {
