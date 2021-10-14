@@ -1,6 +1,5 @@
 import React from 'react'
 import './Services.css'
-import Typewriter from 'typewriter-effect'
 import ads from '../../Assets/services-logo/Ads_good.png'
 import ads_text from '../../Assets/services-logo-text/Ads_Text.png'
 import NONPROFIT from '../../Assets/services-logo/Non-profits.png'
