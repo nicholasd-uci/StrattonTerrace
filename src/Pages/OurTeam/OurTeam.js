@@ -28,14 +28,11 @@ function OurTeam () {
                   CEO and founder
                 </h6>
                 <p className='grey-text' />
-                <a href='#!' className='p-2 fa-lg gplus-ic'>
-                  <MDBIcon fab icon='google-plus-g' />
-                </a>
                 <a href='#!' className='p-2 fa-lg li-ic'>
-                  <MDBIcon fab icon='linkedin-in' />
+                <i class="fab fa-linkedin-in"></i>
                 </a>
                 <a href='#!' className='p-2 fa-lg email-ic'>
-                  <MDBIcon icon='envelope' />
+                <i class="far fa-envelope"></i>
                 </a>
               </MDBCol>
             </MDBCol>
@@ -57,14 +54,11 @@ function OurTeam () {
                 <p className='OurTeam__p'>
                   Laurynas is a full-stack Web Developer currently living in Los Angeles, CA. He has a Bachelor of Business administration, but his primary focus and inspiration is Web Development. He is driven, self-motivated, and constantly experimenting with new technologies and techniques. He very passionate about Web Development and strives to better himself as a developer, and the development community as a whole.
                 </p>
-                <a href='#!' className='p-2 fa-lg gplus-ic'>
-                  <MDBIcon fab icon='google-plus-g' />
-                </a>
                 <a href='#!' className='p-2 fa-lg li-ic'>
-                  <MDBIcon fab icon='linkedin-in' />
+                <i class="fab fa-linkedin-in"></i>
                 </a>
                 <a href='#!' className='p-2 fa-lg email-ic'>
-                  <MDBIcon icon='envelope' />
+                <i class="far fa-envelope"></i>
                 </a>
               </MDBCol>
             </MDBCol>
@@ -116,4 +110,7 @@ function OurTeam () {
     </div>
   )
 }
+
+
+
 export default OurTeam

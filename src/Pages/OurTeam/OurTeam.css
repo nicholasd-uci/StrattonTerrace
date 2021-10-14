@@ -3,14 +3,12 @@
   text-align: left!important;
 }
 
-.md-icon {
-  color: red
+
+a{
+  color:black;
 }
 
-.md-icon:hover {
-  color: red
-}
 
-svg {
+/* svg {
   fill: inherit;
-}
+} */
