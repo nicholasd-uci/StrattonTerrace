@@ -29,9 +29,9 @@ function Solutions() {
           >
             <source src={Video1} type='video/mp4' />
           </video>
-          {/* <h1>SOLUTIONS</h1> */}
+          <h1>SOLUTIONS</h1>
           
-  <ul className='Solutions__UL'>
+  {/* <ul className='Solutions__UL'>
     <li>S</li>
     <li>O</li>
     <li>L</li>
@@ -41,7 +41,7 @@ function Solutions() {
     <li>O</li>
     <li>N</li>
     <li>S</li>
-  </ul>
+  </ul> */}
           <Typewriter
             onInit={(typewriter) => {
               typewriter
