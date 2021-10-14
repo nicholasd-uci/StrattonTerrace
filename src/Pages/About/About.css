@@ -8,8 +8,14 @@
     'Lucida Sans', Arial, sans-serif;
 }
 
+a{ 
+  color:#fb0808!important;
+}
 
 
+a:hover{
+  color: gold!important;
+}
 
   @media screen and (max-width: 960px) {
   .About-container > h1 {

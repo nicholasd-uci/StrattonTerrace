@@ -109,6 +109,127 @@
     background-color: rgba(228, 213, 9, 0.37);
 }
 
+.Solutions__UL {
+    position: absolute;
+    top: 30%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    margin: 0;
+    padding: 0;
+    display: flex;
+    z-index: 10;
+  }
+
+    .Solutions__UL li {
+      list-style: none;
+      font-family: Arial, Helvetica, sans-serif;
+      font-size: 4em;
+      font-weight: bold;
+      letter-spacing: 15px;
+      text-shadow: none;
+      animation: animate 1s infinite linear;
+    }
+
+    @keyframes animate 
+    {  
+      0%
+      {
+        color: white;
+        text-shadow: none;
+      }
+      18%
+      {
+        color: white;
+        text-shadow: none;
+      }
+      20%
+      {
+        color: gold;
+        text-shadow: 0 0 7px
+        red, 0 0 20px #ff6c00;
+      }
+      30%
+      {
+        color: white;
+        text-shadow: none;
+      }
+      35%
+      {
+        color: gold;
+        text-shadow: 0 0 7px
+        gold, 0 0 20px #ff6c00;
+      }
+      45%
+      {
+        color: white;
+        text-shadow: none;
+      }
+      55%
+      {
+        color: gold;
+        text-shadow: 0 0 7px
+        red, 0 0 20px #ff6c00;
+      }
+      70%
+      {
+        color: white;
+        text-shadow: none;
+      }
+      85%
+      {
+        color: gold;
+        text-shadow: 0 0 7px
+        red, 0 0 20px #ff6c00;
+      }
+      90%
+      {
+        color: white;
+        text-shadow: none;
+      }
+      100%
+      {
+        color: white;
+        text-shadow: none;
+      }
+    }
+
+    .Solutions__UL li:nth-child(1)
+    {
+      animation-delay: .2s;
+    }
+    .Solutions__UL li:nth-child(2)
+    {
+      animation-delay: .4s;
+    }
+    .Solutions__UL li:nth-child(3)
+    {
+      animation-delay: .6s;
+    }
+    .Solutions__UL li:nth-child(4)
+    {
+      animation-delay: .8s;
+    }
+    .Solutions__UL li:nth-child(5)
+    {
+      animation-delay: 1s;
+    }
+    .Solutions__UL li:nth-child(6)
+    {
+      animation-delay: 1.2s;
+    }
+    .Solutions__UL li:nth-child(7)
+    {
+      animation-delay: 1.4s;
+    }
+    .Solutions__UL li:nth-child(8)
+    {
+      animation-delay: 1.6s;
+    }
+    .Solutions__UL li:nth-child(9)
+    {
+      animation-delay: 1.8s;
+    }
+
 
 
 @media screen and (max-width: 960px) {

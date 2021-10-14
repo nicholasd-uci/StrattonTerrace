@@ -31,10 +31,10 @@ function About () {
                   CEO and founder
                 </h6>
                 <p className='grey-text' />
-                <a href='#!' className='p-2 fa-lg li-ic'>
+                <a href='https://www.linkedin.com/in/nicholas-dallas-54b5b097/' target='_blank' className='p-2 fa-lg li-ic'>
                 <i className="fab fa-linkedin-in"></i>
                 </a>
-                <a href='#!' className='p-2 fa-lg email-ic'>
+                <a href='mailto:info@strattonterrace.com' target='_blank' className='p-2 fa-lg email-ic'>
                 <i className="far fa-envelope"></i>
                 </a>
               </MDBCol>
@@ -57,10 +57,10 @@ function About () {
                 <p className='About__p'>
                   Laurynas is a full-stack Web Developer currently living in Los Angeles, CA. He has a Bachelor of Business administration, but his primary focus and inspiration is Web Development. He is driven, self-motivated, and constantly experimenting with new technologies and techniques. He very passionate about Web Development and strives to better himself as a developer, and the development community as a whole.
                 </p>
-                <a href='#!' className='p-2 fa-lg li-ic'>
+                <a href='https://www.linkedin.com/in/lawerence-j/' target='_blank' className='p-2 fa-lg li-ic'>
                 <i class="fab fa-linkedin-in"></i>
                 </a>
-                <a href='#!' className='p-2 fa-lg email-ic'>
+                <a href='mailto:laurynas@strattonterrace.com' target='_blank' className='p-2 fa-lg email-ic'>
                 <i class="far fa-envelope"></i>
                 </a>
               </MDBCol>
