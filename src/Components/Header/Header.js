@@ -1,7 +1,7 @@
 import React, { useState } from 'react'
 import './Header.css'
 import { Collapse, Navbar, NavbarToggler, Nav, NavItem, NavLink } from 'reactstrap'
-import Logo from '../../Assets/Logo/Logo.png'
+import Logo from '../../Assets/Logo/LOGO.gif'
 
 const Header = (props) => {
   const [isOpen, setIsOpen] = useState(false)
