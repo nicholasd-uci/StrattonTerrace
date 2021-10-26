@@ -9,7 +9,6 @@ const Header = (props) => {
 
   return (
     <div className='header'>
-
       <Navbar light expand='md'>
         <NavLink id='header__home' href='/'><img src={Logo} alt='Website' /></NavLink>
         <NavbarToggler color='white' onClick={toggle} />
