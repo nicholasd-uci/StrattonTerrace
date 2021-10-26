@@ -124,6 +124,8 @@ function About () {
                 Website Designer
               </h6>
             </MDBCol>
+
+            
           
             {/* <MDBCol xl='4' lg='6' md='12' className='mb-5'>
               <h4 className='font-weight-bold mb-3'>Jack O'Brien</h4>
