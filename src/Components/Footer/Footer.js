@@ -5,7 +5,7 @@ import './Footer.css'
 const Footer = () => (
     <div className="footer">
                 <ul className="icon-bar">
-                    <a className="footer__icons" href="https://www.instagram.com/strattonterrace//"target="_blank" rel="noopener noreferrer">
+                    <a className="footer__icons" href="https://www.instagram.com/strattonterrace/"target="_blank" rel="noopener noreferrer">
                     <i className="fab fa-instagram"></i>
                     </a> 
                 {}
