@@ -1,5 +1,5 @@
 .services {
-  background-color: black;
+  background-color: white;
   background-Position: center;
   background-Size: cover;
   background-Repeat: no-repeat;
@@ -34,7 +34,8 @@ color: white;
   padding: 10px;
   padding-bottom: 30px;
   width: 100%;
-  border-bottom: solid 4px gold;
+  border-bottom: solid 3px black;
+  
 }
 
 .services__content__image {
@@ -60,7 +61,7 @@ color: white;
 }
 
 .services__content__image img:nth-child(1):hover {
-  background-color: white;
+  background-color: black;
   border-radius: 10px;
   align-items: center;
   border-bottom: none;

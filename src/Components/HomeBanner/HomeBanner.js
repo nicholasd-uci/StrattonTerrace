@@ -27,7 +27,7 @@ function HomeBanner() {
             .typeString('<span style="color: #FAFAFA;"></span>')
             .pauseFor(500)
             .deleteAll()
-            .typeString('<span style="color: #FAFAFA;">We Can Fill All Your Marketing Needs</span>')
+            .typeString('<span style="color: #FAFAFA;"> Personalize | Analyze | Deliver </span>')
             .start()
         }}
       />

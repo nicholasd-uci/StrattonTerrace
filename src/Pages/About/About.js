@@ -92,7 +92,6 @@ function About () {
                 </a>
                 </MDBCol>
             </MDBCol>
-
             <MDBCol lg='6' md='12' className='mb-5'>
               <MDBCol md='4' lg='6' className='float-left'>
                 <img
@@ -118,15 +117,12 @@ function About () {
               </MDBCol>
             </MDBCol>
               </MDBRow>
-            <MDBCol xl='4' lg='6' md='12' className='mb-5'>
+            {/* <MDBCol xl='4' lg='6' md='12' className='mb-5'>
               <h4 className='font-weight-bold mb-3'>Pat Downer</h4>
               <h6 className='font-weight-bold grey-text mb-3'>
                 Website Designer
               </h6>
-            </MDBCol>
-
-            
-          
+            </MDBCol> */}
             {/* <MDBCol xl='4' lg='6' md='12' className='mb-5'>
               <h4 className='font-weight-bold mb-3'>Jack O'Brien</h4>
               <h6 className='font-weight-bold grey-text mb-3'>
