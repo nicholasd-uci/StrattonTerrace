@@ -1,5 +1,6 @@
 .contact{
-    background-image: url('../../Assets/Logo/Theme.jpg');
+    /* background-image: url('../../Assets/Logo/Theme.jpg'); */
+    background-color: white;
     background-Position: center;
     background-Size: cover;
     background-Repeat: no-repeat;

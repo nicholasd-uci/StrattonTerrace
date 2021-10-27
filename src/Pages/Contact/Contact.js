@@ -41,7 +41,7 @@ export default function Contact() {
               </form>
             </div>
             <div className="col-12 col-lg-6 pl-lg-0 pr-lg-6">
-              <InlineWidget url="https://calendly.com/strattonterrace/1-hour-consultation" />
+              <InlineWidget url="https://calendly.com/strattonterrace/30min?month=2021-10" />
             </div>
           </div>
           <h2 className="Contact__name">STRATTON TERRACE MARKETING</h2>
