@@ -7,6 +7,7 @@ import CoastAutomotive from '../../Assets/Images/Portfolio/CoastAutomotive.png'
 import PaJamieParties from '../../Assets/Images/Portfolio/PaJamieParties.png'
 import TonyMacEntertainment from '../../Assets/Images/Portfolio/TonyMacEntertainment.png'
 import Nova from '../../Assets/Images/Portfolio/Nova.png'
+import Aviation from '../../Assets/Images/Portfolio/ClipperAviation.png'
 
 function Portfolio() {
   const [clientsState] = useState({
@@ -38,6 +39,13 @@ function Portfolio() {
         description: 'NovaXS Biotech is a smart medical device startup focused on advanced drug delivery and users’ long-term health. Our patent-pending technology, Telosis, is your one-stop destination to predict, prevent, and manage chronic conditions.',
         site: 'https://www.novaxs.co/',
         image: Nova
+      },
+      {
+        name: 'Clipper Aviation',
+        industry: 'Aviation',
+        description: 'Clipper Aviation is a Flight school Located in Van Nuys airport.',
+        site: 'https://www.clipperaviation.com//',
+        image: Aviation
       }
     ]
   })
