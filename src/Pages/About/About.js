@@ -9,7 +9,6 @@ import { MDBRow, MDBCol, MDBCard, MDBCardBody } from 'mdbreact'
 
 function About () {
   return (
-
     <div className='About'>
             <AboutBanner />
       <MDBCard className='px-5 text-center'>
