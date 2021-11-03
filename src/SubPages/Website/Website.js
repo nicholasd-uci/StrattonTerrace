@@ -4,6 +4,7 @@ import PricingTables from '../../Components/PricingTables/PricingTables'
 import PricingTables2 from '../../Components/PricingTables/PricingTables2'
 import PricingTables3 from '../../Components/PricingTables/PricingTables3'
 import Services from '../../Components/Services/Services'
+import Card from '../../Components/NewCard/Card'
 
 const Website = (props) => {
     return (
@@ -13,7 +14,7 @@ const Website = (props) => {
         <PricingTables3 />
         <PricingTables />
         <PricingTables2 />
-        
+        <Card />
           </div>
           </div>
     );

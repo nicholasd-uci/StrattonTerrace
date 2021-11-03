@@ -4,15 +4,11 @@ import {PricingTable, PricingSlot, PricingDetail} from 'react-pricing-table';
 import { Container } from 'reactstrap';
 
 
-
-
     export default class PricingTables extends React.Component {
       handleClick = (e) => {
         e.preventDefault();
         console.log("this");
-
   }
-
 
         render() {
           return (
@@ -45,7 +41,6 @@ import { Container } from 'reactstrap';
               <PricingDetail>Complete Deployment</PricingDetail>
               <PricingDetail>Mobile Responsive will be Additional $200*</PricingDetail>
           </PricingSlot>
-      
       </PricingTable>
       </Container>
           );

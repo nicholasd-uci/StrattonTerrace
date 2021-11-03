@@ -23,9 +23,9 @@ const Header = (props) => {
             <NavItem>
               <NavLink href='/portfolio'>Portfolio</NavLink>
             </NavItem>
-            {/* <NavItem>
+            <NavItem>
               <NavLink href='/About'>About Us</NavLink>
-            </NavItem> */}
+            </NavItem>
             <NavItem>
               <NavLink href='/contact'>Contact</NavLink>
             </NavItem>

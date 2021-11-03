@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.a4a52a39.chunk.css",
-    "main.js": "/static/js/main.f8421916.chunk.js",
-    "main.js.map": "/static/js/main.f8421916.chunk.js.map",
+    "main.js": "/static/js/main.c426bb5e.chunk.js",
+    "main.js.map": "/static/js/main.c426bb5e.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.61e37864.js",
     "runtime-main.js.map": "/static/js/runtime-main.61e37864.js.map",
     "static/js/2.4bb9654b.chunk.js": "/static/js/2.4bb9654b.chunk.js",
@@ -13,6 +13,7 @@
     "static/media/Abby_Hulshof.76fb0f25.jpeg": "/static/media/Abby_Hulshof.76fb0f25.jpeg",
     "static/media/Ads_Text.b4260fbb.png": "/static/media/Ads_Text.b4260fbb.png",
     "static/media/Ads_good.a0051927.png": "/static/media/Ads_good.a0051927.png",
+    "static/media/ClipperAviation.bd4a9e7a.png": "/static/media/ClipperAviation.bd4a9e7a.png",
     "static/media/CoastAutomotive.64ac4ce8.png": "/static/media/CoastAutomotive.64ac4ce8.png",
     "static/media/DigitalAdvertising.d5107add.jpg": "/static/media/DigitalAdvertising.d5107add.jpg",
     "static/media/DigitalAdvertising2.81675511.jpg": "/static/media/DigitalAdvertising2.81675511.jpg",
@@ -59,6 +60,6 @@
     "static/js/runtime-main.61e37864.js",
     "static/js/2.4bb9654b.chunk.js",
     "static/css/main.a4a52a39.chunk.css",
-    "static/js/main.f8421916.chunk.js"
+    "static/js/main.c426bb5e.chunk.js"
   ]
 }
