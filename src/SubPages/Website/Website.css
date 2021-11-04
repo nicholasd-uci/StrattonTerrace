@@ -1,8 +1,8 @@
 .Website{
-    background-image: url('../../Assets/Logo/Theme.jpg');
-    background-Position: center;
-    background-Size: cover;
-    background-Repeat: no-repeat;
+  background-color: #fafafa;
+  background-Position: center;
+  background-Size: cover;
+  background-Repeat: no-repeat;
 }
 .Website__background{
   background-color: #fafafa !important;
