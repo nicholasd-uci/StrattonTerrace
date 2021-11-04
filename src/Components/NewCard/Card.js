@@ -3,7 +3,12 @@ import './Card.css'
 import Personal from './img/Personal.png'
 import Professional from './img/Professional.png'
 import Athlete from './img/Athlete.png'
-
+import Basic_Web from './img/Basic_Web.png'
+import Startup_web from './img/Startup_web.png'
+import Professional_Web from './img/Professional_Web.png'
+import Elite from './img/Elite.png'
+import Corporate from './img/Corporate.png'
+import Business from './img/Business.png'
 
 function Card() {
     return (
@@ -11,7 +16,6 @@ function Card() {
         <div className="container">
             <div className="card">
                 <img src={Personal} alt="" className="card__img" /> 
-
                 <div className="card__content">
                     <div className="card__data">
                          <h1 className="card__title">Personal Landing Page</h1>
@@ -31,7 +35,6 @@ function Card() {
                     </div>
                     <div className="card">
                 <img src={Professional} alt="" className="card__img" /> 
-
                 <div className="card__content">
                     <div className="card__data">
                          <h1 className="card__title">Professional Landing Page</h1>
@@ -71,7 +74,7 @@ function Card() {
                         </div>
                         <div className="container">
             <div className="card">
-                <img src={Personal} alt="" className="card__img" /> 
+                <img src={Basic_Web} alt="" className="card__img" /> 
 
                 <div className="card__content">
                     <div className="card__data">
@@ -91,7 +94,7 @@ function Card() {
                 </div>
                     </div>
                     <div className="card">
-                <img src={Professional} alt="" className="card__img" /> 
+                <img src={Startup_web} alt="" className="card__img" /> 
 
                 <div className="card__content">
                     <div className="card__data">
@@ -111,7 +114,7 @@ function Card() {
                 </div>
                     </div>
                     <div className="card">
-                <img src={Athlete} alt="" className="card__img" /> 
+                <img src={Professional_Web} alt="" className="card__img" /> 
 
                 <div className="card__content">
                     <div className="card__data">
@@ -133,7 +136,7 @@ function Card() {
                         </div>
                         <div className="container">
             <div className="card">
-                <img src={Personal} alt="" className="card__img" /> 
+                <img src={Elite} alt="" className="card__img" /> 
 
                 <div className="card__content">
                     <div className="card__data">
@@ -153,8 +156,7 @@ function Card() {
                 </div>
                     </div>
                     <div className="card">
-                <img src={Professional} alt="" className="card__img" /> 
-
+                <img src={Corporate} alt="" className="card__img" /> 
                 <div className="card__content">
                     <div className="card__data">
                          <h1 className="card__title">Corporate Web pack</h1>
@@ -173,7 +175,7 @@ function Card() {
                 </div>
                     </div>
                     <div className="card">
-                <img src={Athlete} alt="" className="card__img" /> 
+                <img src={Business} alt="" className="card__img" /> 
                 <div className="card__content">
                     <div className="card__data">
                          <h1 className="card__title">Business Web Pack</h1>
