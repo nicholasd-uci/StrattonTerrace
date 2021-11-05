@@ -1,5 +1,6 @@
 import './App.css'
 import { BrowserRouter as Router, Switch, Route } from 'react-router-dom'
+import ReactGA from 'react-ga';
 import Header from './Components/Header/Header'
 import Footer from './Components/Footer/Footer'
 import Home from './Pages/Home/Home'
@@ -15,6 +16,12 @@ import Nonprofit from './SubPages/Nonprofit/Nonprofit'
 import Orm from './SubPages/Orm/Orm'
 import Seo from './SubPages/Seo/Seo'
 import Social from './SubPages/Social/Social'
+
+
+
+const TRACKING_ID = "UA-210092694-1"; // YOUR_OWN_TRACKING_ID
+ReactGA.initialize(TRACKING_ID);
+
 
 function App () {
   return (

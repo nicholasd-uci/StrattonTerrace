@@ -1,0 +1,12 @@
+<script  type="application/ld+json"> { 
+  "@context" : "http://schema.org", 
+  "@type" : "Organization", 
+  "name" : "Stratton Terrace Marketing", 
+  "url" : "https://strattonterrace.com", 
+  "sameAs" : [ 
+ "https://www.facebook.com/StrattonTerraceMarketing",
+ "https://www.linkedin.com/company/74679195/admin",
+ "https://twitter.com/StrattonTerrace"
+  ] 
+}
+</script>
