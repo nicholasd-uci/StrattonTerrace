@@ -29,7 +29,8 @@ function Card() {
                 <li>Complete Deployment</li>
                 <li><del><b>Mobile Responsive</b></del> </li>
                 </ul>
-            <a href="http://google.com/" target="_blank" rel="noreferrer"  className="card__button">ORDER</a>
+            <a href="https://www.stmathlete.com/home" target="_blank" rel="noreferrer"  className="card__button_order">ORDER</a>
+            <a href="facetime:16578779300" target="_blank" rel="noreferrer"  className="card__button_call">CALL US</a>
              </div>
                 </div>
                     </div>
@@ -48,7 +49,8 @@ function Card() {
                 <li>Complete Deployment</li>
                 <li>Mobile Responsive will be Additional $200*</li>
                 </ul>
-            <a href="http://google.com/" target="_blank" rel="noreferrer"  className="card__button">ORDER</a>
+            <a href="https://www.stmathlete.com/home" target="_blank" rel="noreferrer"  className="card__button_order">ORDER</a>
+            <a href="facetime:16578779300" target="_blank" rel="noreferrer"  className="card__button_call">CALL US</a>
              </div>
                 </div>
                     </div>
@@ -67,7 +69,8 @@ function Card() {
                 <li>Complete Deployment</li>
                 <li>Mobile Responsive will be Additional $200*</li>
                 </ul>
-            <a href="http://google.com/" target="_blank" rel="noreferrer"  className="card__button">ORDER</a>
+            <a href="https://www.stmathlete.com/home" target="_blank" rel="noreferrer"  className="card__button_order">ORDER</a>
+            <a href="facetime:16578779300" target="_blank" rel="noreferrer"  className="card__button_call">CALL US</a>
              </div>
                 </div>
                     </div>
@@ -89,7 +92,8 @@ function Card() {
                 <li>Complete Deployment</li>
                 <li><del><b>Mobile Responsive</b></del> </li>
                 </ul>
-            <a href="http://google.com/" target="_blank" rel="noreferrer"  className="card__button">ORDER</a>
+            <a href="https://www.stmathlete.com/home" target="_blank" rel="noreferrer"  className="card__button_order">ORDER</a>
+            <a href="facetime:16578779300" target="_blank" rel="noreferrer"  className="card__button_call">CALL US</a>
              </div>
                 </div>
                     </div>
@@ -109,7 +113,8 @@ function Card() {
                 <li>Complete Deployment</li>
                 <li>Mobile Responsive will be Additional $200*</li>
                 </ul>
-            <a href="http://google.com/" target="_blank" rel="noreferrer"  className="card__button">ORDER</a>
+            <a href="https://www.stmathlete.com/home" target="_blank" rel="noreferrer"  className="card__button_order">ORDER</a>
+            <a href="facetime:16578779300" target="_blank" rel="noreferrer"  className="card__button_call">CALL US</a>
              </div>
                 </div>
                     </div>
@@ -129,7 +134,8 @@ function Card() {
                 <li>Complete Deployment</li>
                 <li>Mobile Responsive will be Additional $200*</li>
                 </ul>
-            <a href="http://google.com/" target="_blank" rel="noreferrer"  className="card__button">ORDER</a>
+            <a href="https://www.stmathlete.com/home" target="_blank" rel="noreferrer"  className="card__button_order">ORDER</a>
+            <a href="facetime:16578779300" target="_blank" rel="noreferrer"  className="card__button_call">CALL US</a>
              </div>
                 </div>
                     </div>
@@ -151,7 +157,8 @@ function Card() {
                 <li>Complete Deployment</li>
                 <li><del><b>Mobile Responsive</b></del> </li>
                 </ul>
-            <a href="http://google.com/" target="_blank" rel="noreferrer"  className="card__button">ORDER</a>
+            <a href="https://www.stmathlete.com/home" target="_blank" rel="noreferrer"  className="card__button_order">ORDER</a>
+            <a href="facetime:16578779300" target="_blank" rel="noreferrer"  className="card__button_call">CALL US</a>
              </div>
                 </div>
                     </div>
@@ -170,7 +177,8 @@ function Card() {
                 <li>Complete Deployment</li>
                 <li>Mobile Responsive will be Additional $200*</li>
                 </ul>
-            <a href="http://google.com/" target="_blank" rel="noreferrer"  className="card__button">ORDER</a>
+            <a href="https://www.stmathlete.com/home" target="_blank" rel="noreferrer"  className="card__button_order">ORDER</a>
+            <a href="facetime:16578779300" target="_blank" rel="noreferrer"  className="card__button_call">CALL US</a>
              </div>
                 </div>
                     </div>
@@ -189,7 +197,8 @@ function Card() {
                 <li>Complete Deployment</li>
                 <li>Mobile Responsive will be Additional $200*</li>
                 </ul>
-            <a href="http://google.com/" target="_blank" rel="noreferrer"  className="card__button">ORDER</a>
+            <a href="https://www.stmathlete.com/home" target="_blank" rel="noreferrer"  className="card__button_order">ORDER</a>
+            <a href="facetime:16578779300" target="_blank" rel="noreferrer"  className="card__button_call">CALL US</a>
              </div>
                 </div>
                     </div>
