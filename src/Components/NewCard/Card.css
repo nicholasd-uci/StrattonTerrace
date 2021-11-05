@@ -49,7 +49,8 @@ img {
 }
 
 .card {
-  width: 350px;
+  min-width: 350px;
+  max-width: 400px;
   height: 550px;
   background-color: var(--dark-color);
   border-radius: 1rem;
@@ -137,3 +138,71 @@ img {
   transition-delay: .2s;
   opacity: 1;
 }
+
+@media screen and (max-width: 768px) {
+  
+.container {
+
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+ 
+}
+
+.card {
+  min-width: 350px;
+  max-width: 400px;
+  height: 550px;
+  background-color: var(--dark-color);
+  border-radius: 1rem;
+  padding: 2rem 2rem 0;
+  color: var(--white-color);
+  overflow-y: hidden;
+  margin: 15px;
+
+}
+
+.card__img {
+  position: absolute;
+  width: 80%;
+  filter: drop-shadow(5px 10px 15px rgba(8,9,13,.4));
+}
+
+.card__data {
+  transform: translateY(13.2rem);
+  text-align: center;
+}
+
+.card__title {
+  font-size: var(--h1-font-size);
+  color: var(--first-color);
+  margin-bottom: .5rem;
+}
+
+.card__price {
+  display: inline-block;
+  font-size: var(--h2-font-size);
+  font-weight: 500;
+  margin-bottom: 1.25rem;
+}
+
+.card__description {
+  font-size: var(--small-font-size);
+  text-align: initial;
+  margin-bottom: 1.25rem;
+  opacity: 0;
+}
+
+.card__button {
+  display: block;
+  width: max-content;
+  padding: 1.125rem 2rem;
+  background-color: var(--first-color);
+  color: var(--white-color);
+  border-radius: .5rem;
+  font-weight: 600;
+  transition: .2s;
+  opacity: 0;
+}
+
+  }
