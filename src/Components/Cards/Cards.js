@@ -11,7 +11,7 @@ function Cards() {
           <ul className='cards__items'>
             <CardItem
               src='images/img-9.jpg'
-              text='You Cant Start Marketing Without A Website'
+              text='You Can not Start Marketing Without A Website'
               label='Website Design'
               path='/Website'
             />
