@@ -1,19 +1,19 @@
 import React from 'react'
 import './Card.css'
-import Personal from './img/Personal.png'
-import Professional from './img/Professional.png'
-import Athlete from './img/Athlete.png'
-import Basic_Web from './img/Basic_Web.png'
-import Startup_web from './img/Startup_web.png'
-import Professional_Web from './img/Professional_Web.png'
-import Elite from './img/Elite.png'
-import Corporate from './img/Corporate.png'
-import Business from './img/Business.png'
+import Personal from '../../Assets/Images/New_card_img/Personal.png'
+import Professional from '../../Assets/Images/New_card_img//Professional.png'
+import Athlete from '../../Assets/Images/New_card_img//Athlete.png'
+import Basic_Web from '../../Assets/Images/New_card_img//Basic_Web.png'
+import Startup_web from '../../Assets/Images/New_card_img//Startup_web.png'
+import Professional_Web from '../../Assets/Images/New_card_img//Professional_Web.png'
+import Elite from '../../Assets/Images/New_card_img//Elite.png'
+import Corporate from '../../Assets/Images/New_card_img//Corporate.png'
+import Business from '../../Assets/Images/New_card_img//Business.png'
 
 function Card() {
     return (
         <>
-        <div className="container">
+        <div className="cards__container">
             <div className="card">
                 <img src={Personal} alt="" className="card__img" /> 
                 <div className="card__content">
@@ -75,7 +75,7 @@ function Card() {
                 </div>
                     </div>
                         </div>
-                        <div className="container">
+                        <div className="cards__container">
             <div className="card">
                 <img src={Basic_Web} alt="" className="card__img" /> 
 
@@ -140,7 +140,7 @@ function Card() {
                 </div>
                     </div>
                         </div>
-                        <div className="container">
+                        <div className="cards__container">
             <div className="card">
                 <img src={Elite} alt="" className="card__img" /> 
 
