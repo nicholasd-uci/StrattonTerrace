@@ -10,7 +10,7 @@ function About () {
   return (
     <div className='About'>
             <div className="About__container">
-    <h1 className="heading"><span>meet</span>Our Team</h1>
+    <h1 className="heading"><span style={{color:'gold'}}>meet</span>Our Team</h1>
 
     <div className="profiles">
       <div className="profile">
