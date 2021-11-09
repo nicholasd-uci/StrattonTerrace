@@ -60,16 +60,16 @@ function Solutions() {
         <Row className='Solutions__row'>
           <Col id='Solutions__R1__col1' xl='4'>
             <img className='Solutions__icons' src={website} alt='website' />
-            <h3 className='Solutions__h3'>
+            <h3 className='Solutions__h3__Black'>
               Website Design
             </h3>
-            <p>
+            <p className='Solutions__p__black'> 
               In today’s digital world, your website is the first interaction consumers have with your business. That's why almost 95 percent of a user’s first impression relates to web design. It’s also why web design services can have an immense impact on your company’s bottom line.
             </p>
           </Col>
           <Col id='Solutions__R1__col2' xl='4'>
             <img className='Solutions__icons' src={Analytics} alt='Analytics' />
-            <h3 className='Solutions__h3'>
+            <h3 className='Solutions__h3__White'>
               Analytics
             </h3>
             <p>
@@ -78,10 +78,10 @@ function Solutions() {
           </Col>
           <Col id='Solutions__R1__col3' xl='4'>
             <img className='Solutions__icons' src={Email} alt='Email' />
-            <h3 className='Solutions__h3'>
+            <h3 className='Solutions__h3__Black'>
               Email Marketing
             </h3>
-            <p>
+            <p className='Solutions__p__black'>
               Email is one of the cheapest and most effective online marketing tools. We help you grow and monetize your database enables you to retarget your prospects, profile your customers, create lookalike audiences.
             </p>
           </Col>
@@ -89,7 +89,7 @@ function Solutions() {
         <Row className='Solutions__row'>
           <Col id='Solutions__R2__col1' xl='4'>
             <img className='Solutions__icons' src={Integration} alt='Integration' />
-            <h3 className='Solutions__h3'>
+            <h3 className='Solutions__h3__White'>
               Integration
             </h3>
             <p>
@@ -98,16 +98,16 @@ function Solutions() {
           </Col>
           <Col id='Solutions__R2__col2' xl='4'>
             <img className='Solutions__icons' src={Optimization} alt='Optimization' />
-            <h3 className='Solutions__h3'>
+            <h3 className='Solutions__h3__Black'>
               Conversion Rate Optimization
             </h3>
-            <p>
+            <p className='Solutions__p__black'>
               Bringing prospects is the easy part. Converting them is the hard one. We help you optimise your website towards your business goals, thus reducing your cost per acquisition.
             </p>
           </Col>
           <Col id='Solutions__R2__col3' xl='4'>
             <img className='Solutions__icons' src={Seo} alt='Seo' />
-            <h3 className='Solutions__h3'>
+            <h3 className='Solutions__h3__White'>
               Content Marketing & SEO
             </h3>
             <p>

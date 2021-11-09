@@ -23,6 +23,17 @@
     margin-bottom: 41px;
   }
 
+  .Solutions__h3__Black{
+    color:#fff;
+  }
+  .Solutions__p__black{
+    color:#fff;
+  }
+
+  .Solutions__h3__White{
+    color:black;
+  }
+
   .Solutions__row{
       padding-top:0!important;
       padding-bottom:0!important;
@@ -55,198 +66,56 @@
 }
 
 #Solutions__R1__col1{
-    background-color: darkgray;
+    background-color: rgb(0, 0, 0);
     padding: 60px;
-
 }
 
 
 #Solutions__R1__col1:hover{
-    background-color: rgba(228, 213, 9, 0.37);
+    background-color: rgb(165, 0, 0);
 }
+
 
 #Solutions__R1__col2{
-    background-color: lightgray;
+    background-color: rgb(255, 255, 255);
     padding: 60px;
-
 }
+
 #Solutions__R1__col2:hover{
-    background-color: rgba(228, 213, 9, 0.37);
+  background-color: rgb(165, 0, 0);
 }
 #Solutions__R1__col3{
-    background-color: darkgray;
+    background-color: rgb(0, 0, 0);
     padding: 60px;
 
 }
 #Solutions__R1__col3:hover{
-    background-color: rgba(228, 213, 9, 0.37);
+  background-color: rgb(165, 0, 0);
 }
 
 
 #Solutions__R2__col1{
-    background-color: lightgray;
+    background-color: rgb(255, 255, 255);
     padding: 60px;
 
 }
 #Solutions__R2__col1:hover{
-    background-color: rgba(228, 213, 9, 0.37);
+  background-color: rgb(165, 0, 0);
 }
 
 #Solutions__R2__col2{
-    background-color: darkgray;
+    background-color: rgb(0, 0, 0);
     padding: 60px;
 
 }
 #Solutions__R2__col2:hover{
-    background-color: rgba(228, 213, 9, 0.37);
+  background-color: rgb(165, 0, 0);
 }
 #Solutions__R2__col3{
-    background-color: lightgray;
+    background-color: rgb(255, 255, 255);
     padding: 60px;
 
 }
 #Solutions__R2__col3:hover{
-    background-color: rgba(228, 213, 9, 0.37);
+  background-color: rgb(165, 0, 0);
 }
-
-/* .Solutions__UL {
-    position: absolute;
-    top: 35%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-    margin: 0;
-    padding: 0;
-    display: flex;
-    z-index: 10;
-  }
-
-    .Solutions__UL li {
-      list-style: none;
-      font-family: Arial, Helvetica, sans-serif;
-      font-size: 100px;
-      font-weight: bold;
-      letter-spacing: 15px;
-      text-shadow: none;
-      animation: animate 1s infinite linear;
-    }
-
-    @keyframes animate 
-    {  
-      0%
-      {
-        color: white;
-        text-shadow: none;
-      }
-      18%
-      {
-        color: white;
-        text-shadow: none;
-      }
-      20%
-      {
-        color: red;
-        text-shadow: 0 0 7px
-        gold, 0 0 20px #ff6c00;
-      }
-      30%
-      {
-        color: white;
-        text-shadow: none;
-      }
-      35%
-      {
-        color: red;
-        text-shadow: 0 0 7px
-        red, 0 0 20px #ff6c00;
-      }
-      45%
-      {
-        color: white;
-        text-shadow: none;
-      }
-      55%
-      {
-        color: red;
-        text-shadow: 0 0 7px
-        gold, 0 0 20px #ff6c00;
-      }
-      70%
-      {
-        color: white;
-        text-shadow: none;
-      }
-      85%
-      {
-        color: red;
-        text-shadow: 0 0 7px
-        gold, 0 0 20px #ff6c00;
-      }
-      90%
-      {
-        color: white;
-        text-shadow: none;
-      }
-      100%
-      {
-        color: white;
-        text-shadow: none;
-      }
-    }
-
-    .Solutions__UL li:nth-child(1)
-    {
-      animation-delay: .2s;
-    }
-    .Solutions__UL li:nth-child(2)
-    {
-      animation-delay: .4s;
-    }
-    .Solutions__UL li:nth-child(3)
-    {
-      animation-delay: .6s;
-    }
-    .Solutions__UL li:nth-child(4)
-    {
-      animation-delay: .8s;
-    }
-    .Solutions__UL li:nth-child(5)
-    {
-      animation-delay: 1s;
-    }
-    .Solutions__UL li:nth-child(6)
-    {
-      animation-delay: 1.2s;
-    }
-    .Solutions__UL li:nth-child(7)
-    {
-      animation-delay: 1.4s;
-    }
-    .Solutions__UL li:nth-child(8)
-    {
-      animation-delay: 1.6s;
-    }
-    .Solutions__UL li:nth-child(9)
-    {
-      animation-delay: 1.8s;
-    }
-
-
-
-@media screen and (max-width: 960px) {
-    .Solutions-container > h1 {
-      font-size: 70px;
-      margin-top: -150px;
-    }
-  }
-  
-  @media screen and (max-width: 768px) {
-    .Solutions-container > h1 {
-      font-size: 50px;
-      margin-top: -100px;
-    }
-  
-    .Solutions-container > p {
-      font-size: 30px;
-    }
-  }
-   */
