@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.1705b747.chunk.css",
-    "main.js": "/static/js/main.03bf7c2b.chunk.js",
-    "main.js.map": "/static/js/main.03bf7c2b.chunk.js.map",
+    "main.css": "/static/css/main.c42263ce.chunk.css",
+    "main.js": "/static/js/main.9973a1dd.chunk.js",
+    "main.js.map": "/static/js/main.9973a1dd.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.61e37864.js",
     "runtime-main.js.map": "/static/js/runtime-main.61e37864.js.map",
-    "static/js/2.42d7021f.chunk.js": "/static/js/2.42d7021f.chunk.js",
-    "static/js/2.42d7021f.chunk.js.map": "/static/js/2.42d7021f.chunk.js.map",
+    "static/js/2.02e2fd39.chunk.js": "/static/js/2.02e2fd39.chunk.js",
+    "static/js/2.02e2fd39.chunk.js.map": "/static/js/2.02e2fd39.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/main.1705b747.chunk.css.map": "/static/css/main.1705b747.chunk.css.map",
-    "static/js/2.42d7021f.chunk.js.LICENSE.txt": "/static/js/2.42d7021f.chunk.js.LICENSE.txt",
+    "static/css/main.c42263ce.chunk.css.map": "/static/css/main.c42263ce.chunk.css.map",
+    "static/js/2.02e2fd39.chunk.js.LICENSE.txt": "/static/js/2.02e2fd39.chunk.js.LICENSE.txt",
     "static/media/Abby_Hulshof.76fb0f25.jpeg": "/static/media/Abby_Hulshof.76fb0f25.jpeg",
     "static/media/Ads_Text.b4260fbb.png": "/static/media/Ads_Text.b4260fbb.png",
     "static/media/Ads_good.a0051927.png": "/static/media/Ads_good.a0051927.png",
@@ -50,6 +50,7 @@
     "static/media/Social1.7a047bbd.jpg": "/static/media/Social1.7a047bbd.jpg",
     "static/media/Social2.015654bb.jpg": "/static/media/Social2.015654bb.jpg",
     "static/media/Startup_web.e70871ef.png": "/static/media/Startup_web.e70871ef.png",
+    "static/media/Team_member.5bd279d5.png": "/static/media/Team_member.5bd279d5.png",
     "static/media/Social.css": "/static/media/Theme.2f01d78f.jpg",
     "static/media/TonyMacEntertainment.462eba8f.png": "/static/media/TonyMacEntertainment.462eba8f.png",
     "static/media/WEBSITE-HOSTING-Text.4db0a49e.png": "/static/media/WEBSITE-HOSTING-Text.4db0a49e.png",
@@ -62,13 +63,12 @@
     "static/media/video-3.8636e338.mp4": "/static/media/video-3.8636e338.mp4",
     "static/media/video-4a.33ccad82.mp4": "/static/media/video-4a.33ccad82.mp4",
     "static/media/video-5.70478c6d.mp4": "/static/media/video-5.70478c6d.mp4",
-    "static/media/video-6.1d6a5c23.mp4": "/static/media/video-6.1d6a5c23.mp4",
     "static/media/video-7.ae5692d1.mp4": "/static/media/video-7.ae5692d1.mp4"
   },
   "entrypoints": [
     "static/js/runtime-main.61e37864.js",
-    "static/js/2.42d7021f.chunk.js",
-    "static/css/main.1705b747.chunk.css",
-    "static/js/main.03bf7c2b.chunk.js"
+    "static/js/2.02e2fd39.chunk.js",
+    "static/css/main.c42263ce.chunk.css",
+    "static/js/main.9973a1dd.chunk.js"
   ]
 }
