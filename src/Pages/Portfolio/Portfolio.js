@@ -8,10 +8,25 @@ import PaJamieParties from '../../Assets/Images/Portfolio/PaJamieParties.png'
 import TonyMacEntertainment from '../../Assets/Images/Portfolio/TonyMacEntertainment.png'
 import Nova from '../../Assets/Images/Portfolio/Nova.png'
 import Aviation from '../../Assets/Images/Portfolio/ClipperAviation.png'
+import BrowsJungle from '../../Assets/Images/Portfolio/browsjungle.png'
 
 function Portfolio() {
   const [clientsState] = useState({
     clients: [
+      {
+        name: 'Clipper Aviation',
+        industry: 'Aviation',
+        description: 'Clipper Aviation is a Flight school Located in Van Nuys airport.',
+        site: 'https://www.clipperaviation.com//',
+        image: Aviation
+      },
+      {
+        name: 'Clipper Aviation',
+        industry: 'Beauty Salon',
+        description: 'Brows Jungle LLC is a beauty salon which provides Microblading, Powder Brows, Lip Blushing in Lake Elsinore. x3 certified, fully licensed and insured.',
+        site: 'https://www.browsjungle.com/',
+        image: BrowsJungle
+      },
       {
         name: 'Coast Automotive',
         industry: 'Automotive',
@@ -40,13 +55,7 @@ function Portfolio() {
         site: 'https://www.novaxs.co/',
         image: Nova
       },
-      {
-        name: 'Clipper Aviation',
-        industry: 'Aviation',
-        description: 'Clipper Aviation is a Flight school Located in Van Nuys airport.',
-        site: 'https://www.clipperaviation.com//',
-        image: Aviation
-      }
+   
     ]
   })
 

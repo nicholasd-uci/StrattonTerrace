@@ -6,8 +6,6 @@ import Jack from '../../Assets/OurTeam/OBrien_Jack.png'
 import Abby from '../../Assets/OurTeam/Abby_Hulshof.jpeg'
 import Member from '../../Assets/OurTeam/Team_member.png'
 
-
-
 function About () {
   return (
     <div className='About'>
@@ -33,7 +31,6 @@ function About () {
       </div>
       <div className="profile">
         <img  src={Lawrence} className="profile-img" alt="Lawrence Juzva"/>
-
         <h3 className="user-name">Lawrence Juzva</h3>
         <h5>Full stack web developer</h5>
         <p>Lawrence is a full-stack Web Developer. He has a Bachelor of Business administration, but his primary focus and inspiration are Web Development. He is driven, self-motivated, and constantly experimenting with new technologies and techniques. He is very passionate about Web Development and strives to better himself as a developer, and the development community as a whole.
@@ -68,7 +65,6 @@ function About () {
       </div>
       <div className="profile">
         <img  src={Abby} className="profile-img" alt="Abby Hulshof"/>
-
         <h3 className="user-name">Abby Hulshof</h3>
         <h5>Coordinator & Brand Marketing Specialist</h5>
         <p>Abby is Coordinator & Brand Marketing Specialist</p>
@@ -83,7 +79,6 @@ function About () {
       </div>
       <div className="profile">
         <img  src={Member} className="profile-img" alt="Pat Downer"/>
-
         <h3 className="user-name">Pat Downer</h3>
         <h5>Website Designer</h5>
         <p>Pat Downer is a Website Designer</p>
@@ -96,9 +91,7 @@ function About () {
                 </a>
                 </div>
       </div>
-     
     </div>
-    
   </div>
   </div>
   )
@@ -108,7 +101,7 @@ function About () {
 
 export default About
   
-              // <h4>Brendan Ryan</h4>Account Manager
-              // <h4>Chris Campbell</h4>Account Manager
-              // <h4>Nicholas Romig</h4>Sales Director
-              // <h4>Vincent Mark</h4>Graphic Designer
+// <h4>Brendan Ryan</h4>Account Manager
+// <h4>Chris Campbell</h4>Account Manager
+// <h4>Nicholas Romig</h4>Sales Director
+// <h4>Vincent Mark</h4>Graphic Designer

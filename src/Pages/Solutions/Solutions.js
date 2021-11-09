@@ -30,18 +30,6 @@ function Solutions() {
             <source src={Video1} type='video/mp4' />
           </video>
           <h1>SOLUTIONS</h1>
-          
-  {/* <ul className='Solutions__UL'>
-    <li>S</li>
-    <li>O</li>
-    <li>L</li>
-    <li>U</li>
-    <li>T</li>
-    <li>I</li>
-    <li>O</li>
-    <li>N</li>
-    <li>S</li>
-  </ul> */}
           <Typewriter
             onInit={(typewriter) => {
               typewriter
