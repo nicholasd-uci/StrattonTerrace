@@ -18,8 +18,7 @@ import Seo from './SubPages/Seo/Seo'
 import Social from './SubPages/Social/Social'
 
 
-
-const TRACKING_ID = "UA-210092694-1"; // YOUR_OWN_TRACKING_ID
+const TRACKING_ID = "UA-210092694-1"; // Tracking ID for google analytics.
 ReactGA.initialize(TRACKING_ID);
 
 
