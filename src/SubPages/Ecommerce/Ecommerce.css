@@ -6,16 +6,11 @@
 }
 .Ecommerce__background{
   background-color: #fafafa !important;
-  opacity: 0.96;
   padding-top: 40px;
   padding-bottom: 20px;
 
 }
 
-
-.row{
-    padding: 40px 80px;
-    }
 
 .Ecommerce__h3{
     margin: 0px 60px;
@@ -47,6 +42,8 @@
     img{
         margin: 25px auto;
         }
+
+        
         .row{
             padding: 0px;
             }

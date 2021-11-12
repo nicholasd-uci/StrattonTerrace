@@ -211,19 +211,10 @@ img {
   opacity: 0;
 }
 
-.card__button_call {
-  display: block;
-  width: max-content;
-  padding: 1.125rem 2rem;
-  background-color: var(--first-color);
-  color: var(--white-color);
-  border-radius: .5rem;
-  font-weight: 600;
-  transition: .2s;
-  opacity: 0;
-}
+
 .card__button_order {
   display: block;
+  display: inline;
   width: max-content;
   padding: 1.125rem 2rem;
   background-color: var(--first-color);
@@ -231,7 +222,18 @@ img {
   border-radius: .5rem;
   font-weight: 600;
   transition: .2s;
-  opacity: 0;
+  /* opacity: 0; */
 }
-
-  }
+.card__button_call {
+  display: block;
+  display: inline;
+  /* width: max-content; */
+  padding: 1.125rem 2rem;
+  background-color: rgb(255, 255, 255);
+  color: var(--white-color);
+  border-radius: .5rem;
+  font-weight: 600;
+  transition: .2s;
+  /* opacity: 0; */
+}
+}
