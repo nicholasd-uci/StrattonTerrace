@@ -1,28 +1,36 @@
 import React from 'react'
 import './Website.css'
 import { Row, Col } from 'reactstrap';
-import Ecommerce1 from '../../Assets/Images/Ecommerce.jpg'
+import Website0 from '../../Assets/Images/website.png'
+import Website1 from '../../Assets/Images/Website1.png'
 import Services from '../../Components/Services/Services'
 import Card from '../../Components/NewCard/Card'
 
 
 const Website = (props) => {
     return ( 
-<div className = "Website" >
+<div className = "Website1" >
+    <div className = "Website__intro" >
+    <h1 className = "Website__h1">Crafting Beautiful Websites <br/> That KeepsYour Visitors <br/>  Engaged</h1>
+    <img id = "Website__img" src={Website1} alt="website art"/>
+    </div>
+
 <Services />
-<Row>
+
+<Row className="Website__row1" >
 <Col id="Website__R1__col1" xl="4">
-       <img className="img-fluid mb-xl-5" src={Ecommerce1} alt="Digital Advertising"/>
+       <img src={Website0} alt="Digital Advertising"/>
         </Col>
-        <Col id="Website__R1__col2" xl="6">
+        <Col>
         <h3 className="Website__h3">
-        We Can Help you open your own E-commerce! 
+        We Can Help you open your Website! 
         </h3>
         <h4 className="Website__h4">
         What is  Website?
         </h4>
         <p className="Website__p">
-        E-commerce (electronic commerce) is the buying and selling of goods and services, or the transmitting of funds or data, over an electronic network, primarily the internet. These business transactions occur either as business-to-business (B2B), business-to-consumer (B2C), consumer-to-consumer or consumer-to-business.        </p>
+        Your website is an important part of your marketing strategy. If you're not careful, it can become outdated and ineffective in no time at all! That's why we here at Stratton Terrace Marketing offer services for building best websites that meet customers needs as well as budgets with our affordable packages starting under $29 per month (including domain name). So what are waiting? Get started now on taking control over how people find out about all those great products orservices available only through their preferred provider - contact us today so together let’s make sure they know exactly where to go next !!!        
+        </p>
         </Col>
        
       </Row>

@@ -1,5 +1,5 @@
 .services {
-  background-color: white;
+  background-color: #fafafa;
   background-Position: center;
   background-Size: cover;
   background-Repeat: no-repeat;
@@ -17,7 +17,7 @@
 }
 
 .services__title{
-color: white;
+color: rgb(168, 148, 32);
 }
 
 .services__content1 {
