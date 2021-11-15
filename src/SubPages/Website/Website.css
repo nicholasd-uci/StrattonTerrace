@@ -23,7 +23,7 @@ max-width: 40%;
 -webkit-filter: grayscale(0) blur(0);
 filter: grayscale(0) blur(0);
 -webkit-transition: .3s ease-in-out;
-transition: 2.3s ease-in-out;
+transition: 1s ease-in-out;
 }
 
 
