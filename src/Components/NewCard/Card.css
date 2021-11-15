@@ -1,3 +1,7 @@
+*, ::before, ::after {
+  box-sizing: border-box;
+} 
+
 @import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600&display=swap");
 
 :root {
@@ -10,9 +14,6 @@
   --normal-font-size: 1rem;
   --small-font-size: .875rem;
 }
- *, ::before, ::after {
-  box-sizing: border-box;
-} 
 
 body {
   margin: 0;
