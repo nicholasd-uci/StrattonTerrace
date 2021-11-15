@@ -12,11 +12,12 @@ const Website = (props) => {
 <div className = "Website1" >
     <div className = "Website__intro" >
     <h1 className = "Website__h1">Crafting Beautiful Websites <br/> That KeepsYour Visitors <br/>  Engaged</h1>
-    <a href = "#Website__img__body">
+    <a href = "#hook">
     <img id = "Website__img" src={Website1} alt="website art"/> </a>
     </div>
-
+    <div id = "hook">
 <Services />
+
 <Row className="Website__row1" >
 <Col id="Website__R1__col1" xl="4">
        <img id = "Website__img__body" src={Website0} alt="Digital Advertising"/>
@@ -34,6 +35,7 @@ const Website = (props) => {
         </Col>
       </Row>
 <Card />
+</div>
 </div>
     );
 };
