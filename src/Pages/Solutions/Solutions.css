@@ -73,6 +73,8 @@
 
 #Solutions__R1__col1:hover{
   background-color: rgba(77, 77, 77, 0.692);
+  -webkit-transition: .3s ease-in-out;
+transition: 1s ease-in-out;
 }
 
 
@@ -83,6 +85,8 @@
 
 #Solutions__R1__col2:hover{
   background-color: rgba(77, 77, 77, 0.692);
+  -webkit-transition: .3s ease-in-out;
+transition: 1s ease-in-out;
 }
 #Solutions__R1__col3{
     background-color: rgb(0, 0, 0);
@@ -91,6 +95,8 @@
 }
 #Solutions__R1__col3:hover{
   background-color: rgba(77, 77, 77, 0.692);
+  -webkit-transition: .3s ease-in-out;
+transition: 1s ease-in-out;
 }
 
 
@@ -101,6 +107,8 @@
 }
 #Solutions__R2__col1:hover{
   background-color: rgba(77, 77, 77, 0.692);
+  -webkit-transition: .3s ease-in-out;
+transition: 1s ease-in-out;
 }
 
 #Solutions__R2__col2{
@@ -110,6 +118,8 @@
 }
 #Solutions__R2__col2:hover{
   background-color: rgba(77, 77, 77, 0.692);
+  -webkit-transition: .3s ease-in-out;
+transition: 1s ease-in-out;
 }
 #Solutions__R2__col3{
     background-color: rgb(255, 255, 255);
@@ -118,4 +128,6 @@
 }
 #Solutions__R2__col3:hover{
   background-color: rgba(77, 77, 77, 0.692);
+  -webkit-transition: .3s ease-in-out;
+transition: 1s ease-in-out;
 }
