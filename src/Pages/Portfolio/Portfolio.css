@@ -11,6 +11,7 @@ main {
 }
 
 .Portfolio {
+  
   background-Position: center;
   background-Size: cover;
   background-Repeat: no-repeat;
@@ -58,6 +59,7 @@ main {
 }
 
 .client {
+  
   padding: 20px;
 }
 

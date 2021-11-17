@@ -36,7 +36,7 @@ function Solutions() {
                 .typeString('<span style="color: #FAFAFA;"></span>')
                 .pauseFor(1000)
                 .deleteAll()
-                .typeString('<span style="color: #FAFAFA;">We Provide Full Stack Digital Marketing Solutions</span>')
+                .typeString('<span style="color: #FAFAFA;">Full Stack Digital Marketing Solutions</span>')
                 .start()
             }}
           />
