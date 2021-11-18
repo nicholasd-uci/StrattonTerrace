@@ -1,6 +1,7 @@
 import React from 'react'
 import './Nonprofit.css'
 import { Row, Col } from 'reactstrap';
+import Nonprofit0 from '../../Assets/Images/Nonprofit-header.png'
 import Nonprofit1 from '../../Assets/Images/Nonprofit1.jpg'
 import Nonprofit2 from '../../Assets/Images/Nonprofit2.jpg'
 import Services from '../../Components/Services/Services'
@@ -19,7 +20,35 @@ const styles = {
 function Nonprofit() {
     return (
         <div className="Nonprofit">
+
+    <div className = "Nonprofit__intro" >
+    <h1 className = "Nonprofit__h1">Non Profit Advertising 501(C)(3)</h1>
+    <a href = "#What-is-Nonprofit">
+    <img id = "Nonprofit__img" src={Nonprofit0} alt="Nonprofit art"/> </a>
+    </div>
+    <div id = "What-is-Nonprofit">
+    </div>
                 <Services />
+
+
+                <Row className="Nonprofit__row1" >
+<Col id="Nonprofit__R1__col1" xl="4">
+       <img id = "Nonprofit__img__body" src={Nonprofit1} alt="Digital Advertising"/>
+        </Col>
+        <Col>
+        <h3 className="Nonprofit__h3">
+        We Can Help you open your Nonprofit! 
+        </h3>
+        <h4 className="Nonprofit__h4">
+        What Is Non Profit Advertising?
+        </h4>
+        <p className="Nonprofit__p">
+        Your Nonprofit is an important part of your marketing strategy. If you're not careful, it can become outdated and ineffective in no time at all! That's why we here at Stratton Terrace Marketing offer services for building best Nonprofits that meet customers needs as well as budgets with our affordable packages starting under $29 per month (including domain name). So what are waiting? Get started now on taking control over how people find out about all those great products orservices available only through their preferred provider - contact us today so together let’s make sure they know exactly where to go next !!!        
+        </p>
+        </Col>
+      </Row>
+
+
         <div className="Nonprofit__background"> 
         <Row>
         <Col id="Nonprofit__R1__col1" xl="6">

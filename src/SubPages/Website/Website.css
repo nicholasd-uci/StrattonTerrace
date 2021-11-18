@@ -1,9 +1,10 @@
 *{
   scroll-behavior: smooth;
 }
-.Website{
-background-color: #fafafa;
+.Website1{
+background-color: #Fafafa;
 scroll-behavior: smooth;
+padding-bottom:40px;
 }
 
 .Website__intro{

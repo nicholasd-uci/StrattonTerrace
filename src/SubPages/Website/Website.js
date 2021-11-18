@@ -11,13 +11,13 @@ const Website = (props) => {
     return ( 
 <div className = "Website1" >
     <div className = "Website__intro" >
-    <h1 className = "Website__h1">Crafting Beautiful Websites <br/> That KeepsYour Visitors <br/>  Engaged</h1>
-    <a href = "#hook">
+    <h1 className = "Website__h1">Crafting Beautiful Websites <br/> That Keeps Your Visitors <br/>  Engaged</h1>
+    <a href = "#What-is-Website">
     <img id = "Website__img" src={Website1} alt="website art"/> </a>
     </div>
-    <div id = "hook">
+    <div id = "What-is-Website">
+    </div>
 <Services />
-
 <Row className="Website__row1" >
 <Col id="Website__R1__col1" xl="4">
        <img id = "Website__img__body" src={Website0} alt="Digital Advertising"/>
@@ -36,7 +36,7 @@ const Website = (props) => {
       </Row>
 <Card />
 </div>
-</div>
+
     );
 };
 
