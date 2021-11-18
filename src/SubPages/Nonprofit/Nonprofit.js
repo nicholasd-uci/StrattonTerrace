@@ -36,9 +36,7 @@ function Nonprofit() {
        <img id = "Nonprofit__img__body" src={Nonprofit1} alt="Digital Advertising"/>
         </Col>
         <Col>
-        <h3 className="Nonprofit__h3">
-        We Can Help you open your Nonprofit! 
-        </h3>
+  
         <h4 className="Nonprofit__h4">
         What Is Non Profit Advertising?
         </h4>
@@ -47,8 +45,6 @@ function Nonprofit() {
         </p>
         </Col>
       </Row>
-
-
         <div className="Nonprofit__background"> 
         <Row>
         <Col id="Nonprofit__R1__col1" xl="6">
