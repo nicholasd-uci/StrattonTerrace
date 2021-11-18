@@ -3,18 +3,7 @@ import './Nonprofit.css'
 import { Row, Col } from 'reactstrap';
 import Nonprofit0 from '../../Assets/Images/Nonprofit-header.png'
 import Nonprofit1 from '../../Assets/Images/Nonprofit1.png'
-import Nonprofit2 from '../../Assets/Images/Nonprofit2.jpg'
 import Services from '../../Components/Services/Services'
-
-
-const styles = {
-    image: {
-        boxShadow: "5px 5px 20px -5px black",
-        borderRadius: "5px",
-
-    
-    },
-    }
 
 
 function Nonprofit() {
