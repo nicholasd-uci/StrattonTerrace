@@ -30,27 +30,6 @@ function Portfolio() {
         image: BrowsJungle
       },
       {
-        name: 'NovaXS Biotech',
-        industry: 'Medical',
-        description: 'NovaXS Biotech is a smart medical device startup focused on advanced drug delivery and users’ long-term health. Our patent-pending technology, Telosis, is your one-stop destination to predict, prevent, and manage chronic conditions.',
-        site: 'https://www.novaxs.co/',
-        image: Nova
-      },
-      {
-        name: 'Coast Automotive',
-        industry: 'Automotive',
-        description: 'Coast Automotive is an auto repair shop in Costa Mesa, CA. In business for more than 20 years, they are a one-stop shop for automotive repairs and body work',
-        site: 'https://www.coastautomotiveperformance.com/',
-        image: CoastAutomotive
-      },
-      {
-        name: 'Off-Roaders',
-        industry: 'Car Part Ecommerce Store',
-        description: 'Off-Roaders LLC is a family owned off-road company. Whether it’s lifted trucks, Jeeps, or utility vehicles, we strive to bring you the best parts on the market for your rig. We want to make you happy knowing you got a quality product.',
-        site: 'https://www.offroaderparts.com//',
-        image: OffRoaders
-      },
-      {
         name: 'Federation Of Southern Cooperatives Land Assistance Fund',
         industry: 'Entertainment',
         description: 'Federation mission is to be a catalyst for the development of self-supporting communities through cooperative economic development, land retention, and advocacy. We envision sustainable rural communities that are supported by a network of farmers, landowners and cooperatives, which are all based on local control and leadership.',
@@ -58,7 +37,28 @@ function Portfolio() {
         image: Federation
       },
     
-   
+      {
+        name: 'NovaXS Biotech',
+        industry: 'Medical',
+        description: 'NovaXS Biotech is a smart medical device startup focused on advanced drug delivery and users’ long-term health. Our patent-pending technology, Telosis, is your one-stop destination to predict, prevent, and manage chronic conditions.',
+        site: 'https://www.novaxs.co/',
+        image: Nova
+      },
+      
+      {
+        name: 'Off-Roaders',
+        industry: 'Car Part Ecommerce Store',
+        description: 'Off-Roaders LLC is a family owned off-road company. Whether it’s lifted trucks, Jeeps, or utility vehicles, we strive to bring you the best parts on the market for your rig. We want to make you happy knowing you got a quality product.',
+        site: 'https://www.offroaderparts.com//',
+        image: OffRoaders
+      },   
+      {
+        name: 'Coast Automotive',
+        industry: 'Automotive',
+        description: 'Coast Automotive is an auto repair shop in Costa Mesa, CA. In business for more than 20 years, they are a one-stop shop for automotive repairs and body work',
+        site: 'https://www.coastautomotiveperformance.com/',
+        image: CoastAutomotive
+      },
     ]
   })
 
