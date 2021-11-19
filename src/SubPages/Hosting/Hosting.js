@@ -18,8 +18,6 @@ function Hosting() {
       <div id = "What-is-Hosting">
       </div>         
                 <Services />
-
-
                 <Row className="Hosting__row1" >
   <Col id="Hosting__R1__col1" xl="4">
          <img id = "Hosting__img__body" src={Hosting1} alt="Digital Advertising"/>
@@ -34,22 +32,19 @@ function Hosting() {
           and maintain a site and makes it accessible on the World Wide Web. Companies providing web hosting services are sometimes called web hosts.
           </p>
           <h4 className="Hosting__h4">
-          Our Hosting Maintenance has
+          Our Hosting Maintenance å
           </h4>
           <p className="Hosting__p">
-          24/7 online support. Prevention of malware, spam attacks and hacking. SSL certificate is installed and activated!
+          Secure hosting and maintenance with an experienced agency means fast turnarounds, a dedicated U.S.-based team, and worry-free support. 
+          You’ll gain peace of mind knowing that you never have to stress over your website’s security again.
+          Successful websites constantly evolve — both the backend technology as well as the frontend content and functionality — and our maintenance and support team are second to
+          none for keeping your website up to date. After choosing a content management system that’s right for your new website, 
+          it’s time to put a maintenance plan in place to reflect your dynamic business goals. From Search Engine Optimization (SEO) to custom plugins, 
+          we have the tools and expertise that allow your website to grow and evolve alongside your vision.
           </p>
-          <p className="Hosting__p">
-          Lorem ipsum dolor sit amet, consectetur Lorem ipsum dolor Lorem ipsum dolor
-          </p>
-        
-          
-        </Col>
-        </Row>
-                <Card />
-
-
-      
+</Col>
+ </Row>
+<Card />
         </div>
     )
 }
