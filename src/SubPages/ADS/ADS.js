@@ -1,56 +1,43 @@
 import React from 'react'
 import './ADS.css'
 import { Row, Col } from 'reactstrap';
-import DigitalAdvertising from '../../Assets/Images/DigitalAdvertising.jpg'
-import Digital from '../../Assets/Images/DigitalAdvertising2.jpg'
+import Ads0 from '../../Assets/Images/Ads-Header.png'
+import Ads1 from '../../Assets/Images/Ads-2.png'
 import Services from '../../Components/Services/Services'
 
 
-const styles = {
-image: {
-    boxShadow: "5px 5px 20px -5px black",
-    borderRadius: "5px",
-
-},
-}
-
 function Ads() {
     return (
-        <div className="ads">
+
+      <div className="Ads1">
+      <div className = "Ads__intro" >
+      <h1 className = "Ads__h1">We Can Help you Drive <br/> More Clients To Your Business</h1>
+      <a href = "#What-is-Ads">
+      <img id = "Ads__img" src={Ads0} alt="Ads art"/> </a>
+      </div>
+      <div id = "What-is-Ads">
+      </div>
       <Services />
-        <div className="ads__background"> 
- 
-        <Row>
-        <Col id="ads__R1__col1" xl="6">
-        <h3 className="ads__h3">
-        We Can Help you Drive More Clients To Your Business! 
-        </h3>
-        <h4 className="ads__h4">
-        What is digital advertising?
-        </h4>
-        <p className="ads__p">
-            Digital advertising spans across channels, including email, display ads, App Store, mobile advertising, SEM, and paid social ads. Learn about the progression of digital advertising and how you can reach larger audiences in real time to drive sales.
-        </p>
-        </Col>
-        <Col id="ads__R1__col2" xl="4">
-       <img className="img-fluid mb-xl-5" src={DigitalAdvertising} alt="Digital Advertising"  style={styles.image} />
-        </Col>
-      </Row>
-      <Row>
-        <Col id="ads__R1__col2" xl="6">
-       <img className="img-fluid mb-xl-5" src={Digital} alt="Digital" style={styles.image} />
-        </Col>
-        <Col id="ads__R1__col1" xl="6">
-        <h3 className="ads__h3">
-        Types of digital advertising
-        </h3>
-        <p className="ads__p">
-        Today, 80 percent of shoppers start their product research online. Many go to their favorite search engine, like Google, Bing, or Yahoo!, to get started. With search advertising, your company can promote your products and services on these platforms.   
-       </p>
-       <p className="ads__p">
-       Companies can also take advantage of digital advertising on social media networks, which include:
-       </p>
-       <ul className='ads__ul'>
+      <Row className="Ads__row1" >
+  <Col id="Ads__R1__col1" xl="4">
+         <img id = "Ads__img__body" src={Ads1} alt="Digital Advertising"/>
+          </Col>
+          <Col>
+          <h4 className="Ads__h4">
+            <br/>
+          What is digital advertising?
+          </h4>
+          <p className="Ads__p">
+          Digital advertising spans across channels, including email, display ads, App Store, mobile advertising, 
+          SEM, and paid Ads ads. Learn about the progression of digital advertising and how you can reach larger audiences in real time to drive sales.
+          </p>
+          <h4 className="Ads__h4">
+          Types of digital advertising
+          </h4>
+          <h4 className="Ads__h4">
+          Companies can also take advantage of digital advertising on Ads media networks, which include:
+          </h4>
+          <ul className='Ads__ul'>
         <li>
         Facebook
         </li>
@@ -71,10 +58,9 @@ function Ads() {
         </li>
        </ul>
         </Col>
-      </Row>
-      </div>
-        </div>
-    )
+        </Row>
+          </div>
+   )
 }
 
 export default Ads
