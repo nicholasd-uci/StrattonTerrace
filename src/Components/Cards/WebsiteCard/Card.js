@@ -1,14 +1,14 @@
 import React from 'react'
 import './Card.css'
-import Personal from '../../Assets/Images/New_card_img/Personal.png'
-import Professional from '../../Assets/Images/New_card_img//Professional.png'
-import Athlete from '../../Assets/Images/New_card_img//Athlete.png'
-import Basic_Web from '../../Assets/Images/New_card_img//Basic_Web.png'
-import Startup_web from '../../Assets/Images/New_card_img//Startup_web.png'
-import Professional_Web from '../../Assets/Images/New_card_img//Professional_Web.png'
-import Elite from '../../Assets/Images/New_card_img//Elite.png'
-import Corporate from '../../Assets/Images/New_card_img//Corporate.png'
-import Business from '../../Assets/Images/New_card_img//Business.png'
+import Personal from '../../../Assets/Images/New_card_img/Personal.png'
+import Professional from '../../../Assets/Images/New_card_img//Professional.png'
+import Athlete from '../../../Assets/Images/New_card_img//Athlete.png'
+import Basic_Web from '../../../Assets/Images/New_card_img//Basic_Web.png'
+import Startup_web from '../../../Assets/Images/New_card_img//Startup_web.png'
+import Professional_Web from '../../../Assets/Images/New_card_img//Professional_Web.png'
+import Elite from '../../../Assets/Images/New_card_img//Elite.png'
+import Corporate from '../../../Assets/Images/New_card_img//Corporate.png'
+import Business from '../../../Assets/Images/New_card_img//Business.png'
 
 function Card() {
     return (

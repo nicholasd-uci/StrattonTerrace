@@ -8,7 +8,6 @@ import Services from '../../Components/Services/Services'
 
 function Ads() {
     return (
-
       <div className="Ads1">
       <div className = "Ads__intro" >
       <h1 className = "Ads__h1">We Can Help you Drive <br/> More Clients To Your Business</h1>

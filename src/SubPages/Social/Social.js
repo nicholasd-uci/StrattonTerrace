@@ -8,7 +8,6 @@ import Services from '../../Components/Services/Services'
 
 function Social() {
     return (
-
       <div className="Social1">
       <div className = "Social__intro" >
       <h1 className = "Social__h1">Social Media Strategy<br/> Implementation</h1>
