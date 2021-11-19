@@ -4,7 +4,7 @@ import { Row, Col } from 'reactstrap';
 import Website0 from '../../Assets/Images/website.png'
 import Website1 from '../../Assets/Images/Website1.png'
 import Services from '../../Components/Services/Services' 
-import Card from '../../Components/NewCard/Card'
+import Card from '../../Components/Cards/WebsiteCard/Card'
 
 
 const Website = (props) => {
