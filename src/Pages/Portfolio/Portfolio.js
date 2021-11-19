@@ -3,12 +3,14 @@ import { Row, Col, Button } from 'reactstrap'
 import './Portfolio.css'
 import Video5 from '../../Assets/videos/video-5.mp4'
 import Typewriter from 'typewriter-effect'
+import Aviation from '../../Assets/Images/Portfolio/Clipper-Aviation.png'
+import BrowsJungle from '../../Assets/Images/Portfolio/Brows-jungle.png'
 import CoastAutomotive from '../../Assets/Images/Portfolio/CoastAutomotive.png'
 import PaJamieParties from '../../Assets/Images/Portfolio/PaJamieParties.png'
 import TonyMacEntertainment from '../../Assets/Images/Portfolio/TonyMacEntertainment.png'
 import Nova from '../../Assets/Images/Portfolio/Nova.png'
-import Aviation from '../../Assets/Images/Portfolio/Clipper-Aviation.png'
-import BrowsJungle from '../../Assets/Images/Portfolio/browsjungle.png'
+
+
 
 function Portfolio() {
   const [clientsState] = useState({
@@ -21,7 +23,7 @@ function Portfolio() {
         image: Aviation
       },
       {
-        name: 'Clipper Aviation',
+        name: 'Brows Jungle',
         industry: 'Beauty Salon',
         description: 'Brows Jungle LLC is a beauty salon which provides Microblading, Powder Brows, Lip Blushing in Lake Elsinore. x3 certified, fully licensed and insured.',
         site: 'https://www.browsjungle.com/',
