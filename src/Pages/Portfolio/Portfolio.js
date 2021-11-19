@@ -7,7 +7,7 @@ import CoastAutomotive from '../../Assets/Images/Portfolio/CoastAutomotive.png'
 import PaJamieParties from '../../Assets/Images/Portfolio/PaJamieParties.png'
 import TonyMacEntertainment from '../../Assets/Images/Portfolio/TonyMacEntertainment.png'
 import Nova from '../../Assets/Images/Portfolio/Nova.png'
-import Aviation from '../../Assets/Images/Portfolio/ClipperAviation.png'
+import Aviation from '../../Assets/Images/Portfolio/Clipper-Aviation.png'
 import BrowsJungle from '../../Assets/Images/Portfolio/browsjungle.png'
 
 function Portfolio() {
@@ -87,9 +87,6 @@ function Portfolio() {
                 .pauseFor(1000)
                 .deleteAll()
                 .typeString('<span style="color: #FAFAFA;">We Have a History of Quality</span>')
-                // .pauseFor(1000)
-                // .deleteAll()
-                // .typeString('<span style="color: #f7cf36;">STRATTON TERRACE MARKETING</span>')
                 .start()
             }}
           />
@@ -102,7 +99,7 @@ function Portfolio() {
                   clientsState.clients.map(client => (
                     <Col
                       className='client'
-                      xl='4'
+                      xl='6'
                       lg='6'
                       key={client.name}
                     >
