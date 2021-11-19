@@ -3,10 +3,11 @@
     background-Position: center;
     background-Size: cover;
     background-Repeat: no-repeat;
+
 }
 .contact__background{
   background-color: #fafafa !important;
-  opacity: 0.9;
+padding-top: 60px;
 
 }
 .contact__form {
