@@ -16,10 +16,30 @@
  #header__home > img{
     height:120px;    
  }
+ #header__button{
+background-color: rgb(168, 148, 32);
+color: white;
+border-radius: 35px;
+padding: 10px;
+font-size: 20px;
+font-weight: bold;
+-webkit-transition: .3s ease-in-out;
+transition: .5s ease-in-out;
+ }
+ #header__button:hover{
+ color: rgb(168, 148, 32);
+ background-color: white;
+  border-radius: 35px;
+  padding: 10px;
+  font-size: 20px;
+  font-weight: bold;
+   }
+
+
  .navbar-light .navbar-nav .nav-link {
    color: white;
    font-weight: bold;
-   font-size: 25px;
+   font-size: 20px;
  }
  .navbar-light .navbar-nav .nav-link:hover {
   color: gold;
