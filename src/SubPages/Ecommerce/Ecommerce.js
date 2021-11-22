@@ -28,8 +28,8 @@ function Ecommerce() {
           What is  E-commerce?
           </h4>
           <p className="Ecommerce__p">
-          E-commerce (electronic commerce) is the buying and selling of goods and services, or the transmitting of funds or data, over an electronic network, primarily the internet. 
-          These business transactions occur either as business-to-business (B2B), business-to-consumer (B2C), consumer-to-consumer or consumer-to-business.        
+          The electronic marketplace has become an integral part of everyday life. E-commerce is the buying and selling of goods, services or data over an electronic network primarily through internet commerce platforms like Amazon's Marketplace program which was started in 2000 with an aim to create "a place where creators can connect directly" 
+Today there are more 400 million active users on Chinese social media app WeChat who spend about 2 hours every day browsing shopping websites - this trend not only shows that consumers want convenience when doing business but also how tech savvy they've become!
           </p>
           <h4 className="Ecommerce__h4">
           Types of e-commerce
