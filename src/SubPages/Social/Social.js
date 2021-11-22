@@ -26,10 +26,12 @@ function Social() {
           What Is Social Media Strategy Implementation?
           </h4>
           <p className="Social__p">
-          consults our clients to have a better understanding on what social media is and how it can (or cannot) help your business is the key to utilizing this powerful public relations tool.  
-          Stratton Terrace Marketing analyzes  your current social media situation and provide a complete analysis and detailed strategy for how your business can use social media.
-        We make sure that your social media efforts are focused and engaged.  Entering a conversation with potential customers is a great opportunity to impact their decision making.  
-        This service will make sure that the conversation about your business is always positive by using social media to shape the topics and support your goals.
+          Consult with our team to find out if social media is right for you and we'll help design the perfect strategy. 
+          Social Media Consultations include: analyzing your current situation, providing a detailed analysis of how it can be used most effectively in regards 
+          to company goals or objectives; developing an individualized campaign plan based on client needs that includes research-backed best practices from experts 
+          who have been doing this kind work long enough not only know what they're talking about but also understand human psychology as well!<br/><br/>
+          Being in control of your conversational conversations with customers is a great way to build trust and influence them. <br/><br/>
+We can help you by using social media, either through posts or messages on Facebook ads that are tailored towards what they want- so it's always positive!
           </p>
           <h4 className="Social__h4">
           Social Media Marketing and Management may be difficult for businesses to harness the power of social media.
