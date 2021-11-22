@@ -29,22 +29,23 @@ function SEO() {
           What Is Search Engine Optimization?
           </h4>
           <p className="Seo__p">
-          Search Engine Optimization is highly needed skill to have when marketing on the Google Search Engine. We have an array of ideas that bring highly qualified web search (Google, bing, yahoo) 
-        and social media traffic. Implementing SEO tools for your business will develop organic lead generation. It may be more sales for your e-commerce, a new client for your Law office or another 
-        patient at your dentistry. By the way.. What is SEO? Search Engine Optimization (according to wikipedia) is the process of affecting the visibility of a website or a web page in a web search 
-        engines’ unpaid results—often referred to as “natural”, “organic”, or “earned” results. In general, the earlier (or higher ranked on the search results page), and more frequently a site appears 
-        in the search results list, the more visitors it will receive from the search engine’s users; these visitors can then be converted into customers.
+          Search Engine Optimization is the process of getting your website ranked high in searches. SEO can be done by utilizing tools like Google Adwords, 
+          Bing Ads or Yahoo! Affiliates to generate organic traffic - this means when someone clicks on one ad banner and then visits another site without knowing there was 
+          any connection between them at all; it could be due their own curiosity though because people love exploring new things online (so don't put too much pressure!). 
+          Implementing these types of program would likely increase sales for an e-commerce store since more customers will find what they're looking for through search engines 
+          rather than browsing around aimlessly with no intention.
           </p>
           <h4 className="Seo__h4">
           SEO
           </h4>
           <p className="Seo__p">
-          <strong>As commerce continues to evolve, so do the ways that it’s conducted. Following are the most traditional types of e-commerce models:<br/><br/> </strong>
-          Quality of traffic. You can attract all the visitors in the world, but if they're coming to your site because Google tells them you're a resource 
-          for Apple computers when really you're a farmer selling apples, that is not quality traffic. Instead, you want to attract visitors who are genuinely
-          interested in the products that you offer. <br/><br/> 
-          Your Quantity of traffic. Once you have the right people clicking through from those search engine results pages (SERPs), more traffic is better.<br/>  <br/> 
-          Organic results. Ads make up a significant portion of many SERPs. Organic traffic is any traffic that you don't have to pay for.
+          <strong>The most traditional types of e-commerce models are broken down into categories that have been around for decades. 
+What’s old is new again, as the rise in online shopping continues to evolve with time and technology! Here's how you can identify which type your company falls under:<br/><br/> </strong>
+Quality of traffic is important. If you can attract all the visitors in world, but they're coming to your site because Google told them about how great it will be for Apple computers when 
+really what we have here are farmers selling apples - not so much quality being offered! Instead look at attracting people who want our products and services instead. <br/><br/> 
+The more traffic you get, the better off your site will be. If those people clicking through from SERPs are qualified as visitors and not just bots or crawlers then that's even better!<br/>  <br/> 
+Organic results are more satisfying. Ads make up a significant portion of many SERPs, but no more so than with paid sites and organic traffic goes entirely unpurchased by advertisers making this form of web 
+browsing truly free for everyone!
           </p>
         </Col>
         </Row>
