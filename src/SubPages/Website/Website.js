@@ -24,13 +24,18 @@ const Website = (props) => {
         </Col>
         <Col>
         <h3 className="Website__h3">
-        We Can Help you open your Website! 
+        We Will Help you to create a great Website! 
         </h3>
         <h4 className="Website__h4">
         What is  Website?
         </h4>
         <p className="Website__p">
-        Your website is an important part of your marketing strategy. If you're not careful, it can become outdated and ineffective in no time at all! That's why we here at Stratton Terrace Marketing offer services for building best websites that meet customers needs as well as budgets with our affordable packages starting under $29 per month (including domain name). So what are waiting? Get started now on taking control over how people find out about all those great products orservices available only through their preferred provider - contact us today so together let’s make sure they know exactly where to go next !!!        
+        If you want to be competitive in today's market, your website is an absolute must! If not careful, it can become outdated and ineffective within just months. 
+        That’s why we here at Stratton Terrace Marketing offer services for building best websites that meet customers needs as well as budgets with our affordable packages starting 
+        under $29 per month (including domain name).
+        It doesn't matter if you're a small or large company. We can help your brand stand out from the crowd, and get more customers in than ever before! So what are waiting? 
+        Get started now on taking control over how people find out about all those great products available only through their preferred provider - contact us today so together 
+        let's make sure they know exactly where to go next!!!
         </p>
         </Col>
       </Row>
