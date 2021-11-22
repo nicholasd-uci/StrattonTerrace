@@ -28,19 +28,22 @@ function Hosting() {
           What is digital Hosting?
           </h4>
           <p className="Hosting__p">
-          A web hosting service is a type of Internet hosting service that hosts websites for clients, i.e. it offers the facilities required for them to create 
-          and maintain a site and makes it accessible on the World Wide Web. Companies providing web hosting services are sometimes called web hosts.
+          Web hosting services are a type of Internet-based software that hosts websites for clients, i.e., 
+          it offers the facilities required to create and maintain your site as well as makes it accessible on World Wide Web. 
+          Companies providing these typesHostgator Hosting Services provide web shelf space so you can have an online presence with ease!.
           </p>
           <h4 className="Hosting__h4">
           Our Hosting Maintenance å
           </h4>
           <p className="Hosting__p">
-          Secure hosting and maintenance with an experienced agency means fast turnarounds, a dedicated U.S.-based team, and worry-free support. 
-          You’ll gain peace of mind knowing that you never have to stress over your website’s security again.
-          Successful websites constantly evolve — both the backend technology as well as the frontend content and functionality — and our maintenance and support team are second to
-          none for keeping your website up to date. After choosing a content management system that’s right for your new website, 
-          it’s time to put a maintenance plan in place to reflect your dynamic business goals. From Search Engine Optimization (SEO) to custom plugins, 
-          we have the tools and expertise that allow your website to grow and evolve alongside your vision.
+          Our U.S.-based team is dedicated to providing the best hosting experience for your website needs, with quick turnaround times and worry-free support that you can trust! 
+          Our maintenance service ensures success in an ever changing landscape of technology by keeping all aspects up-to date on a daily basis so we never leave our clients behind again.
+<br/><br/>
+We know how important it is that every business has their own unique look & feel - which led us down this path years ago at Website Designers Inc., 
+where each project became more than just building websites but crafting experiences around each client’s personality or mission statement through branding/content strategy initiatives like.
+Your website is the face of your business. It reflects what you want to be seen as, and it needs to look good in order for that message or image portrayalation work! 
+There are many ways people can go about making their sites more robust (SEO...) But if there's one thing we know how too well at Web Designs On The Go... 
+It’s creating websites with long lasting power-ups so they don't need constant maintenance anymore; because when these companies invest time
           </p>
 </Col>
  </Row>
