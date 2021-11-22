@@ -68,20 +68,24 @@ padding-top: 60px;
   }
   
   .contact__form > button {
-    display: block;
-    width: 80%;
-    padding: 1.125rem 2rem;
-    background-color: GOLD;
-    color: black;
-    border-radius: .5rem;
-    font-weight: 600;
-    transition: .2s;
+    background-color: rgb(168, 148, 32);
+    color: white;
+    border-radius: 35px;
+    max-width: 80%;
+    padding: 10px;
+    font-size: 20px;
+    font-weight: bold;
+    -webkit-transition: .3s ease-in-out;
+transition: .5s ease-in-out;
   }
   
   .contact__form > button:hover {
-    background-color: black;
-    color: gold;
-    box-shadow: 0 18px 40px -12px rgba(242,162,12,.35);
+    color: rgb(168, 148, 32);
+    background-color: white;
+    border-radius: 35px;
+    padding: 10px;
+    font-size: 20px;
+    font-weight: bold;
   }
   .Contact__name{
     text-align: center;

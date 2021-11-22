@@ -42,8 +42,7 @@ function Hosting() {
 We know how important it is that every business has their own unique look & feel - which led us down this path years ago at Website Designers Inc., 
 where each project became more than just building websites but crafting experiences around each client’s personality or mission statement through branding/content strategy initiatives like.
 Your website is the face of your business. It reflects what you want to be seen as, and it needs to look good in order for that message or image portrayalation work! 
-There are many ways people can go about making their sites more robust (SEO...) But if there's one thing we know how too well at Web Designs On The Go... 
-It’s creating websites with long lasting power-ups so they don't need constant maintenance anymore; because when these companies invest time
+There are many ways people can go about making their sites more robust (SEO...) But if there's one thing we know how too well at Web Designs On The Go... It’s creating websites with long lasting power-ups so they don't need constant maintenance anymore; because when these companies invest time
           </p>
 </Col>
  </Row>
