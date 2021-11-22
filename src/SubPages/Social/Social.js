@@ -31,7 +31,7 @@ function Social() {
           to company goals or objectives; developing an individualized campaign plan based on client needs that includes research-backed best practices from experts 
           who have been doing this kind work long enough not only know what they're talking about but also understand human psychology as well!<br/><br/>
           Being in control of your conversational conversations with customers is a great way to build trust and influence them. <br/><br/>
-We can help you by using social media, either through posts or messages on Facebook ads that are tailored towards what they want- so it's always positive!
+          We can help you by using social media, either through posts or messages on Facebook ads that are tailored towards what they want- so it's always positive!
           </p>
           <h4 className="Social__h4">
           Social Media Marketing and Management may be difficult for businesses to harness the power of social media.

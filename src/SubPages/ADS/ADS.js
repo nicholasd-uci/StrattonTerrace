@@ -27,8 +27,10 @@ function Ads() {
           What is digital advertising?
           </h4>
           <p className="Ads__p">
-          Digital advertising spans across channels, including email, display ads, App Store, mobile advertising, 
-          SEM, and paid Ads ads. Learn about the progression of digital advertising and how you can reach larger audiences in real time to drive sales.
+          Digital advertising is the most popular form of marketing in today's world, and it can be found on many different channels. 
+          Email ads will bring your message to specific audiences while also targeting them by interest or location based off their browsing 
+          history when they opened emails previously from companies like yours too! There are even apps for smartphones that allow people with common 
+          interests organize themselves so you'll know what type of content would best suit all tastes - which could lead down an interesting rabbit hole if left unchecked.
           </p>
           <h4 className="Ads__h4">
           Types of digital advertising
