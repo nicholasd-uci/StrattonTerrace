@@ -5,7 +5,7 @@
 @import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600&display=swap");
 
 :root {
-  --first-color: #F2A20C;
+  --first-color:  rgb(168, 148, 32);
   --white-color: #E9EAEC;
   --dark-color: #000000;
   --body-font: 'Poppins', sans-serif;
@@ -102,7 +102,7 @@ img {
   padding: 1.125rem 2rem;
   background-color: var(--first-color);
   color: var(--white-color);
-  border-radius: .5rem;
+  border-radius: 2.5rem;
   font-weight: 600;
   transition: .2s;
   opacity: 0;
@@ -115,7 +115,7 @@ img {
   padding: 1.125rem 2rem;
   background-color: var(--white-color);
   color: var(--dark-color)!important;
-  border-radius: .5rem;
+  border-radius: 2.5rem;
   font-weight: 600;
   transition: .2s;
   opacity: 0;
@@ -219,7 +219,7 @@ img {
   padding: 1.125rem 2rem;
   background-color: var(--first-color);
   color: var(--white-color);
-  border-radius: .5rem;
+  border-radius: 2.5rem;
   font-weight: 600;
   transition: .2s;
   /* opacity: 0; */
@@ -231,7 +231,7 @@ img {
   padding: 1.125rem 2rem;
   background-color: rgb(255, 255, 255);
   color: var(--white-color);
-  border-radius: .5rem;
+  border-radius: 2.5rem;
   font-weight: 600;
   transition: .2s;
   /* opacity: 0; */
