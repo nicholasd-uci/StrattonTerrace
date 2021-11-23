@@ -53,7 +53,9 @@ function About () {
 
         <h3 className="user-name">Jack O'Brien</h3>
         <h5>Account Manager & Sales Representative</h5>
-        <p>Jack O'Brien is an account manager and sales representative from Boston, Massachusetts. Alongside founder Nicholas Dallas, he attended and played Lacrosse at Regis College. Earning a major in Business Management with a minor in international relations. Moving on to obtain his M.B.A from Piedmont College in Northeast, GA. Jack has worked in a multitude of fields spending his last few years working in politics, sales, and as a head coach in collegiate lacrosse.</p>
+        <p>Jack O'Brien is an account manager and sales representative from Boston, Massachusetts. Alongside founder Nicholas Dallas, he attended and played Lacrosse at Regis College. 
+          Earning a major in Business Management with a minor in international relations. Moving on to obtain his M.B.A from Piedmont College in Northeast, GA. 
+          Jack has worked in a multitude of fields spending his last few years working in politics, sales, and as a head coach in collegiate lacrosse.</p>
         <div ClassName="About__social">
         <a href='https://www.linkedin.com/in/jack-o-brien-351619133' target='_blank' rel="noreferrer"  className='p-2 fa-lg li-ic'>
                 <i className="fab fa-linkedin-in"></i>
@@ -67,7 +69,10 @@ function About () {
         <img  src={Abby} className="profile-img" alt="Abby Hulshof"/>
         <h3 className="user-name">Abby Hulshof</h3>
         <h5>Coordinator & Brand Marketing Specialist</h5>
-        <p>Abby is Coordinator & Brand Marketing Specialist</p>
+        <p>Abby is a  online Coordinator & Brand Marketing Specialist who has partnered with executives and like-minded entrepreneurs to develop their personal and professional brands. 
+          After spending time working in marketing for startups, understand what converts into success. 
+          Abby is a passionate about building genuine relationships, paying it forward and helping others find their full potential.
+</p>
         <div ClassName="About__social">
         <a href='https://www.linkedin.com/in/abby-hulshof-92258619a' target='_blank' rel="noreferrer"  className='p-2 fa-lg li-ic'>
                 <i class="fab fa-linkedin-in"></i>
