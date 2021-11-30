@@ -11,9 +11,6 @@ import Optimization from '../../Assets/Icons/Optimization.png'
 import Seo from '../../Assets/Icons/Seo.png'
 import Services from '../../Components/Services/Services'
 
-
-
-
 function Solutions() {
   return (
     <div className='Solutions'>
@@ -45,7 +42,6 @@ function Solutions() {
           />
         </div>
         <div className='Solutions-services'>
-
           <Services />
         </div>
         <Row className='Solutions__row'>
@@ -67,7 +63,6 @@ function Solutions() {
               Google Analytics and supplementary solutions help you collect tons of information. Our experts help you install such tools, measure and interpret all the touchpoints and get actionable insights from the mess.
             </p>
           </Col>
-   
         </Row>
         <Row className='Solutions__row'>
         <Col id='Solutions__R2__col1'>
@@ -108,12 +103,11 @@ function Solutions() {
               From content creation to technical, On-Page and Off-Page SEO, we can help you generate free by default traffic, which can increase your brand recognition and supplement your paid advertising efforts.
             </p>
           </Col>
-
-
         </Row>
-
       </div>
     </div>
+
+    
   )
 }
 
