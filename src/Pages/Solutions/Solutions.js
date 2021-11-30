@@ -46,7 +46,7 @@ function Solutions() {
           <Services />
         </div>
         <Row className='Solutions__row'>
-          <Col id='Solutions__R1__col1' xl='4'>
+          <Col id='Solutions__R1__col1'>
             <img className='Solutions__icons' src={website} alt='website' />
             <h3 className='Solutions__h3__Black'>
               Website Design
@@ -55,7 +55,7 @@ function Solutions() {
               In today’s digital world, your website is the first interaction consumers have with your business. That's why almost 95 percent of a user’s first impression relates to web design. It’s also why web design services can have an immense impact on your company’s bottom line.
             </p>
           </Col>
-          <Col id='Solutions__R1__col2' xl='4'>
+          <Col id='Solutions__R1__col2'>
             <img className='Solutions__icons' src={Analytics} alt='Analytics' />
             <h3 className='Solutions__h3__White'>
               Analytics
@@ -64,27 +64,30 @@ function Solutions() {
               Google Analytics and supplementary solutions help you collect tons of information. Our experts help you install such tools, measure and interpret all the touchpoints and get actionable insights from the mess.
             </p>
           </Col>
-          <Col id='Solutions__R1__col3' xl='4'>
+   
+        </Row>
+        <Row className='Solutions__row'>
+        <Col id='Solutions__R2__col1'>
             <img className='Solutions__icons' src={Email} alt='Email' />
-            <h3 className='Solutions__h3__Black'>
+            <h3 className='Solutions__h3__White'>
               Email Marketing
             </h3>
-            <p className='Solutions__p__black'>
+            <p className='Solutions__p__white'>
               Email is one of the cheapest and most effective online marketing tools. We help you grow and monetize your database enables you to retarget your prospects, profile your customers, create lookalike audiences.
+            </p>
+          </Col>
+          <Col id='Solutions__R2__col2'>
+            <img className='Solutions__icons' src={Integration} alt='Integration' />
+            <h3 className='Solutions__h3__Black'>
+              Integration
+            </h3>
+            <p className='Solutions__p__black'>
+              Forget last click attribution. You need a holistic approach to your offline and online marketing channels. Some tend to convert better, whereas other raise awareness. We help you achieve your business goals with the right channels.
             </p>
           </Col>
         </Row>
         <Row className='Solutions__row'>
-          <Col id='Solutions__R2__col1' xl='4'>
-            <img className='Solutions__icons' src={Integration} alt='Integration' />
-            <h3 className='Solutions__h3__White'>
-              Integration
-            </h3>
-            <p>
-              Forget last click attribution. You need a holistic approach to your offline and online marketing channels. Some tend to convert better, whereas other raise awareness. We help you achieve your business goals with the right channels.
-            </p>
-          </Col>
-          <Col id='Solutions__R2__col2' xl='4'>
+        <Col id='Solutions__R3__col1'>
             <img className='Solutions__icons' src={Optimization} alt='Optimization' />
             <h3 className='Solutions__h3__Black'>
               Conversion Rate Optimization
@@ -93,7 +96,7 @@ function Solutions() {
               Bringing prospects is the easy part. Converting them is the hard one. We help you optimise your website towards your business goals, thus reducing your cost per acquisition.
             </p>
           </Col>
-          <Col id='Solutions__R2__col3' xl='4'>
+          <Col id='Solutions__R3__col2'>
             <img className='Solutions__icons' src={Seo} alt='Seo' />
             <h3 className='Solutions__h3__White'>
               Content Marketing & SEO
@@ -102,6 +105,8 @@ function Solutions() {
               From content creation to technical, On-Page and Off-Page SEO, we can help you generate free by default traffic, which can increase your brand recognition and supplement your paid advertising efforts.
             </p>
           </Col>
+
+
         </Row>
 
       </div>
