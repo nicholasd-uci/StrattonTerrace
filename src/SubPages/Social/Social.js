@@ -1,6 +1,7 @@
 import React from 'react'
 import './Social.css'
 import { Row, Col } from 'reactstrap';
+import Card from '../../Components/Cards/SocialMediaCard/Card'
 import Social0 from '../../Assets/Images/Social-Header.png'
 import Social1 from '../../Assets/Images/Social1.png'
 import Services from '../../Components/Services/Services'
@@ -85,6 +86,7 @@ function Social() {
        </ul>
         </Col>
         </Row>
+        <Card />
           </div>
     )
 }

@@ -1,6 +1,7 @@
 import React from 'react'
 import './Nonprofit.css'
 import { Row, Col } from 'reactstrap';
+import Card from '../../Components/Cards/Non-ProfitCard/Card'
 import Nonprofit0 from '../../Assets/Images/Nonprofit-header.png'
 import Nonprofit1 from '../../Assets/Images/Nonprofit1.png'
 import Services from '../../Components/Services/Services'
@@ -59,7 +60,7 @@ function Nonprofit() {
        </ul>
         </Col>
       </Row>
-        
+      <Card />
         </div>
     )
 }

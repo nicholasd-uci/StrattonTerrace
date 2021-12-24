@@ -1,6 +1,7 @@
 import React from 'react'
 import './Ecommerce.css'
 import { Row, Col } from 'reactstrap';
+import Card from '../../Components/Cards/E-commerceCard/Card'
 import Ecommerce0 from '../../Assets/Images/Ecommerce-header.png'
 import Ecommerce1 from '../../Assets/Images/Ecommerce1.png'
 import Services from '../../Components/Services/Services'
@@ -56,6 +57,7 @@ Today there are more 400 million active users on Chinese social media app WeChat
        </ul>
         </Col>
         </Row>
+        <Card />
           </div>
 
     )
