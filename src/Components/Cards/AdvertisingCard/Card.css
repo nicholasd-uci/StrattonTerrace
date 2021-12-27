@@ -1,0 +1,239 @@
+*, ::before, ::after {
+  box-sizing: border-box;
+} 
+
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600&display=swap");
+
+:root {
+  --first-color: rgb(168, 148, 32);
+  --white-color: #E9EAEC;
+  --dark-color: #000000;
+  --body-font: 'Poppins', sans-serif;
+  --h1-font-size: 1.5rem;
+  --h2-font-size: 1.25rem;
+  --normal-font-size: 1rem;
+  --small-font-size: .875rem;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: var(--body-font);
+  font-size: var(--normal-font-size);
+}
+
+h1, p {
+  margin: 0;
+}
+
+a {
+  text-decoration: none !important;
+} 
+
+ul li{
+  list-style-position: outside;
+  list-style-type:none;
+  padding: 5px 0 5px 10px;
+  text-indent: -1em;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+.cards__container {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  background-color: var(--dark-color-lighten);
+}
+
+.card {
+  min-width: 350px;
+  max-width: 400px;
+  height: 550px;
+  background-color: var(--dark-color);
+  border-radius: 1rem;
+  padding: 2rem 2rem 0;
+  color: var(--white-color);
+  overflow-y: hidden;
+  margin: 15px;
+
+}
+
+.card__img {
+  position: absolute;
+  width: 80%;
+  filter: drop-shadow(5px 10px 15px rgba(8,9,13,.4));
+}
+
+.card__data {
+  transform: translateY(13.2rem);
+  text-align: center;
+}
+
+.card__title {
+  font-size: var(--h1-font-size);
+  color: var(--first-color);
+  margin-bottom: .5rem;
+}
+
+.card__price {
+  display: inline-block;
+  font-size: var(--h2-font-size);
+  font-weight: 500;
+  margin-bottom: 1.25rem;
+}
+
+.card__description {
+  font-size: var(--small-font-size);
+  text-align: initial;
+  margin-bottom: 1.25rem;
+  opacity: 0;
+}
+
+.card__button_order {
+  display: block;
+  display: inline;
+  margin: 10px;
+  width: max-content;
+  padding: 1.125rem 2rem;
+  background-color: var(--first-color);
+  color: var(--white-color);
+  border-radius: 2.5rem;
+  font-weight: 600;
+  transition: .2s;
+  opacity: 0;
+}
+.card__button_call{
+  display: block;
+  display: inline;
+  margin: 10px;
+  width: max-content;
+  padding: 1.125rem 2rem;
+  background-color: var(--white-color);
+  color: var(--dark-color)!important;
+  border-radius: 2.5rem;
+  font-weight: 600;
+  transition: .2s;
+  opacity: 0;
+}
+
+.card__button_order:hover {
+  box-shadow: 0 18px 40px -12px rgba(242,162,12,.35);
+}
+.card__button_call:hover {
+  box-shadow: 0 18px 40px -12px rgba(242,162,12,.35);
+}
+.card__img, 
+.card__data, 
+.card__title, 
+.card__card__price, 
+.card__description {
+  transition: .5s;
+}
+
+.card:hover .card__img {
+  transform: translate(-1.5rem, -9.5rem) rotate(-20deg);
+}
+
+.card:hover .card__data {
+  transform: translateY(4.8rem);
+}
+
+.card:hover .card__title {
+  transform: translateX(-2.3rem);
+  margin-bottom: 0;
+}
+
+.card:hover .card__card__price {
+  transform: translateX(-6.8rem);
+}
+
+.card:hover .card__description, 
+.card:hover .card__button_order, .card__button_call {
+  transition-delay: .2s;
+  opacity: 1;
+}
+
+@media screen and (max-width: 768px) {
+  
+.cards__container {
+
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.card {
+  min-width: 350px;
+  max-width: 400px;
+  height: 550px;
+  background-color: var(--dark-color);
+  border-radius: 1rem;
+  padding: 2rem 2rem 0;
+  color: var(--white-color);
+  overflow-y: hidden;
+  margin: 15px;
+
+}
+
+.card__img {
+  position: absolute;
+  width: 80%;
+  filter: drop-shadow(5px 10px 15px rgba(8,9,13,.4));
+}
+
+.card__data {
+  transform: translateY(13.2rem);
+  text-align: center;
+}
+
+.card__title {
+  font-size: var(--h1-font-size);
+  color: var(--first-color);
+  margin-bottom: .5rem;
+}
+
+.card__price {
+  display: inline-block;
+  font-size: var(--h2-font-size);
+  font-weight: 500;
+  margin-bottom: 1.25rem;
+}
+
+.card__description {
+  font-size: var(--small-font-size);
+  text-align: initial;
+  margin-bottom: 1.25rem;
+  opacity: 0;
+}
+
+
+.card__button_order {
+  display: block;
+  display: inline;
+  width: max-content;
+  padding: 1.125rem 2rem;
+  background-color: var(--first-color);
+  color: var(--white-color);
+  border-radius: 2.5rem;
+  font-weight: 600;
+  transition: .2s;
+  /* opacity: 0; */
+}
+.card__button_call {
+  display: block;
+  display: inline;
+  /* width: max-content; */
+  padding: 1.125rem 2rem;
+  background-color: rgb(255, 255, 255);
+  color: var(--white-color);
+  border-radius: 2.5rem;
+  font-weight: 600;
+  transition: .2s;
+  /* opacity: 0; */
+}
+}

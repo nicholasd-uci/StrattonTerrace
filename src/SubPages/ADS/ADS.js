@@ -1,6 +1,7 @@
 import React from 'react'
 import './ADS.css'
 import { Row, Col } from 'reactstrap';
+import Card from '../../Components/Cards/AdvertisingCard/Card'
 import Ads0 from '../../Assets/Images/Ads-Header.png'
 import Ads1 from '../../Assets/Images/Ads-2.png'
 import Services from '../../Components/Services/Services'
@@ -32,7 +33,7 @@ function Ads() {
           history when they opened emails previously from companies like yours too! There are even apps for smartphones that allow people with common 
           interests organize themselves so you'll know what type of content would best suit all tastes - which could lead down an interesting rabbit hole if left unchecked.
           </p>
-          <h4 className="Ads__h4">
+          {/* <h4 className="Ads__h4">
           Types of digital advertising
           </h4>
           <h4 className="Ads__h4">
@@ -57,9 +58,10 @@ function Ads() {
         <li>
         TikTok
         </li>
-       </ul>
+       </ul> */}
         </Col>
         </Row>
+        <Card />
           </div>
    )
 }

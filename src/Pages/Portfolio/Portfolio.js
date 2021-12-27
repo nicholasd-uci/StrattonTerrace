@@ -8,6 +8,8 @@ import BrowsJungle from '../../Assets/Images/Portfolio/Brows-jungle.png'
 import CoastAutomotive from '../../Assets/Images/Portfolio/CoastAutomotive.png'
 import OffRoaders from '../../Assets/Images/Portfolio/Off-Roaders.png'
 import Federation from '../../Assets/Images/Portfolio/Federation.png'
+import ADC from '../../Assets/Images/Portfolio/ADC.png'
+import Healthy from '../../Assets/Images/Portfolio/Healthy-Wealthy-Life.png'
 import Nova from '../../Assets/Images/Portfolio/Nova.png'
 
 
@@ -44,7 +46,21 @@ function Portfolio() {
         site: 'https://www.novaxs.co/',
         image: Nova
       },
-      
+      {
+        name: 'ADC Window Washers',
+        industry: 'Cleaning Services',
+        description: 'Est. in Oakland CA. We offer professional window cleaning services, pressure washing, gutter cleaning, and solar panel cleaning. Eco-friendly, honest, and attentive to detail.',
+        site: 'https://www.adcwindowwashers.com/',
+        image: ADC
+      },
+    
+      {
+        name: 'Healthy Wealthy Life',
+        industry: 'Personal financial planning Services',
+        description: 'Creating a clear Financial vision with personal One on One guidance to build your financial house, empowering you to take more control of your financial future so you can live the life you want.',
+        site: 'https://hraye17.wixsite.com/website',
+        image: Healthy
+      },
       {
         name: 'Off-Roaders',
         industry: 'Car Part Ecommerce Store',

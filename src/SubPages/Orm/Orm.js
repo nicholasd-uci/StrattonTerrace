@@ -1,6 +1,7 @@
 import React from 'react'
 import './Orm.css'
 import { Row, Col } from 'reactstrap';
+import Card from '../../Components/Cards/OrmCard/Card'
 import ORM0 from '../../Assets/Images/ORM-header.png'
 import ORM1 from '../../Assets/Images/ORM1.png'
 import Services from '../../Components/Services/Services'
@@ -52,6 +53,7 @@ function Orm() {
        </ul>
         </Col>
         </Row>
+        <Card />
           </div>
     )
 }
