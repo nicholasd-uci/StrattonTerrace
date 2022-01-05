@@ -1,8 +1,8 @@
 import React from 'react'
 import './Card.css'
 import google from '../../../Assets/Images/New_card_img/google.png'
-import Startup_web from '../../../Assets/Images/New_card_img/Startup_web.png'
-import Professional_Web from '../../../Assets/Images/New_card_img//Professional_Web.png'
+import socialMedia from '../../../Assets/Images/New_card_img/socialMedia_ads.png'
+import yelp from '../../../Assets/Images/New_card_img//Yelp-Advertising.png'
 
 function Card() {
     return (
@@ -39,7 +39,7 @@ function Card() {
                 </div>
                     </div>
                     <div className="card">
-                <img src={google} alt="" className="card__img" /> 
+                <img src={socialMedia} alt="" className="card__img" /> 
 
                 <div className="card__content">
                     <div className="card__data">
@@ -68,7 +68,7 @@ function Card() {
                 </div>
                     </div>
                     <div className="card">
-                <img src={google} alt="" className="card__img" /> 
+                <img src={yelp} alt="" className="card__img" /> 
 
                 <div className="card__content">
                     <div className="card__data">
