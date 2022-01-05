@@ -62,7 +62,7 @@ function Card() {
               }}>
                     (For budgets over $20,000 a fee of 15% is allocated to STM LLC)</li>
                 </ul>
-            <a href="https://checkout.square.site/merchant/MLZ8ZQY9BSZZC/checkout/MPF7NQF3NKTQ3ULZ273UX3XZ" target="_blank" rel="noreferrer"  className="card__button_order">ORDER</a>
+            <a href="https://checkout.square.site/merchant/MLZ8ZQY9BSZZC/checkout/N7EK5Y232APEONPM5KXIF2JP" target="_blank" rel="noreferrer"  className="card__button_order">ORDER</a>
             <a href="facetime:16578779300" target="_blank" rel="noreferrer"  className="card__button_call">CALL US</a>
              </div>
                 </div>
@@ -92,7 +92,7 @@ function Card() {
               }}>
                     (For budgets over $20,000 a fee of 9% is allocated to STM LLC)</li>
                 </ul>
-            <a href="https://checkout.square.site/merchant/MLZ8ZQY9BSZZC/checkout/MPF7NQF3NKTQ3ULZ273UX3XZ" target="_blank" rel="noreferrer"  className="card__button_order">ORDER</a>
+            <a href="https://checkout.square.site/merchant/MLZ8ZQY9BSZZC/checkout/OFW5UQRLQ3BSM3F7N4WYHRVI" target="_blank" rel="noreferrer"  className="card__button_order">ORDER</a>
             <a href="facetime:16578779300" target="_blank" rel="noreferrer"  className="card__button_call">CALL US</a>
              </div>
                 </div>
