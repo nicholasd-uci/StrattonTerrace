@@ -15,7 +15,7 @@ function Card() {
                 <img src={eCommerce} alt="" className="card__img" /> 
                 <div className="card__content">
                     <div className="card__data">
-                         <h1 className="card__title">eCommerce: Editor-X</h1>
+                         <h1 className="card__title">Editor-X</h1>
                          <span className="card__price">$3,199.00</span>
                 <ul>
                 <li>This is a completely scaled website</li>
@@ -43,7 +43,7 @@ function Card() {
                 <img src={Shopify} alt="" className="card__img" /> 
                 <div className="card__content">
                     <div className="card__data">
-                         <h1 className="card__title">eCommerce: Shopify</h1>
+                         <h1 className="card__title">Shopify</h1>
                          <span className="card__price">$$2,100.00</span>
                 <ul>
                 <li>This is a complete scaled website. </li>
@@ -70,7 +70,7 @@ function Card() {
                 <img src={WIX} alt="" className="card__img" /> 
                 <div className="card__content">
                     <div className="card__data">
-                         <h1 className="card__title">eCommerce: WIX Professional</h1>
+                         <h1 className="card__title">WIX Professional</h1>
                          <span className="card__price">$1,995.00</span>
                 <ul>
                 <li>Redesign 5-Page Website</li>
@@ -94,7 +94,7 @@ function Card() {
                 <img src={WIXRevamp} alt="" className="card__img" /> 
                 <div className="card__content">
                     <div className="card__data">
-                         <h1 className="card__title">eCommerce: WIX Revamp</h1>
+                         <h1 className="card__title">WIX Revamp</h1>
                          <span className="card__price">$1,300.00</span>
                 <ul>
                 <li>Redesign 3-Page Website</li>
@@ -115,7 +115,7 @@ function Card() {
                 <img src={Start_up} alt="" className="card__img" /> 
                 <div className="card__content">
                     <div className="card__data">
-                         <h1 className="card__title">eCommerce: WIX Start-up</h1>
+                         <h1 className="card__title">WIX Start-up</h1>
                          <span className="card__price">$700.00</span>
                 <ul>
                 <li>3-Page Website</li>
@@ -147,7 +147,7 @@ function Card() {
                 <img src={WordPress} alt="" className="card__img" /> 
                 <div className="card__content">
                     <div className="card__data">
-                         <h1 className="card__title">eCommerce: WordPress</h1>
+                         <h1 className="card__title">WordPress</h1>
                          <span className="card__price">$$3,499.00</span>
                 <ul>
                 <li>This is a completely scaled website</li>
