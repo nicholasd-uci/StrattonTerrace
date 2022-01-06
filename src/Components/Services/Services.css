@@ -89,6 +89,9 @@ color: rgb(168, 148, 32);
     width: 140px;
     margin: -35px;
   }
+  .services__title{
+    opacity: 0
+  }
   .services__content__image img:nth-child(1):hover {
     background-color: #c59f0800;
     border-radius: 10px;
