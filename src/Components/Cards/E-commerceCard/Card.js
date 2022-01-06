@@ -31,8 +31,6 @@ function Card() {
                 paddingBottom: '5px'
               }}>
                 Requests by clients can be handled as needed</li>
-                <li></li>
-                <li></li>
                 </ul>
             <a href="https://square.link/u/XnVMOGEl" target="_blank" rel="noreferrer"  className="card__button_order">ORDER</a>
             <a href="facetime:16578779300" target="_blank" rel="noreferrer"  className="card__button_call">CALL US</a>
@@ -58,8 +56,6 @@ function Card() {
                 paddingBottom: '5px'
               }}>
                 Requests by clients can be handled as needed</li>
-                <li></li>
-                <li></li>
                 </ul>
             <a href="https://square.link/u/R2Ggk1S4" target="_blank" rel="noreferrer"  className="card__button_order">ORDER</a>
             <a href="facetime:16578779300" target="_blank" rel="noreferrer"  className="card__button_call">CALL US</a>
@@ -81,7 +77,6 @@ function Card() {
                 <li>25 Products & SEO</li>
                 <li>AdvanceSite SEO</li>
                 <li>My Google Business Setup</li>
-           
                 </ul>
             <a href="https://square.link/u/uaBHyRdT" target="_blank" rel="noreferrer"  className="card__button_order">ORDER</a>
             <a href="facetime:16578779300" target="_blank" rel="noreferrer"  className="card__button_call">CALL US</a>
@@ -103,8 +98,6 @@ function Card() {
                 <li>Automation, Checkout, Shipping & Taxes</li>
                 <li>12 Products & SEO</li>
                 <li>Basic Site SEO</li>
-                <li></li>
-                <li></li>
                 </ul>
             <a href="https://square.link/u/2tgcKKi4" target="_blank" rel="noreferrer"  className="card__button_order">ORDER</a>
             <a href="facetime:16578779300" target="_blank" rel="noreferrer"  className="card__button_call">CALL US</a>
@@ -127,16 +120,6 @@ function Card() {
                 paddingBottom: '5px'
               }}>
                 This does not Include Mobile Response</li>
-                <li></li>
-                <li></li>
-                <li></li>
-                <li></li>
-                <li></li>
-                <li></li>
-                <li></li>
-                <li></li>
-                <li></li>
-                <li></li>
                 </ul>
             <a href="https://square.link/u/BZKelDGr" target="_blank" rel="noreferrer"  className="card__button_order">ORDER</a>
             <a href="facetime:16578779300" target="_blank" rel="noreferrer"  className="card__button_call">CALL US</a>
@@ -163,8 +146,6 @@ function Card() {
                 paddingBottom: '5px'
               }}>
                 Requests by clients can be handled as needed</li>
-                <li></li>
-                <li></li>   
                 </ul>
             <a href="https://square.link/u/XhQuXBCv" target="_blank" rel="noreferrer"  className="card__button_order">ORDER</a>
             <a href="facetime:16578779300" target="_blank" rel="noreferrer"  className="card__button_call">CALL US</a>
