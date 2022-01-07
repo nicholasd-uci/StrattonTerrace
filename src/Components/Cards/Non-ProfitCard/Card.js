@@ -1,21 +1,16 @@
 import React from 'react'
 import './Card.css'
-import Personal from '../../../Assets/Images/New_card_img/Personal.png'
-import Professional from '../../../Assets/Images/New_card_img//Professional.png'
-import Athlete from '../../../Assets/Images/New_card_img//Athlete.png'
-import Basic_Web from '../../../Assets/Images/New_card_img//Basic_Web.png'
-import Startup_web from '../../../Assets/Images/New_card_img//Startup_web.png'
-import Professional_Web from '../../../Assets/Images/New_card_img//Professional_Web.png'
-import Elite from '../../../Assets/Images/New_card_img//Elite.png'
-import Corporate from '../../../Assets/Images/New_card_img//Corporate.png'
-import Business from '../../../Assets/Images/New_card_img//Business.png'
+import nonprofit1 from '../../../Assets/Images/New_card_img/nonprofit1.png'
+import nonprofit2 from '../../../Assets/Images/New_card_img/nonprofit2.png'
+import nonprofit3 from '../../../Assets/Images/New_card_img/nonprofit3.png'
+
 
 function Card() {
     return (
         <>
         <div className="cards__container">
             <div className="card">
-                <img src={Personal} alt="" className="card__img" /> 
+                <img src={nonprofit1} alt="" className="card__img" /> 
                 <div className="card__content">
                     <div className="card__data">
                          <h1 className="card__title">Non-Profit 'CMO'</h1>
@@ -31,6 +26,7 @@ function Card() {
                 <li>Social Media Management</li>
                 <li>Directories Included</li>
                 <li>Search Engine Optimization: Site</li>
+
                 </ul>
             <a href="https://square.link/u/GTaDFodb" target="_blank" rel="noreferrer"  className="card__button_order">ORDER</a>
             <a href="facetime:16578779300" target="_blank" rel="noreferrer"  className="card__button_call">CALL US</a>
@@ -38,7 +34,7 @@ function Card() {
                 </div>
                     </div>
                     <div className="card">
-                <img src={Personal} alt="" className="card__img" /> 
+                <img src={nonprofit2} alt="" className="card__img" /> 
                 <div className="card__content">
                     <div className="card__data">
                          <h1 className="card__title">Non-Profit 'Basic'</h1>
@@ -53,6 +49,7 @@ function Card() {
                 <li>Directories: Yes</li>
                 <li>Ad Support: Two 1-Hour Consultation Session</li>
                 <li><b><del>Hosting & Training: No</del></b></li>
+            <br></br>
                 </ul>
             <a href="https://square.link/u/ELSiG43j" target="_blank" rel="noreferrer"  className="card__button_order">ORDER</a>
             <a href="facetime:16578779300" target="_blank" rel="noreferrer"  className="card__button_call">CALL US</a>
@@ -60,7 +57,7 @@ function Card() {
                 </div>
                     </div>
                     <div className="card">
-                <img src={Personal} alt="" className="card__img" /> 
+                <img src={nonprofit3} alt="" className="card__img" /> 
                 <div className="card__content">
                     <div className="card__data">
                          <h1 className="card__title">Non-Profit 'Advance'</h1>
@@ -75,6 +72,7 @@ function Card() {
                 <li>Directories: Yes</li>
                 <li>Full Ad Support</li>
                 <li><b>Hosting & Training: Yes</b></li>
+            <br></br>
                 </ul>
             <a href="https://square.link/u/si0oq37z" target="_blank" rel="noreferrer"  className="card__button_order">ORDER</a>
             <a href="facetime:16578779300" target="_blank" rel="noreferrer"  className="card__button_call">CALL US</a>

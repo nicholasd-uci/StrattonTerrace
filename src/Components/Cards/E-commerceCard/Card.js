@@ -30,6 +30,7 @@ function Card() {
                 paddingBottom: '5px'
               }}>
                 *Mobile Responsive will be an Additional $200</li>
+              <br></br>
                 </ul>
             <a href="https://square.link/u/XnVMOGEl" target="_blank" rel="noreferrer"  className="card__button_order">ORDER</a>
             <a href="facetime:16578779300" target="_blank" rel="noreferrer"  className="card__button_call">CALL US</a>
@@ -55,6 +56,7 @@ function Card() {
                 paddingBottom: '5px'
               }}>
                 *Mobile Responsive will be an Additional $200</li>
+              <br></br>
                 </ul>
             <a href="https://square.link/u/R2Ggk1S4" target="_blank" rel="noreferrer"  className="card__button_order">ORDER</a>
             <a href="facetime:16578779300" target="_blank" rel="noreferrer"  className="card__button_call">CALL US</a>
@@ -80,6 +82,7 @@ function Card() {
                 paddingBottom: '5px'
               }}>
                 *Mobile Responsive will be an Additional $200</li>
+              <br></br>
                 </ul>
             <a href="https://square.link/u/uaBHyRdT" target="_blank" rel="noreferrer"  className="card__button_order">ORDER</a>
             <a href="facetime:16578779300" target="_blank" rel="noreferrer"  className="card__button_call">CALL US</a>
@@ -97,8 +100,7 @@ function Card() {
                 <ul>
                 <li>This is a completely scaled website</li>
                 <li><b>7</b> Pages Website</li>
-                <li>Front-End Design</li>
-                <li>Full Back-End Setup </li>
+                <li>Front-End, Back-End Design & Setup</li>
                 <li>Automation, Checkout, Shipping & Taxes</li>
                 <li><b>20 Products</b> & SEO</li>
                 <li>Advance Site SEO</li>
@@ -109,6 +111,7 @@ function Card() {
                 paddingBottom: '5px'
               }}>
                 *Mobile Responsive Included</li>
+
                 </ul>
             <a href="https://square.link/u/2tgcKKi4" target="_blank" rel="noreferrer"  className="card__button_order">ORDER</a>
             <a href="facetime:16578779300" target="_blank" rel="noreferrer"  className="card__button_call">CALL US</a>
@@ -124,8 +127,7 @@ function Card() {
                 <ul>
                 <li>This is a completely scaled website</li>
                 <li><b>7</b> Pages Website</li>
-                <li>Front-End Design</li>
-                <li>Full Back-End Setup </li>
+                <li>Front-End, Back-End Design & Setup</li>
                 <li>Automation, Checkout, Shipping & Taxes</li>
                 <li><b>20 Products</b> & SEO</li>
                 <li>Advance Site SEO</li>
@@ -136,6 +138,7 @@ function Card() {
                 paddingBottom: '5px'
               }}>
                 *Mobile Responsive Included</li>
+
                 </ul>
             <a href="https://square.link/u/BZKelDGr" target="_blank" rel="noreferrer"  className="card__button_order">ORDER</a>
             <a href="facetime:16578779300" target="_blank" rel="noreferrer"  className="card__button_call">CALL US</a>
@@ -151,8 +154,7 @@ function Card() {
                 <ul>
                 <li>This is a completely scaled website</li>
                 <li><b>7</b> Pages Website</li>
-                <li>Front-End Design</li>
-                <li>Full Back-End Setup </li>
+                <li>Front-End, Back-End Design & Setup</li>
                 <li>Automation, Checkout, Shipping & Taxes</li>
                 <li><b>20 Products</b> & SEO</li>
                 <li>Advance Site SEO</li>
@@ -163,6 +165,7 @@ function Card() {
                 paddingBottom: '5px'
               }}>
                 *Mobile Responsive Included</li>
+
                 </ul>
             <a href="https://square.link/u/XhQuXBCv" target="_blank" rel="noreferrer"  className="card__button_order">ORDER</a>
             <a href="facetime:16578779300" target="_blank" rel="noreferrer"  className="card__button_call">CALL US</a>

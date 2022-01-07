@@ -29,6 +29,7 @@ function Card() {
                 paddingBottom: '5px'
               }}>
                 *Mobile Responsive will be an Additional $150</li>
+              <br></br>
                 </ul>
             <a href="https://square.link/u/40e1H1nG" target="_blank" rel="noreferrer"  className="card__button_order">ORDER</a>
             <a href="facetime:16578779300" target="_blank" rel="noreferrer"  className="card__button_call">CALL US</a>
@@ -54,6 +55,7 @@ function Card() {
                 paddingBottom: '5px'
               }}>
                 *Mobile Responsive will be an Additional $200</li>
+              <br></br>
                 </ul>
             <a href="https://square.link/u/gxz2GaoI" target="_blank" rel="noreferrer"  className="card__button_order">ORDER</a>
             <a href="facetime:16578779300" target="_blank" rel="noreferrer"  className="card__button_call">CALL US</a>
@@ -80,6 +82,7 @@ function Card() {
                 paddingBottom: '5px'
               }}>
                 *Mobile Responsive will be an Additional $200</li>
+              <br></br>
                 </ul>
             <a href="https://square.link/u/KCPAjM4Y" target="_blank" rel="noreferrer"  className="card__button_order">ORDER</a>
             <a href="facetime:16578779300" target="_blank" rel="noreferrer"  className="card__button_call">CALL US</a>
@@ -108,6 +111,7 @@ function Card() {
                 paddingBottom: '5px'
               }}>
                 *All Device Responsiveness Included</li>
+              <br></br>
                 </ul>
             <a href="https://square.link/u/NoX8ckBe" target="_blank" rel="noreferrer"  className="card__button_order">ORDER</a>
             <a href="facetime:16578779300" target="_blank" rel="noreferrer"  className="card__button_call">CALL US</a>
@@ -134,6 +138,7 @@ function Card() {
                 paddingBottom: '5px'
               }}>
                 *All Device Responsiveness Included</li>
+              <br></br>
                 </ul>
             <a href="https://square.link/u/zuOasHWC" target="_blank" rel="noreferrer"  className="card__button_order">ORDER</a>
             <a href="facetime:16578779300" target="_blank" rel="noreferrer"  className="card__button_call">CALL US</a>
@@ -159,6 +164,7 @@ function Card() {
                 paddingBottom: '5px'
               }}>
                 *All Device Responsiveness Included</li>
+              <br></br>
                 </ul>
             <a href="https://square.link/u/zuOasHWC" target="_blank" rel="noreferrer"  className="card__button_order">ORDER</a>
             <a href="facetime:16578779300" target="_blank" rel="noreferrer"  className="card__button_call">CALL US</a>
