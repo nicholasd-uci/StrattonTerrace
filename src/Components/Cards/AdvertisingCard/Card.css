@@ -153,7 +153,8 @@ img {
 }
 
 .card:hover .card__description, 
-.card:hover .card__button_order, .card__button_call {
+.card:hover .card__button_order, 
+.card:hover .card__button_call {
   transition-delay: .2s;
   opacity: 1;
 }
