@@ -8,7 +8,7 @@ import Business from '../../../Assets/Images/New_card_img//Business.png'
 function Card() {
     return (
         <>
-                        <div className="cards__container">
+            <div className="cards__container">
             <div className="card">
                 <img src={Basic_Web} alt="" className="card__img" /> 
 
@@ -17,36 +17,37 @@ function Card() {
                          <h1 className="card__title">Starter Hosting & <br/> Maintenance</h1>
                          <span className="card__price">$29.99/Mo</span>
                 <ul>
-                <li>Hosting Assistance</li>
-                <li>Domain Protection - SSL Certified</li>
+               <li>Hosting Assistance,</li>
+               <li>Mo Maintenance Revisions: <b>2</b></li>
+                <li>Ecommerce Support</li>
                 <li>Domain Support</li>
                 <li>Fast Page Loading</li>
-                <li>Ecommerce Support</li>
-                <li><del><b>Revisions</b></del> </li>
+                <li>Domain Protection - SSL Certified</li>
+                <li><del><b>Consultation Session's</b></del> </li>
                 <li><del><b>Email Marketing Template</b></del> </li>
                 </ul>
-            <a href="https://square.link/u/ScmPNoyb" target="_blank" rel="noreferrer"  className="card__button_order">ORDER</a>
+            <a href="https://square.link/u/gokgZ0bp" target="_blank" rel="noreferrer"  className="card__button_order">ORDER</a>
             <a href="facetime:16578779300" target="_blank" rel="noreferrer"  className="card__button_call">CALL US</a>
              </div>
                 </div>
                     </div>
                     <div className="card">
-                <img src={Startup_web} alt="" className="card__img" /> 
+                <img src={Basic_Web} alt="" className="card__img" /> 
 
                 <div className="card__content">
                     <div className="card__data">
-                         <h1 className="card__title">Basic Hosting & <br/> Maintenance</h1>
-                         <span className="card__price">$65.99/Mo</span>
+                         <h1 className="card__title">Advanced Hosting & <br/> Maintenance</h1>
+                         <span className="card__price">$44.99/Mo</span>
                 <ul>
-                <li>Hosting Assistance</li>
-                <li>Mo Maintenance Revisions</li>
-                <li><b>Revisions: 1-2</b></li>
-                <li>Monthly Consultation</li>
-                <li>One: 1-Hour sessions</li>
+               <li>Hosting Assistance,</li>
+               <li>Mo Maintenance Revisions: <b>5</b></li>
+               <li>Mo Consultation: Two 30-Min Session </li>
                 <li>Ecommerce Support</li>
-                <li>Email Marketing Template</li>
+                <li>Domain Support</li>
+                <li>Domain Protection - SSL Certified</li>
+                <li><b>Email Marketing Template (1)</b></li>
                 </ul>
-            <a href="https://www.stmathlete.com/home" target="_blank" rel="noreferrer"  className="card__button_order">ORDER</a>
+            <a href="https://square.link/u/fuIFusUW" target="_blank" rel="noreferrer"  className="card__button_order">ORDER</a>
             <a href="facetime:16578779300" target="_blank" rel="noreferrer"  className="card__button_call">CALL US</a>
              </div>
                 </div>
@@ -54,42 +55,42 @@ function Card() {
                         </div>
                         <div className="cards__container">
                         <div className="card">
-                <img src={Professional_Web} alt="" className="card__img" /> 
+                <img src={Basic_Web} alt="" className="card__img" /> 
 
                 <div className="card__content">
                     <div className="card__data">
-                         <h1 className="card__title">Advanced Hosting & <br/> Maintenance</h1>
-                         <span className="card__price">$77.99/Mo</span>
+                         <h1 className="card__title">Full Support Hosting & <br/> Maintenance</h1>
+                         <span className="card__price">$99.99/Mo</span>
                 <ul>
-                <li>Hosting Assistance</li>
-                <li>Mo Maintenance Revisions</li>
-                <li><b>Revisions: 3-4</b></li>
-                <li>Monthly Consultation</li>
-                <li>Two: 1-Hour sessions</li>
+               <li>Hosting Assistance,</li>
+                <li>Mo Maintenance Revisions: <b>10</b></li>
+                <li>Mo Consultation: Two 1-Hr Session </li>
                 <li>Ecommerce Support</li>
-                <li>Email Marketing Template</li>
+                <li>Domain Support</li>
+                <li>Domain Protection - SSL Certified</li>
+                <li><b>Email Marketing Template (2)</b></li>
                 </ul>
-            <a href="https://www.stmathlete.com/home" target="_blank" rel="noreferrer"  className="card__button_order">ORDER</a>
+            <a href="https://square.link/u/4Dw0QGRY" target="_blank" rel="noreferrer"  className="card__button_order">ORDER</a>
             <a href="facetime:16578779300" target="_blank" rel="noreferrer"  className="card__button_call">CALL US</a>
              </div>
                 </div>
                     </div>
                     <div className="card">
-                <img src={Business} alt="" className="card__img" /> 
+                <img src={Basic_Web} alt="" className="card__img" /> 
+
                 <div className="card__content">
                     <div className="card__data">
-                         <h1 className="card__title">Unlimited Hosting & <br/> Maintenance</h1>
-                         <span className="card__price">$99.99/Mo</span>
+                         <h1 className="card__title">eCommerce Hosting & <br/> Maintenance</h1>
+                         <span className="card__price">$299.99/Mo</span>
                 <ul>
-                <li>Hosting Assistance</li>
-                <li>Mo Maintenance Revisions</li>
-                <li>Revisions: Unlimited</li>
-                <li>Monthly Consultation</li>
-                <li>Three: 1-Hour sessions</li>
+               <li>Hosting Assistance,</li>
+                <li>Mo Maintenance Revisions: <b>30</b></li>
+                <li>Mo Consultation: Three 1-Hr Session </li>
                 <li>Ecommerce Support</li>
-                <li>Email Marketing Template</li>
+                <li>IT Support & Mobile Support</li>
+                <li>Domain Protection - SSL Certified</li>
                 </ul>
-            <a href="https://www.stmathlete.com/home" target="_blank" rel="noreferrer"  className="card__button_order">ORDER</a>
+            <a href="https://square.link/u/UWyFUk2f" target="_blank" rel="noreferrer"  className="card__button_order">ORDER</a>
             <a href="facetime:16578779300" target="_blank" rel="noreferrer"  className="card__button_call">CALL US</a>
              </div>
                 </div>

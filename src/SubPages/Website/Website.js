@@ -30,12 +30,14 @@ const Website = (props) => {
         What is  Website?
         </h4>
         <p className="Website__p">
-        If you want to be competitive in today's market, your website is an absolute must! If not careful, it can become outdated and ineffective within just months. 
-        That’s why we here at Stratton Terrace Marketing offer services for building best websites that meet customers needs as well as budgets with our affordable packages starting 
-        under $29 per month (including domain name).
-        It doesn't matter if you're a small or large company. We can help your brand stand out from the crowd, and get more customers in than ever before! So what are waiting? 
-        Get started now on taking control over how people find out about all those great products available only through their preferred provider - contact us today so together 
-        let's make sure they know exactly where to go next!!!
+        If you want to be competitive in today's market, your website is an absolute must have! 
+        That’s why at Stratton Terrace Marketing we focus on building you a site that will showcase, sell, or display your business and what you do.
+        <br></br>   
+        <br></br>  
+        <p>    
+        It doesn't matter if you're a small or large company. We can help your brand stand out from the crowd, and drive more traffic to your website than you have ever had before! So what are waiting? 
+        Get started now on taking control over how people find out you and what you have to offer - contact us today so we can help those know exactly where to go next!
+        </p>
         </p>
         </Col>
       </Row>

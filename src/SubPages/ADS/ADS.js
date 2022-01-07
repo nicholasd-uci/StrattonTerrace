@@ -28,10 +28,13 @@ function Ads() {
           What is digital advertising?
           </h4>
           <p className="Ads__p">
-          Digital advertising is the most popular form of marketing in today's world, and it can be found on many different channels. 
-          Email ads will bring your message to specific audiences while also targeting them by interest or location based off their browsing 
-          history when they opened emails previously from companies like yours too! There are even apps for smartphones that allow people with common 
-          interests organize themselves so you'll know what type of content would best suit all tastes - which could lead down an interesting rabbit hole if left unchecked.
+          Digital advertising is the most popular form of marketing in today's world, and it can be your best tool to leverage. 
+          Email ads will only bring you so far and so many leads! It targets a specific audiences while missing out on a majority of people who actually want your product or service.  
+          This is were we come in and help you get more people to your website or certain products. 
+          We guarantee that we will bring you to the top of most advertising channel's and get people to notice your business. 
+          <br></br>
+          <br></br>
+          Call us today and take advantage of our team's knowledge! 
           </p>
           {/* <h4 className="Ads__h4">
           Types of digital advertising

@@ -26,13 +26,10 @@ function Orm() {
           What Is Online Reputation Management?
           </h4>
           <p className="Orm__p">
-          Online reviews and recommendations are becoming increasingly important in today’s market. Business owners need to take steps now, 
-          before their competitors do so! Recent research by Reputation Management identifies that 24% of sales growth is due solely from online-sourced 
-          interactions for businesses who have ORM programs in place—and this doesn't even include the other benefits such as customer service improvement or less 
-          time spent on marketing campaigns overall because they can focus where people spend most: online interacting with brands instead of them directly through physical storefront locations
-          Do you want be left behind while everyone else takes advantage?
+          Online reviews and recommendations are becoming increasingly important in today’s market. Business owners need to take steps in order to manage it.
+          Recent research by Reputation Management identifies that 24% of sales growth is due solely from online-sourced interactions for businesses who have ORM programs. 
           There are a number of steps you can take to ensure your organization’s success in today's digital business environment. Engage with ORM activities including managing online reviews, 
-          maintaining accurate listings and engaging with target audiences on social media or conduct customer surveys for feedback from those who have been served by the company already!
+          maintaining accurate listings, and engaging with target audiences on social media is key. Conduct customer surveys for feedback from those who have been served by the company already!
 </p>
           <h4 className="Orm__h4">
           ORM
@@ -48,7 +45,7 @@ function Orm() {
         What are the three key components of ORM?
         </li>
         <li>
-        How to launch an ORM program in your organization
+        How to launch an ORM program in your organization!
         </li>
        </ul>
         </Col>

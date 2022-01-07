@@ -29,30 +29,32 @@ function Ecommerce() {
           What is  E-commerce?
           </h4>
           <p className="Ecommerce__p">
-          The electronic marketplace has become an integral part of everyday life. E-commerce is the buying and selling of goods, services or data over an electronic network primarily through internet commerce platforms like Amazon's Marketplace program which was started in 2000 with an aim to create "a place where creators can connect directly" 
-Today there are more 400 million active users on Chinese social media app WeChat who spend about 2 hours every day browsing shopping websites - this trend not only shows that consumers want convenience when doing business but also how tech savvy they've become!
+          The electronic marketplace has become an integral part of everyday life. 
+          E-commerce is the buying and selling of goods, services, or data - all from within the palm of your hand or sitting at your computer desk. 
+          Now you have the ability to bring your business good or service, directly to people by leverage Stratton Terrace Marketing. Let our combined 10-years of experience help you build a website that will make a difference.    
+          
           </p>
           <h4 className="Ecommerce__h4">
           Types of e-commerce
           </h4>
           <p className="Ecommerce__p">
-          As commerce continues to evolve, so do the ways that it’s conducted. Following are the most traditional types of e-commerce models:
+          As commerce continues to evolve, so does the ways it’s conducted. Following are the most traditional types of e-commerce models - and we can build them all! 
          </p>
          <ul className='Ecommerce__ul'>
         <li>
-        Business to Consumer (B2C)
+        - Business to Consumer (B2C)
         </li>
         <li>
-        Business to Business (B2B)
+        - Business to Business (B2B)
         </li>
         <li>
-        Direct to Consumer (D2C)
+        - Direct to Consumer (D2C)
         </li>
         <li>
-        Consumer to Consumer (C2C)
+        - Consumer to Consumer (C2C)
         </li>
         <li>
-        Consumer to Business (C2B)
+        - Consumer to Business (C2B)
         </li>
        </ul>
         </Col>

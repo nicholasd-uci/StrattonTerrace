@@ -31,12 +31,14 @@ function Nonprofit() {
         What Is Non Profit Advertising?
         </h4>
         <p className="Nonprofit__p">
-        501(c)(3) nonprofit organizations can now maximize their AdWords results for free! Our experienced team has gone through this process many times and understand what it takes to get approval, 
-        achieve success with Google Grantees, as well as help qualified 501 (that's you!) apply. Did ya’ll know that your non profit qualifies at $10k per month? 
-        That means if they sign up today under "FREE" then tomorrow morning when we log back into our account there will be no strings attached 
-        other than those pesky levels of compliance - See how easy THAT was?! </p>
+        501(c)(3) nonprofit organizations can now maximize their AdWords results for free! Our experienced team has gone through this process many times and understands what it takes to get the approval, 
+        run the AdWords, and achieve success within Google. Did ya’ll know that your non-profit qualifies for <b>FREE AD MONEY?</b>  
+        <br></br>
+        <br></br>
+        We can help guide you through the process and make sure that you have an Ad budget that is solely for the purpose of growing your non-profit name. 
+        The money that you would have spent on ads can now be allocated elsewhere in your business.</p>
         <h4 className="Nonprofit__h4">
-        Google Ad Grants Nonprofit Advertising Program Details
+        Google Ad Grants Nonprofit Advertising Program Details:
         </h4>
         <p className="Nonprofit__p">
         Google Ad Grantees receive free advertising on Google search result pages. They participate with the following restrictions for their nonprofit advertising:
