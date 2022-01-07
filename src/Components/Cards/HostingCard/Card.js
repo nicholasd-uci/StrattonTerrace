@@ -32,7 +32,7 @@ function Card() {
                 </div>
                     </div>
                     <div className="card">
-                <img src={Basic_Web} alt="" className="card__img" /> 
+                <img src={Startup_web} alt="" className="card__img" /> 
 
                 <div className="card__content">
                     <div className="card__data">
@@ -55,7 +55,7 @@ function Card() {
                         </div>
                         <div className="cards__container">
                         <div className="card">
-                <img src={Basic_Web} alt="" className="card__img" /> 
+                <img src={Professional_Web} alt="" className="card__img" /> 
 
                 <div className="card__content">
                     <div className="card__data">
@@ -76,7 +76,7 @@ function Card() {
                 </div>
                     </div>
                     <div className="card">
-                <img src={Basic_Web} alt="" className="card__img" /> 
+                <img src={Business} alt="" className="card__img" /> 
 
                 <div className="card__content">
                     <div className="card__data">

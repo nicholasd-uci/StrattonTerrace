@@ -2,13 +2,9 @@ import React from 'react'
 import './Card.css'
 import Gbusiness from '../../../Assets/Images/New_card_img/G-business.png'
 import Logo_design from '../../../Assets/Images/New_card_img//Logo_design.png'
-import Athlete from '../../../Assets/Images/New_card_img//Athlete.png'
-import Basic_Web from '../../../Assets/Images/New_card_img//Basic_Web.png'
-import Startup_web from '../../../Assets/Images/New_card_img//Startup_web.png'
-import Professional_Web from '../../../Assets/Images/New_card_img//Professional_Web.png'
-import Elite from '../../../Assets/Images/New_card_img//Elite.png'
-import Corporate from '../../../Assets/Images/New_card_img//Corporate.png'
-import Business from '../../../Assets/Images/New_card_img//Business.png'
+import Non_Contract from '../../../Assets/Images/New_card_img//Non_Contract.png'
+import ORM_Program from '../../../Assets/Images/New_card_img// ORM_Program.png'
+import Private_Consultation from '../../../Assets/Images/New_card_img//Private_Consultation.png'
 
 function Card() {
     return (
@@ -58,11 +54,11 @@ function Card() {
                 </div>
                     </div>
                     <div className="card">
-                <img src={Gbusiness} alt="" className="card__img" /> 
+                <img src={Non_Contract} alt="" className="card__img" /> 
                 <div className="card__content">
                     <div className="card__data">
                          <h1 className="card__title">Non-Contract Work</h1>
-                         <span className="card__price">$125.00 / hr</span>
+                         <span className="card__price">$125.00/hr</span>
                 <ul>
                 <span 
                 style={{
@@ -80,35 +76,43 @@ function Card() {
                         </div>
                         <div className="cards__container">
                         <div className="card">
-                <img src={Gbusiness} alt="" className="card__img" /> 
+                <img src={ORM_Program} alt="" className="card__img" /> 
                 <div className="card__content">
                     <div className="card__data">
-                         <h1 className="card__title">My Google Business</h1>
-                         <span className="card__price">$200</span>
-                <ul>
-                <li>Account Setup</li>
-                <li>Analytic Page Setup</li>
-                <li>Site Setup</li>
-                <li>We will also show you how to get a professional email address.</li>
+                         <h1 className="card__title">ORM Program</h1>
+                         <span className="card__price">$250.00/hr</span>
+                         <ul>
+                <span 
+                style={{
+                color: 'rgb(168, 148, 32)',
+              }}>
+                  Don't know where to start or how to go about getting your business back on track? Call us, and we will walk you through it with a Plan of Action.  </span>
+                  <br></br>
+                  <br></br>
                 </ul>
-            <a href="https://square.link/u/nVedUB7w" target="_blank" rel="noreferrer"  className="card__button_order">ORDER</a>
+            <a href="https://square.link/u/HzFcZUQk" target="_blank" rel="noreferrer"  className="card__button_order">ORDER</a>
             <a href="facetime:16578779300" target="_blank" rel="noreferrer"  className="card__button_call">CALL US</a>
              </div>
                 </div>
                     </div>
                     <div className="card">
-                <img src={Gbusiness} alt="" className="card__img" /> 
+                <img src={Private_Consultation} alt="" className="card__img" /> 
                 <div className="card__content">
                     <div className="card__data">
-                         <h1 className="card__title">My Google Business</h1>
-                         <span className="card__price">$200</span>
-                <ul>
-                <li>Account Setup</li>
-                <li>Analytic Page Setup</li>
-                <li>Site Setup</li>
-                <li>We will also show you how to get a professional email address.</li>
+                         <h1 className="card__title">Private Consultation</h1>
+                         <span className="card__price">$250.00/hr</span>
+                         <span className="card__price">$250.00/hr</span>
+                         <ul>
+                <span 
+                style={{
+                color: 'rgb(168, 148, 32)',
+              }}>
+                  Affordable Hourly Rate. 
+We handle all of your needs with an hourly consultation fee.  </span>
+                  <br></br>
+                  <br></br>
                 </ul>
-            <a href="https://square.link/u/nVedUB7w" target="_blank" rel="noreferrer"  className="card__button_order">ORDER</a>
+            <a href="https://square.link/u/6qEoudGM" target="_blank" rel="noreferrer"  className="card__button_order">ORDER</a>
             <a href="facetime:16578779300" target="_blank" rel="noreferrer"  className="card__button_call">CALL US</a>
              </div>
                 </div>
