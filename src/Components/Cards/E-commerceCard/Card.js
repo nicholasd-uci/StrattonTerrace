@@ -15,22 +15,21 @@ function Card() {
                 <img src={eCommerce} alt="" className="card__img" /> 
                 <div className="card__content">
                     <div className="card__data">
-                         <h1 className="card__title">Editor-X</h1>
-                         <span className="card__price">$3,199.00</span>
+                         <h1 className="card__title">Wix Ecommerce</h1>
+                         <span className="card__price">$1,550.00</span>
                 <ul>
                 <li>This is a completely scaled website</li>
+                <li><b>5</b> Pages Website</li>
                 <li>Front-End</li>
-                <li>Back-End</li>
-                <li>SEO & Marketing</li>
+                <li>Back-End With <b>10 Products</b></li>
+                <li>Basic SEO</li>
                 <li>Plug-In Installation</li>
-                <li>My Google Business</li>
-                <li>8 Pages Website</li>
                 <li 
               style={{
                 fontSize: '10px',
                 paddingBottom: '5px'
               }}>
-                Requests by clients can be handled as needed</li>
+                *Mobile Responsive will be an Additional $200</li>
                 </ul>
             <a href="https://square.link/u/XnVMOGEl" target="_blank" rel="noreferrer"  className="card__button_order">ORDER</a>
             <a href="facetime:16578779300" target="_blank" rel="noreferrer"  className="card__button_call">CALL US</a>
@@ -41,21 +40,21 @@ function Card() {
                 <img src={Shopify} alt="" className="card__img" /> 
                 <div className="card__content">
                     <div className="card__data">
-                         <h1 className="card__title">Shopify</h1>
-                         <span className="card__price">$$2,100.00</span>
+                         <h1 className="card__title">Shopify Ecommerce</h1>
+                         <span className="card__price">$1,450.00</span>
                 <ul>
-                <li>This is a complete scaled website. </li>
+                <li>This is a completely scaled website</li>
+                <li><b>5</b> Pages Website</li>
                 <li>Front-End</li>
-                <li>Back-End</li>
-                <li>Site SEO & Training</li>
+                <li>Back-End <b>10 Products</b></li>
+                <li>Basic SEO</li>
                 <li>Plug-In Installation</li>
-                <li>5 Pages Website</li>
                 <li 
               style={{
                 fontSize: '10px',
                 paddingBottom: '5px'
               }}>
-                Requests by clients can be handled as needed</li>
+                *Mobile Responsive will be an Additional $200</li>
                 </ul>
             <a href="https://square.link/u/R2Ggk1S4" target="_blank" rel="noreferrer"  className="card__button_order">ORDER</a>
             <a href="facetime:16578779300" target="_blank" rel="noreferrer"  className="card__button_call">CALL US</a>
@@ -66,17 +65,21 @@ function Card() {
                 <img src={WIX} alt="" className="card__img" /> 
                 <div className="card__content">
                     <div className="card__data">
-                         <h1 className="card__title">WIX Professional</h1>
-                         <span className="card__price">$1,995.00</span>
+                         <h1 className="card__title">WordPress Ecommerce</h1>
+                         <span className="card__price">$1,875.00</span>
                 <ul>
-                <li>Redesign 5-Page Website</li>
-                <li>Front-End Redesign</li>
-                <li>Back End Setup: </li>
-                <li>Automation, Checkout, Shipping & Taxes</li>
-                <li>Plug-In Installation & setup</li>
-                <li>25 Products & SEO</li>
-                <li>AdvanceSite SEO</li>
-                <li>My Google Business Setup</li>
+                <li>This is a completely scaled website</li>
+                <li><b>5</b> Pages Website</li>
+                <li>Front-End</li>
+                <li>Back-End <b>10 Products</b></li>
+                <li>Basic SEO</li>
+                <li>Plug-In Installation</li>
+                <li 
+              style={{
+                fontSize: '10px',
+                paddingBottom: '5px'
+              }}>
+                *Mobile Responsive will be an Additional $200</li>
                 </ul>
             <a href="https://square.link/u/uaBHyRdT" target="_blank" rel="noreferrer"  className="card__button_order">ORDER</a>
             <a href="facetime:16578779300" target="_blank" rel="noreferrer"  className="card__button_call">CALL US</a>
@@ -89,15 +92,23 @@ function Card() {
                 <img src={WIXRevamp} alt="" className="card__img" /> 
                 <div className="card__content">
                     <div className="card__data">
-                         <h1 className="card__title">WIX Revamp</h1>
-                         <span className="card__price">$1,300.00</span>
+                         <h1 className="card__title">Wix Editor-X</h1>
+                         <span className="card__price">$2,999.00</span>
                 <ul>
-                <li>Redesign 3-Page Website</li>
-                <li>Front-End Redesign</li>
-                <li>Back End Setup</li>
+                <li>This is a completely scaled website</li>
+                <li><b>7</b> Pages Website</li>
+                <li>Front-End Design</li>
+                <li>Full Back-End Setup </li>
                 <li>Automation, Checkout, Shipping & Taxes</li>
-                <li>12 Products & SEO</li>
-                <li>Basic Site SEO</li>
+                <li><b>20 Products</b> & SEO</li>
+                <li>Advance Site SEO</li>
+                <li>Plug-In Installation & Google Analytics Setup</li>
+                <li 
+              style={{
+                fontSize: '10px',
+                paddingBottom: '5px'
+              }}>
+                *Mobile Responsive Included</li>
                 </ul>
             <a href="https://square.link/u/2tgcKKi4" target="_blank" rel="noreferrer"  className="card__button_order">ORDER</a>
             <a href="facetime:16578779300" target="_blank" rel="noreferrer"  className="card__button_call">CALL US</a>
@@ -108,18 +119,23 @@ function Card() {
                 <img src={Start_up} alt="" className="card__img" /> 
                 <div className="card__content">
                     <div className="card__data">
-                         <h1 className="card__title">WIX Start-up</h1>
-                         <span className="card__price">$700.00</span>
+                         <h1 className="card__title">Shopify Pro</h1>
+                         <span className="card__price">$2,199.00</span>
                 <ul>
-                <li>3-Page Website</li>
+                <li>This is a completely scaled website</li>
+                <li><b>7</b> Pages Website</li>
                 <li>Front-End Design</li>
-                <li>5 Products & SEO</li>
+                <li>Full Back-End Setup </li>
+                <li>Automation, Checkout, Shipping & Taxes</li>
+                <li><b>20 Products</b> & SEO</li>
+                <li>Advance Site SEO</li>
+                <li>Plug-In Installation & Google Analytics Setup</li>
                 <li 
               style={{
                 fontSize: '10px',
                 paddingBottom: '5px'
               }}>
-                This does not Include Mobile Response</li>
+                *Mobile Responsive Included</li>
                 </ul>
             <a href="https://square.link/u/BZKelDGr" target="_blank" rel="noreferrer"  className="card__button_order">ORDER</a>
             <a href="facetime:16578779300" target="_blank" rel="noreferrer"  className="card__button_call">CALL US</a>
@@ -130,22 +146,23 @@ function Card() {
                 <img src={WordPress} alt="" className="card__img" /> 
                 <div className="card__content">
                     <div className="card__data">
-                         <h1 className="card__title">WordPress</h1>
-                         <span className="card__price">$$3,499.00</span>
+                         <h1 className="card__title">WordPress Pro</h1>
+                         <span className="card__price">$3,299.00</span>
                 <ul>
                 <li>This is a completely scaled website</li>
-                <li>Front-End</li>
-                <li>Back-End</li>
-                <li>SEO & Marketing</li>
-                <li>Plug-In Installation</li>
-                <li>My Google Business</li>
-                <li>10 Pages Website</li>
+                <li><b>7</b> Pages Website</li>
+                <li>Front-End Design</li>
+                <li>Full Back-End Setup </li>
+                <li>Automation, Checkout, Shipping & Taxes</li>
+                <li><b>20 Products</b> & SEO</li>
+                <li>Advance Site SEO</li>
+                <li>Plug-In Installation & Google Analytics Setup</li>
                 <li 
               style={{
                 fontSize: '10px',
                 paddingBottom: '5px'
               }}>
-                Requests by clients can be handled as needed</li>
+                *Mobile Responsive Included</li>
                 </ul>
             <a href="https://square.link/u/XhQuXBCv" target="_blank" rel="noreferrer"  className="card__button_order">ORDER</a>
             <a href="facetime:16578779300" target="_blank" rel="noreferrer"  className="card__button_call">CALL US</a>
