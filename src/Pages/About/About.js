@@ -85,7 +85,6 @@ function About () {
       </div>
       <div className="profile">
         <img  src={Jack} className="profile-img" alt="Jack O'Brien" />
-
         <h3 className="user-name">Jack O'Brien</h3>
         <h5>Account Manager & Sales Representative</h5>
         <p>Jack O'Brien is an account manager and sales representative from Boston, Massachusetts. Alongside founder Nicholas Dallas, he attended and played Lacrosse at Regis College. 
