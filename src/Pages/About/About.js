@@ -4,7 +4,9 @@ import Nicholas from '../../Assets/OurTeam/Nicholas.png'
 import Lawrence from '../../Assets/OurTeam/Lawrence.jpg'
 import Jack from '../../Assets/OurTeam/OBrien_Jack.png'
 import Abby from '../../Assets/OurTeam/Abby_Hulshof.jpeg'
-import Member from '../../Assets/OurTeam/Team_member.png'
+// import Member from '../../Assets/OurTeam/Team_member.png'
+import Vincent  from '../../Assets/OurTeam/vincent bio.png'
+
 
 function About () {
   return (
@@ -46,22 +48,21 @@ function About () {
       </div>
     </div>
   </div>
+  
   <div className="About__container">
     <div className="profiles">
-    <div className="profile">
-        <img  src={Jack} className="profile-img" alt="Jack O'Brien" />
-
-        <h3 className="user-name">Jack O'Brien</h3>
-        <h5>Account Manager & Sales Representative</h5>
-        <p>Jack O'Brien is an account manager and sales representative from Boston, Massachusetts. Alongside founder Nicholas Dallas, he attended and played Lacrosse at Regis College. 
-          Earning a major in Business Management with a minor in international relations. Moving on to obtain his M.B.A from Piedmont College in Northeast, GA. 
-          Jack has worked in a multitude of fields spending his last few years working in politics, sales, and as a head coach in collegiate lacrosse.</p>
+   
+      <div className="profile">
+        <img  src={Vincent} className="profile-img" alt="Vincent Mark Remollo"/>
+        <h3 className="user-name">Vincent Mark Remollo</h3>
+        <h5>Graphic Designer</h5>
+        <p>Vincent Mark Remollo is a Graphic Designer</p>
         <div ClassName="About__social">
-        <a href='https://www.linkedin.com/in/jack-o-brien-351619133' target='_blank' rel="noreferrer"  className='p-2 fa-lg li-ic'>
-                <i className="fab fa-linkedin-in"></i>
+                <a href='https://www.linkedin.com/company/stratton-terrace-marketing/' target='_blank' rel="noreferrer"  className='p-2 fa-lg li-ic'>
+                <i class="fab fa-linkedin-in"></i>
                 </a>
-                <a href='mailto:jack@strattonterrace.com' target='_blank' rel="noreferrer"  className='p-2 fa-lg email-ic'>
-                <i className="far fa-envelope"></i>
+                <a href='mailto:Vincentmarkremollo135@gmail.com' target='_blank' rel="noreferrer"  className='p-2 fa-lg email-ic'>
+                <i class="far fa-envelope"></i>
                 </a>
                 </div>
       </div>
@@ -83,16 +84,19 @@ function About () {
                 </div>
       </div>
       <div className="profile">
-        <img  src={Member} className="profile-img" alt="Pat Downer"/>
-        <h3 className="user-name">Pat Downer</h3>
-        <h5>Website Designer</h5>
-        <p>Pat Downer is a Website Designer</p>
+        <img  src={Jack} className="profile-img" alt="Jack O'Brien" />
+
+        <h3 className="user-name">Jack O'Brien</h3>
+        <h5>Account Manager & Sales Representative</h5>
+        <p>Jack O'Brien is an account manager and sales representative from Boston, Massachusetts. Alongside founder Nicholas Dallas, he attended and played Lacrosse at Regis College. 
+          Earning a major in Business Management with a minor in international relations. Moving on to obtain his M.B.A from Piedmont College in Northeast, GA. 
+          Jack has worked in a multitude of fields spending his last few years working in politics, sales, and as a head coach in collegiate lacrosse.</p>
         <div ClassName="About__social">
-                <a href='https://www.linkedin.com' target='_blank' rel="noreferrer"  className='p-2 fa-lg li-ic'>
-                <i class="fab fa-linkedin-in"></i>
+        <a href='https://www.linkedin.com/in/jack-o-brien-351619133' target='_blank' rel="noreferrer"  className='p-2 fa-lg li-ic'>
+                <i className="fab fa-linkedin-in"></i>
                 </a>
-                <a href='mailto:pat.downer85@gmail.com' target='_blank' rel="noreferrer"  className='p-2 fa-lg email-ic'>
-                <i class="far fa-envelope"></i>
+                <a href='mailto:jack@strattonterrace.com' target='_blank' rel="noreferrer"  className='p-2 fa-lg email-ic'>
+                <i className="far fa-envelope"></i>
                 </a>
                 </div>
       </div>
