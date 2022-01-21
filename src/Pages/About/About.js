@@ -4,7 +4,7 @@ import Nicholas from '../../Assets/OurTeam/Nicholas.png'
 import Lawrence from '../../Assets/OurTeam/Lawrence.jpg'
 import Jack from '../../Assets/OurTeam/OBrien_Jack.png'
 import Abby from '../../Assets/OurTeam/Abby_Hulshof.jpeg'
-// import Member from '../../Assets/OurTeam/Team_member.png'
+import Member from '../../Assets/OurTeam/Team_member.png'
 import Vincent  from '../../Assets/OurTeam/vincent bio.png'
 
 
@@ -13,11 +13,9 @@ function About () {
     <div className='About'>
             <div className="About__container">
     <h1 className="heading"><span style={{color:'gold'}}>meet</span>Our Team</h1>
-
     <div className="profiles">
       <div className="profile">
         <img  src={Nicholas} className="profile-img" alt="Nicholas P. R. Dallas"/>
-
         <h3 className="user-name">Nicholas P. R. Dallas</h3>
         <h5>CEO and founder</h5>
         <p>Nicholas Dallas is the founder of STM LLC. However, he is also blessed to own a California-registered 501(c)3 non-profit - Huntington Beach Lacrosse Club. Nicholas holds a Global Business Management degree and a minor in Economics from Regis College in Weston, MA. He is also a Full Stack Web Developer and loves helping business owners achieve self-growth.
@@ -48,10 +46,22 @@ function About () {
       </div>
     </div>
   </div>
-  
   <div className="About__container">
     <div className="profiles">
-   
+    <div className="profile">
+        <img  src={Member} className="profile-img" alt="Mitchell Dallas"/>
+        <h3 className="user-name">Mitchell Dallas</h3>
+        <h5>Account Manager & Sales Representative</h5>
+        <p>Mitchell Dallas is an account manager and sales representative from Huntington Beach, CA. </p>
+        <div ClassName="About__social">
+                <a href='https://www.linkedin.com/in/mitchell-dallas-70b7a997/' target='_blank' rel="noreferrer"  className='p-2 fa-lg li-ic'>
+                <i class="fab fa-linkedin-in"></i>
+                </a>
+                <a href='mailto:Mitchell@gmail.com' target='_blank' rel="noreferrer"  className='p-2 fa-lg email-ic'>
+                <i class="far fa-envelope"></i>
+                </a>
+                </div>
+      </div>
       <div className="profile">
         <img  src={Vincent} className="profile-img" alt="Vincent Mark Remollo"/>
         <h3 className="user-name">Vincent Mark Remollo</h3>
@@ -83,6 +93,10 @@ function About () {
                 </a>
                 </div>
       </div>
+    </div>
+  </div>
+  <div className="About__container">
+    <div className="profiles">
       <div className="profile">
         <img  src={Jack} className="profile-img" alt="Jack O'Brien" />
         <h3 className="user-name">Jack O'Brien</h3>
@@ -94,7 +108,21 @@ function About () {
         <a href='https://www.linkedin.com/in/jack-o-brien-351619133' target='_blank' rel="noreferrer"  className='p-2 fa-lg li-ic'>
                 <i className="fab fa-linkedin-in"></i>
                 </a>
-                <a href='mailto:jack@strattonterrace.com' target='_blank' rel="noreferrer"  className='p-2 fa-lg email-ic'>
+                <a href='mailto:info@strattonterrace.com' target='_blank' rel="noreferrer"  className='p-2 fa-lg email-ic'>
+                <i className="far fa-envelope"></i>
+                </a>
+                </div>
+      </div>
+      <div className="profile">
+        <img  src={Member} className="profile-img" alt="Chris Campbell" />
+        <h3 className="user-name">Chris Campbell</h3>
+        <h5>Account Manager</h5>
+        <p></p>
+        <div ClassName="About__social">
+        <a href='https://www.linkedin.com/in/boxwoodchris/' target='_blank' rel="noreferrer"  className='p-2 fa-lg li-ic'>
+                <i className="fab fa-linkedin-in"></i>
+                </a>
+                <a href='mailto:info@strattonterrace.com' target='_blank' rel="noreferrer"  className='p-2 fa-lg email-ic'>
                 <i className="far fa-envelope"></i>
                 </a>
                 </div>
@@ -102,6 +130,8 @@ function About () {
     </div>
   </div>
   </div>
+
+  
   )
 }
 
@@ -110,6 +140,5 @@ function About () {
 export default About
   
 // <h4>Brendan Ryan</h4>Account Manager
-// <h4>Chris Campbell</h4>Account Manager
 // <h4>Nicholas Romig</h4>Sales Director
 // <h4>Vincent Mark</h4>Graphic Designer

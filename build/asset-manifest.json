@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.59a62d59.chunk.css",
-    "main.js": "/static/js/main.db333199.chunk.js",
-    "main.js.map": "/static/js/main.db333199.chunk.js.map",
+    "main.js": "/static/js/main.833732fa.chunk.js",
+    "main.js.map": "/static/js/main.833732fa.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.ebbb2a6f.js",
     "runtime-main.js.map": "/static/js/runtime-main.ebbb2a6f.js.map",
     "static/js/2.8ba4cce0.chunk.js": "/static/js/2.8ba4cce0.chunk.js",
@@ -61,7 +61,6 @@
     "static/media/Social1.a5189b9e.png": "/static/media/Social1.a5189b9e.png",
     "static/media/SocialMedia.9692adcf.png": "/static/media/SocialMedia.9692adcf.png",
     "static/media/Startup_web.e70871ef.png": "/static/media/Startup_web.e70871ef.png",
-    "static/media/Team_member.5bd279d5.png": "/static/media/Team_member.5bd279d5.png",
     "static/media/WEBSITE-HOSTING-Text.4db0a49e.png": "/static/media/WEBSITE-HOSTING-Text.4db0a49e.png",
     "static/media/WIX-Professional.0ffb93cd.png": "/static/media/WIX-Professional.0ffb93cd.png",
     "static/media/WIX-Revamp.f5bbaf4f.png": "/static/media/WIX-Revamp.f5bbaf4f.png",
@@ -89,12 +88,13 @@
     "static/media/video-4a.33ccad82.mp4": "/static/media/video-4a.33ccad82.mp4",
     "static/media/video-5.b63e493e.mp4": "/static/media/video-5.b63e493e.mp4",
     "static/media/video-7.d5e4839f.mp4": "/static/media/video-7.d5e4839f.mp4",
+    "static/media/vincent bio.4af25c50.png": "/static/media/vincent bio.4af25c50.png",
     "static/media/website.192a80ff.png": "/static/media/website.192a80ff.png"
   },
   "entrypoints": [
     "static/js/runtime-main.ebbb2a6f.js",
     "static/js/2.8ba4cce0.chunk.js",
     "static/css/main.59a62d59.chunk.css",
-    "static/js/main.db333199.chunk.js"
+    "static/js/main.833732fa.chunk.js"
   ]
 }
