@@ -19,7 +19,16 @@ const Footer = () => (
                     {}
                     <a className="footer__icons" href="https://twitter.com/StrattonTerrace/" target="_blank" rel="noopener noreferrer">
                     <i className="fab fa-twitter"></i>
+                    </a>  
+                    {/* {}
+                    <a className="footer__icons" href="https://www.tiktok.com/@strattonterracemarketing?lang=en" target="_blank" rel="noopener noreferrer">
+                    <i className="fab fa-tiktok"></i>
+                    </a> */}
+                    {}
+                    <a className="footer__icons" href="https://www.linkedin.com/company/stratton-terrace-marketing/" target="_blank" rel="noopener noreferrer">
+                    <i className="fab fa-linkedin"></i>
                     </a>
+                
                 </ul>
    <span className="copyright"rel="noopener noreferrer">COPYRIGHT © 2021 Stratton Terrace Marketing, LLC - ALL RIGHTS RESERVED.</span>
 

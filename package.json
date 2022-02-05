@@ -4,6 +4,7 @@
   "private": true,
   "dependencies": {
     "@babel/helper-compilation-targets": "^7.16.3",
+    "@fortawesome/fontawesome-free": "^5.15.4",
     "@react-spring/parallax": "^9.1.2",
     "@testing-library/jest-dom": "^5.11.4",
     "@testing-library/react": "^11.1.0",
@@ -35,6 +36,7 @@
     "web-vitals": "^1.0.1"
   },
   "scripts": {
+<<<<<<< HEAD
 
     "start": "react-scripts --openssl-legacy-provider start",
     "build": "react-scripts --openssl-legacy-provider build",
@@ -44,6 +46,13 @@
 
 
 
+=======
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+>>>>>>> fe457b5558bb8b0e3c00608ac24ad648f118274d
   "eslintConfig": {
     "extends": [
       "react-app",
