@@ -9,6 +9,7 @@
     "eject": "react-scripts eject"
   },
 
+<!-- Dallas Mac -->
         "scripts": {
 
     "start": "react-scripts --openssl-legacy-provider start",
