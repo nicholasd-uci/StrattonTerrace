@@ -36,7 +36,6 @@
     "web-vitals": "^1.0.1"
   },
   "scripts": {
-<<<<<<< HEAD
 
     "start": "react-scripts --openssl-legacy-provider start",
     "build": "react-scripts --openssl-legacy-provider build",
@@ -44,15 +43,6 @@
     "eject": "react-scripts eject"
   },
 
-
-
-=======
-    "start": "react-scripts start",
-    "build": "react-scripts build",
-    "test": "react-scripts test",
-    "eject": "react-scripts eject"
-  },
->>>>>>> fe457b5558bb8b0e3c00608ac24ad648f118274d
   "eslintConfig": {
     "extends": [
       "react-app",
