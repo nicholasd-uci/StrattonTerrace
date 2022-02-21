@@ -136,13 +136,13 @@ function About () {
   <div className="About__container">
     <div className="profiles">
       <div className="profile">
-        <img  src={Jack} className="profile-img" alt="Nicholas Romig" />
+        <img  src={Member} className="profile-img" alt="Nicholas Romig" />
         <h3 className="user-name">Nicholas Romig</h3>
         <h5>Personal Consultant</h5>
         <p>JNicholas Romig is an personal consultant from Huntington Beach, California.
           Nicholas Romig specialty is business insurance and protecting your assets. He can assist you in setting up your business liability as well as your worker's compensation. </p>
         <div ClassName="About__social">
-        <a href='https://www.linkedin.com/in/jack-o-brien-351619133' target='_blank' rel="noreferrer"  className='p-2 fa-lg li-ic'>
+        <a href='https://www.linkedin.com/in/nicholas-romig-1845b813b/' target='_blank' rel="noreferrer"  className='p-2 fa-lg li-ic'>
                 <i className="fab fa-linkedin-in"></i>
                 </a>
                 <a href='mailto:info@strattonterrace.com' target='_blank' rel="noreferrer"  className='p-2 fa-lg email-ic'>
@@ -159,10 +159,10 @@ function About () {
             Create web and print ads, flyers, booklets, and brochures using photoshop and indesign platforms. Kevin
             is our core strategist when it comes to helping clients get on track.</p>
         <div ClassName="About__social">
-        <a href='' target='_blank' rel="noreferrer"  className='p-2 fa-lg li-ic'>
+        <a href='https://www.linkedin.com/company/stratton-terrace-marketing' target='_blank' rel="noreferrer"  className='p-2 fa-lg li-ic'>
                 <i className="fab fa-linkedin-in"></i>
                 </a>
-                <a href='' target='_blank' rel="noreferrer"  className='p-2 fa-lg email-ic'>
+                <a href='mailto:info@strattonterrace.com' target='_blank' rel="noreferrer"  className='p-2 fa-lg email-ic'>
                 <i className="far fa-envelope"></i>
                 </a>
                 </div>
@@ -178,7 +178,3 @@ function About () {
 
 
 export default About
-  
-// <h4>Brendan Ryan</h4>Account Manager
-// <h4>Nicholas Romig</h4>Sales Director
-// <h4>Vincent Mark</h4>Graphic Designer

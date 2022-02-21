@@ -36,32 +36,6 @@ function Ads() {
           <br></br>
           Call us today and take advantage of our team's knowledge! 
           </p>
-          {/* <h4 className="Ads__h4">
-          Types of digital advertising
-          </h4>
-          <h4 className="Ads__h4">
-          Companies can also take advantage of digital advertising on Ads media networks, which include:
-          </h4>
-          <ul className='Ads__ul'>
-        <li>
-        Facebook
-        </li>
-        <li>
-        Instagram
-        </li>
-        <li>
-        LinkedIn
-        </li>
-        <li>
-        Twitter
-        </li>
-        <li>
-        Pinterest
-        </li>
-        <li>
-        TikTok
-        </li>
-       </ul> */}
         </Col>
         </Row>
         <Card />
