@@ -156,7 +156,7 @@ function About () {
         <h5>Digital Marketing Specialist</h5>
         <p> Kevin Mehler manages production schedule; including newsletters, ad creatives, ad buys,
             website updates, outdoor banner upkeep, and printed collateral pieces
-            Create web and print ads, flyers, booklets, and brochures using photoshop and indesign platforms. Kevin
+            Create web and print ads, flyers, booklets, and brochures using photoshop and in design platforms. Kevin
             is our core strategist when it comes to helping clients get on track.</p>
         <div ClassName="About__social">
         <a href='https://www.linkedin.com/company/stratton-terrace-marketing' target='_blank' rel="noreferrer"  className='p-2 fa-lg li-ic'>
