@@ -21,7 +21,7 @@ function Portfolio() {
         name: 'Clipper Aviation',
         industry: 'Aviation',
         description: 'Clipper Aviation is a Flight school Located in Van Nuys airport.',
-        site: 'https://www.clipperaviation.com//',
+        site: 'https://www.clipperaviation.com/',
         image: Aviation
       },
       {
@@ -43,14 +43,14 @@ function Portfolio() {
         name: 'NovaXS Biotech',
         industry: 'Medical',
         description: 'NovaXS Biotech is a smart medical device startup focused on advanced drug delivery and users’ long-term health. Our patent-pending technology, Telosis, is your one-stop destination to predict, prevent, and manage chronic conditions.',
-        site: 'https://www.novaxs.co/',
+        site: 'https://www.novaxs.co',
         image: Nova
       },
       {
         name: 'ADC Window Washers',
         industry: 'Cleaning Services',
         description: 'Est. in Oakland CA. We offer professional window cleaning services, pressure washing, gutter cleaning, and solar panel cleaning. Eco-friendly, honest, and attentive to detail.',
-        site: 'https://www.adcwindowwashers.com/',
+        site: 'https://www.adcwindowwashers.com',
         image: ADC
       },
     
@@ -65,14 +65,14 @@ function Portfolio() {
         name: 'Off-Roaders',
         industry: 'Car Part Ecommerce Store',
         description: 'Off-Roaders LLC is a family owned off-road company. Whether it’s lifted trucks, Jeeps, or utility vehicles, we strive to bring you the best parts on the market for your rig. We want to make you happy knowing you got a quality product.',
-        site: 'https://www.offroaderparts.com//',
+        site: 'https://www.offroaderparts.com',
         image: OffRoaders
       },   
       {
         name: 'Coast Automotive',
         industry: 'Automotive',
         description: 'Coast Automotive is an auto repair shop in Costa Mesa, CA. In business for more than 20 years, they are a one-stop shop for automotive repairs and body work',
-        site: 'https://www.coastautomotiveperformance.com/',
+        site: 'https://www.coastautomotiveperformance.com',
         image: CoastAutomotive
       },
     ]
