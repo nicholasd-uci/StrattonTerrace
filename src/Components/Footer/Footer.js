@@ -4,6 +4,15 @@ import './Footer.css'
 
 const Footer = () => (
     <div className="footer">
+
+<div className="footer-dark">
+         <div className="col item social">
+            <a href="facetime:16578779300" target="_blank"><i className="fa fa-phone fa-flip-horizontal" ></i></a>
+            <a href='https://calendly.com/strattonterrace/30min' target="_blank"><i className="fa fa-calendar" ></i></a>
+            <a href="mailto:info@strattonterrace.com" target="_blank"><i className="fa fa-envelope icon" ></i></a>
+                
+                </div>
+                </div>
                 <ul className="icon-bar">
                     <a className="footer__icons" href="https://www.instagram.com/strattonterrace/"target="_blank" rel="noopener noreferrer">
                     <i className="fab fa-instagram"></i>
