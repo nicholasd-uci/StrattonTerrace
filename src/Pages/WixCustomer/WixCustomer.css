@@ -33,6 +33,15 @@ main {
   justify-content: space-around;
   }
 
+  .WixCustomer__row__1{
+    justify-content: space-around;
+  }
+
+  .wix__logo{
+    max-width: 30%;
+    padding-bottom:3%;
+  }
+
 
 .WixCustomer-container {
   margin: 0;

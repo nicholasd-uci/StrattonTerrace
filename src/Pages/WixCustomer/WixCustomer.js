@@ -2,6 +2,8 @@ import React from 'react'
 import { Row, Col, Button } from 'reactstrap'
 import './WixCustomer.css'
 import Video6 from '../../Assets/videos/video-6.mp4'
+import Logo  from '../../Assets/Logo/WixLogo.png'
+
 
 
 function WixCustomer() {
@@ -31,8 +33,14 @@ function WixCustomer() {
     
           <div className='backgroundFilter'>
             <div className='clients'>
+            <Row className='WixCustomer__row__1'>
+            <img  src={Logo} className="wix__logo" alt="Logo"/>
+              </Row>
               <Row className='WixCustomer__row__2'>
-              <h1 className="WixCustomer__h1">Skip the wait and call now! </h1>
+              <h1 className="WixCustomer__h1">Skip The Wait And Call Now! </h1>
+              </Row>
+              <Row className='WixCustomer__row__1'>
+      
               </Row>
               
             </div>
