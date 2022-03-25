@@ -16,6 +16,7 @@ import Nonprofit from './SubPages/Nonprofit/Nonprofit'
 import Orm from './SubPages/Orm/Orm'
 import Seo from './SubPages/Seo/Seo'
 import Social from './SubPages/Social/Social'
+import WixCustomer from './Pages/WixCustomer/WixCustomer'
 
 
 const TRACKING_ID = "UA-210092694-1"; // Tracking ID for google analytics.
@@ -30,8 +31,10 @@ function App () {
         <div className='App__background'>
           <Switch>
             <Route path='/' exact component={Home} />
+            
             <Route path='/solutions' exact component={Solutions} />
             <Route path='/portfolio' exact component={Portfolio} />
+            <Route path='/wix-customer' exact component={WixCustomer} />
             <Route path='/about' exact component={About} />
             <Route path='/contact' exact component={Contact} />
             <Route path='/ADS' exact component={ADS} />

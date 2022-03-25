@@ -26,9 +26,9 @@
     text-align:center;
     overflow: hidden;
     border-radius:50%;
-    box-shadow:0 0 0 1px rgba(255,255,255,0.4);
+    box-shadow:0 0 0 1px rgb(255, 255, 255);
     margin: 40px 20px;
-    color:#fff;
+    color:#fafafa;
     opacity:0.75;
     transition: .5s;
     transform: scale(.9);
