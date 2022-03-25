@@ -29,9 +29,13 @@ const Header = (props) => {
             <NavItem>
               <NavLink href='/contact'>Contact</NavLink>
             </NavItem>
-            <NavLink href='https://calendly.com/strattonterrace/30min' target='_blank' alt='Button' ><button id='header__button'>
-              Book a consultation</button>
+            <NavLink href="facetime:16578779300" target='_blank' alt='Button' ><button id='header__button'>
+             Call now</button>
               </NavLink>
+            <NavLink href='https://calendly.com/strattonterrace/30min' target='_blank' alt='Button' ><button id='header__button'>
+             Consultation</button>
+              </NavLink>
+             
           </Nav>
         </Collapse>
       </Navbar>
