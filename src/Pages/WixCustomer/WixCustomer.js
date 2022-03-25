@@ -1,5 +1,5 @@
 import React from 'react'
-import { Row, Col, Button } from 'reactstrap'
+import { Row, Col } from 'reactstrap'
 import './WixCustomer.css'
 import Video6 from '../../Assets/videos/video-6.mp4'
 import Logo  from '../../Assets/Logo/WixLogo.png'
@@ -39,8 +39,13 @@ function WixCustomer() {
               <Row className='WixCustomer__row__2'>
               <h1 className="WixCustomer__h1">Skip The Wait And Call Now! </h1>
               </Row>
-              <Row className='WixCustomer__row__1'>
-      
+              <Row className='WixCustomer__row__3'>
+              <Col href="facetime:16578779300" target='_blank' alt='Button' ><button id='wix_button'>
+             Call Us</button>
+              </Col>
+            <Col href='https://calendly.com/strattonterrace/30min' target='_blank' alt='Button' ><button id='wix_button'>
+             Email Us</button>
+              </Col>
               </Row>
               
             </div>
